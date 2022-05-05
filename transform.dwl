@@ -25,4 +25,4 @@ fun progressBar(percent) = {
 }
 
 ---
-svg: traverse(svg, [])
+traverse(svg, [])
