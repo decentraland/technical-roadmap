@@ -1,3 +1,3 @@
 # Decentraland Technical Roadmap
 
-<img src="./output.svg">
+<img src="./roadmap.excalidraw.svg">
