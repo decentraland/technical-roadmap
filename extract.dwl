@@ -29,7 +29,7 @@ var requests = issues map {
 }
 
 fun getPending(lines: Array<String>) = lines filter ($ contains "- [ ]")
-fun getFinished(lines: Array<String>) = lines filter ($ contains "- [x]")
+fun getFinished(lines: Array<String>) = lines filter (($ contains "- [x]") or ($ contains "- [X]"))
 
 fun getInfoFromIssueOrPr(issueOrPr) = do {
   var body = issueOrPr.response.body.body
