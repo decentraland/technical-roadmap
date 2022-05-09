@@ -24,5 +24,9 @@ install:
 	@# move protoc to /usr/local/bin/
 	chmod +x $(DW)
 
-process-svg: roadmap.excalidraw.svg transform.dwl
-	@DW_HOME=$(DW_HOME) $(DW) --input svg roadmap.excalidraw.svg -f transform.dwl -o ./output.svg
+build: roadmap.excalidraw.svg transform.dwl raw-data.dwl
+	@mkdir -p docs || true
+	@DW_HOME=$(DW_HOME) $(DW) --input svg roadmap.excalidraw.svg --input data raw-data.dwl -f transform.dwl -o ./docs/output.svg
+
+raw-data.dwl: extract.dwl
+	@DW_HOME=$(DW_HOME) $(DW) --input svg roadmap.excalidraw.svg -f extract.dwl -o ./raw-data.dwl
