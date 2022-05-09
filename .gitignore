@@ -17,5 +17,5 @@ node_modules/
 npm-debug.log
 dw-cli
 
-docs
+docs/output.svg
 raw-data.dwl
