@@ -39,7 +39,7 @@ fun progressBar(key, result) = do {
 
 fun progressBarSlug(key, slug) = data.state[slug] match {
   case obj is Object -> progressBar(key, data.state[slug])
-  else -> progressBar(0)
+  else -> progressBar(0, {completion: 0, slug: slug, link: ""})
 }
 
 ---

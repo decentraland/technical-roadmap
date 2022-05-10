@@ -33,7 +33,7 @@ fun getFinished(lines: Array<String>) = lines filter (($ contains "- [x]") or ($
 
 fun getInfoFromIssueOrPr(issueOrPr) = do {
   var body = issueOrPr.response.body.body
-  var lines = dw::core::Strings::lines(body)
+  var lines = dw::core::Strings::lines(body default "")
   var empty = getPending(lines)
   var finished = getFinished(lines)
   var countEmpty = sizeOf(empty)
