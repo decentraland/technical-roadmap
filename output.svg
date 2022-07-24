@@ -1,0 +1,1332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1980 2680" width="1980" height="2680">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://file%2B.vscode-resource.vscode-cdn.net/Users/user/.vscode/extensions/pomdtr.excalidraw-editor-3.0.1/public//dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://file%2B.vscode-resource.vscode-cdn.net/Users/user/.vscode/extensions/pomdtr.excalidraw-editor-3.0.1/public//dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1980" height="2680" fill="#ffffff"/>
+  <g stroke-linecap="round" transform="translate(10 70) rotate(0 570 370)">
+    <path d="M0 0 C280.3 0, 560.61 0, 1140 0 M0 0 C241.98 0, 483.97 0, 1140 0 M1140 0 C1140 243.31, 1140 486.61, 1140 740 M1140 0 C1140 240.92, 1140 481.83, 1140 740 M1140 740 C692.48 740, 244.96 740, 0 740 M1140 740 C910.45 740, 680.9 740, 0 740 M0 740 C0 493.61, 0 247.21, 0 0 M0 740 C0 521.76, 0 303.53, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g stroke-linecap="round" transform="translate(1590 830) rotate(0 190 250)">
+    <path d="M0 0 C102.52 0, 205.04 0, 380 0 M0 0 C140.4 0, 280.79 0, 380 0 M380 0 C380 131.55, 380 263.11, 380 500 M380 0 C380 128.86, 380 257.72, 380 500 M380 500 C272.93 500, 165.86 500, 0 500 M380 500 C286.47 500, 192.94 500, 0 500 M0 500 C0 354.06, 0 208.12, 0 0 M0 500 C0 350.19, 0 200.38, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(30 90) rotate(0 116.5 16)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Massive scalability</text>
+  </g>
+  <g transform="translate(30 130) rotate(0 155 18)">
+    <text x="0" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Pull the plug, remove single points of failure</text>
+    <text x="0" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">enable 1M DAU, 60k concurrent users</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 510) rotate(0 100 30)">
+    <path d="M0 0 C78.08 0, 156.16 0, 200 0 M0 0 C71.54 0, 143.09 0, 200 0 M200 0 C200 22.2, 200 44.4, 200 60 M200 0 C200 21.91, 200 43.81, 200 60 M200 60 C145.36 60, 90.72 60, 0 60 M200 60 C132.27 60, 64.53 60, 0 60 M0 60 C0 40.23, 0 20.45, 0 0 M0 60 C0 41.93, 0 23.86, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 531) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Stress test content server</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 510) rotate(0 100 32)">
+    <path d="M0 0 C79.35 0, 158.71 0, 200 0 M0 0 C60.39 0, 120.78 0, 200 0 M200 0 C200 25.48, 200 50.95, 200 64 M200 0 C200 20.55, 200 41.1, 200 64 M200 64 C127.22 64, 54.45 64, 0 64 M200 64 C139.12 64, 78.24 64, 0 64 M0 64 C0 40.85, 0 17.69, 0 0 M0 64 C0 41.26, 0 18.52, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 515) rotate(0 95 27)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Optimize content server </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">storage (GC + light </text>
+    <text x="95" y="50" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">profiles)</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 430) rotate(0 100 30)">
+    <path d="M0 0 C58.59 0, 117.17 0, 200 0 M0 0 C51.64 0, 103.29 0, 200 0 M200 0 C200 22.63, 200 45.26, 200 60 M200 0 C200 15.85, 200 31.69, 200 60 M200 60 C129.78 60, 59.57 60, 0 60 M200 60 C157.29 60, 114.57 60, 0 60 M0 60 C0 46.9, 0 33.8, 0 0 M0 60 C0 38.5, 0 17, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 451) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">IPFS content sync</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 510) rotate(0 100 30)">
+    <path d="M0 0 C40.09 0, 80.18 0, 200 0 M0 0 C75.96 0, 151.91 0, 200 0 M200 0 C200 14.24, 200 28.48, 200 60 M200 0 C200 19.82, 200 39.63, 200 60 M200 60 C154.37 60, 108.74 60, 0 60 M200 60 C121.85 60, 43.7 60, 0 60 M0 60 C0 38.13, 0 16.26, 0 0 M0 60 C0 40.26, 0 20.53, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 522) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">User profile federation</text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">(platform + explorer)</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 510) rotate(0 100 30)">
+    <path d="M0 0 C61.59 0, 123.19 0, 200 0 M0 0 C73.79 0, 147.57 0, 200 0 M200 0 C200 18.59, 200 37.18, 200 60 M200 0 C200 19.96, 200 39.93, 200 60 M200 60 C148.25 60, 96.5 60, 0 60 M200 60 C156.2 60, 112.41 60, 0 60 M0 60 C0 40.23, 0 20.46, 0 0 M0 60 C0 40.74, 0 21.49, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 522) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Lightweight content </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">topology</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(230 590) rotate(0 450 100.65169906616211)">
+    <path d="M-0.03 0.34 C227.78 2.15, 455.07 1.77, 900.3 -0.44 M0.35 -0.32 C304.77 -0.67, 609.02 -0.74, 899.97 0.37 M900.94 -0.36 C898.53 63.6, 900.79 127.59, 899.62 199.7 M899.45 0.48 C901.38 49.15, 900.77 96.02, 900.85 201.13 M900.14 201.4 C664.67 203.75, 428.83 202.98, -0.7 200.73 M899.92 201.35 C550.97 200.48, 202.09 200.74, -0.35 201.47 M0.95 200.88 C-0.42 158.93, 1.26 112.6, -0.01 -0.49 M-0.43 202.2 C1.39 138.92, 0.09 77.48, -0.55 -0.36" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 610) rotate(0 100 29.17337980962077)">
+    <path d="M0 0 C77.33 0, 154.66 0, 200 0 M0 0 C54.01 0, 108.02 0, 200 0 M200 0 C200 17.42, 200 34.84, 200 58.35 M200 0 C200 16.92, 200 33.83, 200 58.35 M200 58.35 C122.53 58.35, 45.06 58.35, 0 58.35 M200 58.35 C124.13 58.35, 48.26 58.35, 0 58.35 M0 58.35 C0 45.05, 0 31.74, 0 0 M0 58.35 C0 40.2, 0 22.05, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 621.1733798096208) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Decouple comms services</text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">&amp; BFF</text>
+  </g>
+  <g transform="translate(230 770) rotate(0 47.5 9)">
+    <text x="0" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Comms track</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 690) rotate(0 100 30)">
+    <path d="M0 0 C45.24 0, 90.47 0, 200 0 M0 0 C47.53 0, 95.07 0, 200 0 M200 0 C200 17.96, 200 35.93, 200 60 M200 0 C200 18.85, 200 37.7, 200 60 M200 60 C145.79 60, 91.57 60, 0 60 M200 60 C132.81 60, 65.61 60, 0 60 M0 60 C0 40.94, 0 21.87, 0 0 M0 60 C0 39.95, 0 19.89, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 711) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">WS comms servers</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 610) rotate(0 100 30)">
+    <path d="M0 0 C77.63 0, 155.26 0, 200 0 M0 0 C48.12 0, 96.25 0, 200 0 M200 0 C200 20.97, 200 41.93, 200 60 M200 0 C200 13.9, 200 27.8, 200 60 M200 60 C148.65 60, 97.29 60, 0 60 M200 60 C134.1 60, 68.21 60, 0 60 M0 60 C0 47.26, 0 34.53, 0 0 M0 60 C0 47.26, 0 34.52, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 622) rotate(0 95 18)">
+    <text x="94.99999999999996" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">SFU &amp; WS comms </text>
+    <text x="94.99999999999996" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">provider registration</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(910.05625935287 -850.090953093712) rotate(270.0181182810606 0.1204594191195838 900.1263432884202)">
+      <path d="M0.11 0.57 C0.11 300.35, 0.92 1499.47, 1.03 1799.43 M-1.3 -0.18 C-1.46 299.67, 0.24 1500.22, 0.5 1800.54" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(910.05625935287 -850.090953093712) rotate(270.0181182810606 0.1204594191195838 900.1263432884202)">
+      <path d="M-8.85 1773.68 C-7.04 1784.01, -1.59 1794.71, 1.38 1801.3 M-10.69 1773.02 C-6.12 1780.47, -3.33 1789.16, -0.05 1800.63" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(910.05625935287 -850.090953093712) rotate(270.0181182810606 0.1204594191195838 900.1263432884202)">
+      <path d="M11.67 1773.66 C5.62 1784.02, 3.23 1794.72, 1.38 1801.3 M9.83 1773 C8.11 1780.4, 4.61 1789.1, -0.05 1800.63" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(10 10) rotate(0 20 12.5)">
+    <text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">time</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 850) rotate(0 100 30)">
+    <path d="M0 0 C69.13 0, 138.25 0, 200 0 M0 0 C66.71 0, 133.42 0, 200 0 M200 0 C200 17.61, 200 35.23, 200 60 M200 0 C200 17.04, 200 34.08, 200 60 M200 60 C150.3 60, 100.6 60, 0 60 M200 60 C144.66 60, 89.32 60, 0 60 M0 60 C0 41, 0 21.99, 0 0 M0 60 C0 39.59, 0 19.17, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 871) rotate(0 95 9)">
+    <text x="95.00000000000001" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Game servers</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(10 830) rotate(0 780 250)">
+    <path d="M0 0 C566.26 0, 1132.51 0, 1560 0 M0 0 C594.06 0, 1188.12 0, 1560 0 M1560 0 C1560 121.99, 1560 243.99, 1560 500 M1560 0 C1560 169.13, 1560 338.25, 1560 500 M1560 500 C1162.91 500, 765.83 500, 0 500 M1560 500 C1063.57 500, 567.14 500, 0 500 M0 500 C0 308.69, 0 117.38, 0 0 M0 500 C0 343.12, 0 186.25, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(29.94140625 850.0055803571429) rotate(0 61 16.5)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">New SDK</text>
+  </g>
+  <g transform="translate(30 890) rotate(0 157.5 18.5)">
+    <text x="0" y="15.5" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Innovate and empower content creators with</text>
+    <text x="0" y="34" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">compelling and high-performance tools</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(451 530.519191919192) rotate(0 9 -0.05454545454546178)">
+      <path d="M0 0 C3 -0.02, 15 -0.09, 18 -0.11 M0 0 C3 -0.02, 15 -0.09, 18 -0.11" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 530.519191919192) rotate(0 9 -0.05454545454546178)">
+      <path d="M9.56 3.02 C11.34 2.36, 13.12 1.7, 18 -0.11 M9.56 3.02 C12.93 1.77, 16.3 0.52, 18 -0.11" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 530.519191919192) rotate(0 9 -0.05454545454546178)">
+      <path d="M9.52 -3.14 C11.31 -2.5, 13.1 -1.86, 18 -0.11 M9.52 -3.14 C12.91 -1.93, 16.29 -0.72, 18 -0.11" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(671 530.0224764713198) rotate(0 9 -0.0023613413448941856)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(671 530.0224764713198) rotate(0 9 -0.0023613413448941856)">
+      <path d="M9.54 3.08 C12.15 2.13, 14.76 1.18, 18 0 M9.54 3.08 C12.69 1.93, 15.84 0.78, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(671 530.0224764713198) rotate(0 9 -0.0023613413448941856)">
+      <path d="M9.54 -3.08 C12.15 -2.13, 14.76 -1.18, 18 0 M9.54 -3.08 C12.69 -1.94, 15.84 -0.79, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(710.0563010183914 491) rotate(0 -0.01914234614207544 8.5)">
+      <path d="M0 0 C-0.01 2.83, -0.03 14.17, -0.04 17 M0 0 C-0.01 2.83, -0.03 14.17, -0.04 17" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(710.0563010183914 491) rotate(0 -0.01914234614207544 8.5)">
+      <path d="M-2.93 9.01 C-2.06 11.41, -1.19 13.81, -0.04 17 M-2.93 9.01 C-1.8 12.12, -0.67 15.24, -0.04 17" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(710.0563010183914 491) rotate(0 -0.01914234614207544 8.5)">
+      <path d="M2.89 9.02 C2.01 11.42, 1.13 13.81, -0.04 17 M2.89 9.02 C1.75 12.13, 0.61 15.24, -0.04 17" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(451 630) rotate(0 8.442527658381323 0)">
+      <path d="M0 0 C2.81 0, 14.07 0, 16.89 0 M0 0 C2.81 0, 14.07 0, 16.89 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 630) rotate(0 8.442527658381323 0)">
+      <path d="M8.95 2.89 C10.97 2.15, 12.99 1.42, 16.89 0 M8.95 2.89 C10.67 2.26, 12.4 1.63, 16.89 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 630) rotate(0 8.442527658381323 0)">
+      <path d="M8.95 -2.89 C10.97 -2.15, 12.99 -1.42, 16.89 0 M8.95 -2.89 C10.67 -2.26, 12.4 -1.63, 16.89 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 850) rotate(0 100 30)">
+    <path d="M0 0 C41.64 0, 83.29 0, 200 0 M0 0 C69.34 0, 138.68 0, 200 0 M200 0 C200 20.82, 200 41.65, 200 60 M200 0 C200 12.87, 200 25.74, 200 60 M200 60 C149.56 60, 99.11 60, 0 60 M200 60 C125.9 60, 51.8 60, 0 60 M0 60 C0 45.41, 0 30.83, 0 0 M0 60 C0 41.51, 0 23.02, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 871) rotate(0 95 9)">
+    <text x="95.00000000000004" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">New MessageBus</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1090) rotate(0 100 30)">
+    <path d="M0 0 C77.1 0, 154.21 0, 200 0 M0 0 C48 0, 96 0, 200 0 M200 0 C200 20.14, 200 40.29, 200 60 M200 0 C200 17.51, 200 35.02, 200 60 M200 60 C144.23 60, 88.46 60, 0 60 M200 60 C136.99 60, 73.98 60, 0 60 M0 60 C0 38.22, 0 16.44, 0 0 M0 60 C0 47.84, 0 35.68, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 1101) rotate(0 95 19)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">CRDT protocol definition </text>
+    <text x="95" y="34" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">and documentation</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1010) rotate(0 100 30)">
+    <path d="M0 0 C43.86 0, 87.72 0, 200 0 M0 0 C65.79 0, 131.58 0, 200 0 M200 0 C200 15.48, 200 30.97, 200 60 M200 0 C200 18.83, 200 37.67, 200 60 M200 60 C150.23 60, 100.47 60, 0 60 M200 60 C147.77 60, 95.53 60, 0 60 M0 60 C0 43.53, 0 27.06, 0 0 M0 60 C0 41.54, 0 23.07, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1022) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">New ECS 7 </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">implementation</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1090) rotate(0 100 30)">
+    <path d="M0 0 C57 0, 114.01 0, 200 0 M0 0 C57.87 0, 115.73 0, 200 0 M200 0 C200 12.37, 200 24.74, 200 60 M200 0 C200 12.36, 200 24.73, 200 60 M200 60 C146.2 60, 92.39 60, 0 60 M200 60 C128.16 60, 56.32 60, 0 60 M0 60 C0 41.42, 0 22.85, 0 0 M0 60 C0 43.64, 0 27.28, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1111) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Unity CRDT parsing</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30.00558035714289 1009.9441964285714) rotate(0 100 30)">
+    <path d="M0 0 C73.15 0, 146.3 0, 200 0 M0 0 C69.09 0, 138.18 0, 200 0 M200 0 C200 16.32, 200 32.64, 200 60 M200 0 C200 17.38, 200 34.77, 200 60 M200 60 C126.84 60, 53.69 60, 0 60 M200 60 C132.56 60, 65.13 60, 0 60 M0 60 C0 42.43, 0 24.86, 0 0 M0 60 C0 37.16, 0 14.32, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35.00558035714289 1021.9441964285714) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">New Runtime definition </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">and documentation</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 1090) rotate(0 100 30)">
+    <path d="M15 0 M15 0 C73.65 0, 132.31 0, 185 0 M15 0 C58.48 0, 101.96 0, 185 0 M185 0 C195 0, 200 5, 200 15 M185 0 C195 0, 200 5, 200 15 M200 15 C200 22.29, 200 29.58, 200 45 M200 15 C200 25.2, 200 35.41, 200 45 M200 45 C200 55, 195 60, 185 60 M200 45 C200 55, 195 60, 185 60 M185 60 C147.48 60, 109.95 60, 15 60 M185 60 C148.16 60, 111.31 60, 15 60 M15 60 C5 60, 0 55, 0 45 M15 60 C5 60, 0 55, 0 45 M0 45 C0 34.14, 0 23.27, 0 15 M0 45 C0 33.95, 0 22.9, 0 15 M0 15 C0 5, 5 0, 15 0 M0 15 C0 5, 5 0, 15 0" stroke="#364fc7" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 1111) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#364fc7" text-anchor="middle" style="white-space: pre;" direction="ltr">Feature parity with ECS 6</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 1090) rotate(0 100 30)">
+    <path d="M0 0 C57.38 0, 114.77 0, 200 0 M0 0 C50.75 0, 101.51 0, 200 0 M200 0 C200 13.48, 200 26.96, 200 60 M200 0 C200 12.52, 200 25.03, 200 60 M200 60 C122.76 60, 45.51 60, 0 60 M200 60 C151.16 60, 102.31 60, 0 60 M0 60 C0 41.69, 0 23.37, 0 0 M0 60 C0 42.94, 0 25.89, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 1102) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Produce events for new </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">ECS (renderer)</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 690) rotate(0 100 30)">
+    <path d="M15 0 M15 0 C50.38 0, 85.75 0, 185 0 M15 0 C76.7 0, 138.39 0, 185 0 M185 0 C195 0, 200 5, 200 15 M185 0 C195 0, 200 5, 200 15 M200 15 C200 24.58, 200 34.16, 200 45 M200 15 C200 24.38, 200 33.76, 200 45 M200 45 C200 55, 195 60, 185 60 M200 45 C200 55, 195 60, 185 60 M185 60 C141.03 60, 97.05 60, 15 60 M185 60 C140.78 60, 96.56 60, 15 60 M15 60 C5 60, 0 55, 0 45 M15 60 C5 60, 0 55, 0 45 M0 45 C0 35.28, 0 25.57, 0 15 M0 45 C0 35.94, 0 26.88, 0 15 M0 15 C0 5, 5 0, 15 0 M0 15 C0 5, 5 0, 15 0" stroke="#364fc7" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 711.5) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#364fc7" text-anchor="middle" style="white-space: pre;" direction="ltr">New comms complete</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 1010) rotate(0 100 30)">
+    <path d="M0 0 C43.77 0, 87.53 0, 200 0 M0 0 C52.14 0, 104.28 0, 200 0 M200 0 C200 16.29, 200 32.58, 200 60 M200 0 C200 16.15, 200 32.3, 200 60 M200 60 C133.68 60, 67.36 60, 0 60 M200 60 C154.58 60, 109.17 60, 0 60 M0 60 C0 39.56, 0 19.12, 0 0 M0 60 C0 46.48, 0 32.96, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 1022) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">CRDT edition mode in </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Unity</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 1010) rotate(0 100 30)">
+    <path d="M0 0 C52.67 0, 105.34 0, 200 0 M0 0 C42.31 0, 84.62 0, 200 0 M200 0 C200 21.72, 200 43.45, 200 60 M200 0 C200 21.41, 200 42.81, 200 60 M200 60 C123.86 60, 47.72 60, 0 60 M200 60 C125.99 60, 51.98 60, 0 60 M0 60 C0 41.73, 0 23.46, 0 0 M0 60 C0 36.69, 0 13.38, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 1031) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Edit scene.crdt.bin</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(1130 1010) rotate(0 100 30)">
+    <path d="M0 0 C61.35 0, 122.71 0, 200 0 M0 0 C48.78 0, 97.57 0, 200 0 M200 0 C200 19.52, 200 39.05, 200 60 M200 0 C200 12.51, 200 25.02, 200 60 M200 60 C138.65 60, 77.3 60, 0 60 M200 60 C141.95 60, 83.9 60, 0 60 M0 60 C0 38.85, 0 17.7, 0 0 M0 60 C0 41.55, 0 23.1, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1135 1022) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Load scene.crdt.bin from </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Unity &amp; ECS</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 1170) rotate(0 100 30)">
+    <path d="M0 0 C70.94 0, 141.89 0, 200 0 M0 0 C52.45 0, 104.89 0, 200 0 M200 0 C200 16.82, 200 33.65, 200 60 M200 0 C200 12.99, 200 25.98, 200 60 M200 60 C149.76 60, 99.52 60, 0 60 M200 60 C150.37 60, 100.74 60, 0 60 M0 60 C0 41.22, 0 22.44, 0 0 M0 60 C0 36.05, 0 12.1, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 1182) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Define, document and </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Implement new UI in Unity</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(730 750) rotate(0 0 50)">
+      <path d="M0 0 C0 16.67, 0 83.33, 0 100 M0 0 C0 16.67, 0 83.33, 0 100" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(730 750) rotate(0 0 50)">
+      <path d="M-10.26 71.81 C-7.17 80.31, -4.07 88.81, 0 100 M-10.26 71.81 C-7.55 79.26, -4.84 86.71, 0 100" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(730 750) rotate(0 0 50)">
+      <path d="M10.26 71.81 C7.17 80.31, 4.07 88.81, 0 100 M10.26 71.81 C7.55 79.26, 4.84 86.71, 0 100" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(230.70252708040425 1089.2883429890046) rotate(0 9.255711399809343 -9.335090110040198)">
+      <path d="M0 0 C3.09 -3.11, 15.43 -15.56, 18.51 -18.67 M0 0 C3.09 -3.11, 15.43 -15.56, 18.51 -18.67" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230.70252708040425 1089.2883429890046) rotate(0 9.255711399809343 -9.335090110040198)">
+      <path d="M13.01 -6.73 C14.43 -9.83, 15.86 -12.93, 18.51 -18.67 M13.01 -6.73 C14.33 -9.59, 15.64 -12.45, 18.51 -18.67" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230.70252708040425 1089.2883429890046) rotate(0 9.255711399809343 -9.335090110040198)">
+      <path d="M6.62 -13.06 C9.71 -14.52, 12.79 -15.97, 18.51 -18.67 M6.62 -13.06 C9.47 -14.41, 12.32 -15.75, 18.51 -18.67" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(231.0055803571429 1029.9777373620516) rotate(0 8.997209821428555 0.0013149384855069002)">
+      <path d="M0 0 C3 0, 15 0, 17.99 0 M0 0 C3 0, 15 0, 17.99 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(231.0055803571429 1029.9777373620516) rotate(0 8.997209821428555 0.0013149384855069002)">
+      <path d="M9.54 3.08 C11.79 2.26, 14.04 1.44, 17.99 0 M9.54 3.08 C12.13 2.14, 14.71 1.2, 17.99 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(231.0055803571429 1029.9777373620516) rotate(0 8.997209821428555 0.0013149384855069002)">
+      <path d="M9.54 -3.08 C11.79 -2.26, 14.04 -1.44, 17.99 0 M9.54 -3.08 C12.13 -2.13, 14.71 -1.19, 17.99 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(670.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59 M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M13.03 -6.67 C14.91 -10.71, 16.8 -14.75, 18.59 -18.59 M13.03 -6.67 C14.25 -9.29, 15.47 -11.9, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M6.67 -13.03 C10.71 -14.91, 14.75 -16.8, 18.59 -18.59 M6.67 -13.03 C9.29 -14.25, 11.9 -15.47, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(671 1109.9677297332055) rotate(0 9 0.0019065584320401285)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(671 1109.9677297332055) rotate(0 9 0.0019065584320401285)">
+      <path d="M9.54 3.08 C11.6 2.33, 13.67 1.58, 18 0 M9.54 3.08 C11.33 2.43, 13.12 1.78, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(671 1109.9677297332055) rotate(0 9 0.0019065584320401285)">
+      <path d="M9.54 -3.08 C11.6 -2.33, 13.67 -1.57, 18 0 M9.54 -3.08 C11.33 -2.43, 13.12 -1.77, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(451 1109.9778005737203) rotate(0 9 0.0013115634782252528)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 1109.9778005737203) rotate(0 9 0.0013115634782252528)">
+      <path d="M9.54 3.08 C12.49 2.01, 15.43 0.94, 18 0 M9.54 3.08 C11.58 2.34, 13.61 1.6, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(451 1109.9778005737203) rotate(0 9 0.0013115634782252528)">
+      <path d="M9.54 -3.08 C12.49 -2, 15.43 -0.93, 18 0 M9.54 -3.08 C11.58 -2.34, 13.61 -1.6, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(270 1071) rotate(0 0 9)">
+      <path d="M0 0 C0 3, 0 15, 0 18 M0 0 C0 3, 0 15, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1071) rotate(0 0 9)">
+      <path d="M-3.08 9.54 C-2.34 11.58, -1.6 13.61, 0 18 M-3.08 9.54 C-2.37 11.5, -1.66 13.45, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1071) rotate(0 0 9)">
+      <path d="M3.08 9.54 C2.34 11.58, 1.6 13.61, 0 18 M3.08 9.54 C2.37 11.5, 1.66 13.45, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(870 1089) rotate(0 0 -9)">
+      <path d="M0 0 C0 -3, 0 -15, 0 -18 M0 0 C0 -3, 0 -15, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(870 1089) rotate(0 0 -9)">
+      <path d="M3.08 -9.54 C2.08 -12.29, 1.08 -15.04, 0 -18 M3.08 -9.54 C1.94 -12.66, 0.81 -15.78, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(870 1089) rotate(0 0 -9)">
+      <path d="M-3.08 -9.54 C-2.08 -12.29, -1.08 -15.04, 0 -18 M-3.08 -9.54 C-1.94 -12.66, -0.81 -15.78, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(891 1029.991936880174) rotate(0 9 0.0004763768824886938)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 1029.991936880174) rotate(0 9 0.0004763768824886938)">
+      <path d="M9.54 3.08 C11.3 2.44, 13.06 1.8, 18 0 M9.54 3.08 C12.92 1.85, 16.29 0.62, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 1029.991936880174) rotate(0 9 0.0004763768824886938)">
+      <path d="M9.54 -3.08 C11.3 -2.44, 13.06 -1.8, 18 0 M9.54 -3.08 C12.92 -1.85, 16.29 -0.62, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1111 1030.03669517326) rotate(0 8.5 -0.018347586629886337)">
+      <path d="M0 0 C2.83 -0.01, 14.17 -0.03, 17 -0.04 M0 0 C2.83 -0.01, 14.17 -0.03, 17 -0.04" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1030.03669517326) rotate(0 8.5 -0.018347586629886337)">
+      <path d="M9.02 2.89 C11.4 2.01, 13.79 1.14, 17 -0.04 M9.02 2.89 C11.35 2.03, 13.68 1.18, 17 -0.04" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1030.03669517326) rotate(0 8.5 -0.018347586629886337)">
+      <path d="M9.01 -2.93 C11.39 -2.06, 13.78 -1.2, 17 -0.04 M9.01 -2.93 C11.34 -2.08, 13.67 -1.24, 17 -0.04" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(890.7069713346523 1009.2927577982191) rotate(0 9.292912459064041 -9.292873998182245)">
+      <path d="M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59 M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(890.7069713346523 1009.2927577982191) rotate(0 9.292912459064041 -9.292873998182245)">
+      <path d="M13.03 -6.67 C15.14 -11.19, 17.25 -15.71, 18.59 -18.59 M13.03 -6.67 C14.65 -10.14, 16.26 -13.61, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(890.7069713346523 1009.2927577982191) rotate(0 9.292912459064041 -9.292873998182245)">
+      <path d="M6.67 -13.03 C11.19 -15.14, 15.71 -17.25, 18.59 -18.59 M6.67 -13.03 C10.14 -14.65, 13.61 -16.26, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 930) rotate(0 100 30)">
+    <path d="M0 0 C51.32 0, 102.65 0, 200 0 M0 0 C73.32 0, 146.63 0, 200 0 M200 0 C200 20.61, 200 41.22, 200 60 M200 0 C200 18.74, 200 37.47, 200 60 M200 60 C152.28 60, 104.56 60, 0 60 M200 60 C124.1 60, 48.19 60, 0 60 M0 60 C0 41.7, 0 23.41, 0 0 M0 60 C0 40.31, 0 20.63, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 942) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Scene loads state from </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Renderer</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(1130 930) rotate(0 100 30)">
+    <path d="M0 0 C59.85 0, 119.7 0, 200 0 M0 0 C43.42 0, 86.84 0, 200 0 M200 0 C200 17.7, 200 35.4, 200 60 M200 0 C200 19, 200 37.99, 200 60 M200 60 C140.38 60, 80.76 60, 0 60 M200 60 C141.8 60, 83.6 60, 0 60 M0 60 C0 45.69, 0 31.38, 0 0 M0 60 C0 45.63, 0 31.26, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1135 951) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">ECS systems "hot reload"</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1111 950) rotate(0 9 0)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 950) rotate(0 9 0)">
+      <path d="M9.54 3.08 C11.96 2.2, 14.37 1.32, 18 0 M9.54 3.08 C12.91 1.85, 16.27 0.63, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 950) rotate(0 9 0)">
+      <path d="M9.54 -3.08 C11.96 -2.2, 14.37 -1.32, 18 0 M9.54 -3.08 C12.91 -1.85, 16.27 -0.63, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(891 870) rotate(0 9 0)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 870) rotate(0 9 0)">
+      <path d="M9.54 3.08 C11.77 2.27, 14 1.46, 18 0 M9.54 3.08 C11.32 2.43, 13.09 1.79, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 870) rotate(0 9 0)">
+      <path d="M9.54 -3.08 C11.77 -2.27, 14 -1.46, 18 0 M9.54 -3.08 C11.32 -2.43, 13.09 -1.79, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(430 670) rotate(0 0 9.5)">
+      <path d="M0 0 C0 3.17, 0 15.83, 0 19 M0 0 C0 3.17, 0 15.83, 0 19" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(430 670) rotate(0 0 9.5)">
+      <path d="M-3.25 10.07 C-2.57 11.94, -1.89 13.82, 0 19 M-3.25 10.07 C-2.29 12.71, -1.33 15.35, 0 19" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(430 670) rotate(0 0 9.5)">
+      <path d="M3.25 10.07 C2.57 11.94, 1.89 13.82, 0 19 M3.25 10.07 C2.29 12.71, 1.33 15.35, 0 19" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(1130 1090) rotate(0 100 30)">
+    <path d="M15 0 M15 0 C64.13 0, 113.26 0, 185 0 M15 0 C67.17 0, 119.34 0, 185 0 M185 0 C195 0, 200 5, 200 15 M185 0 C195 0, 200 5, 200 15 M200 15 C200 23.39, 200 31.79, 200 45 M200 15 C200 25.94, 200 36.89, 200 45 M200 45 C200 55, 195 60, 185 60 M200 45 C200 55, 195 60, 185 60 M185 60 C124.58 60, 64.15 60, 15 60 M185 60 C132.26 60, 79.52 60, 15 60 M15 60 C5 60, 0 55, 0 45 M15 60 C5 60, 0 55, 0 45 M0 45 C0 33.12, 0 21.25, 0 15 M0 45 C0 36.23, 0 27.46, 0 15 M0 15 C0 5, 5 0, 15 0 M0 15 C0 5, 5 0, 15 0" stroke="#364fc7" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1135 1111) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#364fc7" text-anchor="middle" style="white-space: pre;" direction="ltr">Release ECS 7</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 1090) rotate(0 100 30)">
+    <path d="M0 0 C52.09 0, 104.18 0, 200 0 M0 0 C43.36 0, 86.71 0, 200 0 M200 0 C200 23.91, 200 47.81, 200 60 M200 0 C200 15.68, 200 31.36, 200 60 M200 60 C125.98 60, 51.96 60, 0 60 M200 60 C121.93 60, 43.86 60, 0 60 M0 60 C0 38.49, 0 16.99, 0 0 M0 60 C0 48, 0 35.99, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 1111) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Beta testing and examples</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(891 1110.0003882054373) rotate(0 9 -0.00004078422881548249)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 1110.0003882054373) rotate(0 9 -0.00004078422881548249)">
+      <path d="M9.54 3.08 C11.41 2.4, 13.27 1.72, 18 0 M9.54 3.08 C12.32 2.07, 15.1 1.06, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 1110.0003882054373) rotate(0 9 -0.00004078422881548249)">
+      <path d="M9.54 -3.08 C11.41 -2.4, 13.27 -1.72, 18 0 M9.54 -3.08 C12.32 -2.07, 15.1 -1.06, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(890.7071067766983 1150.7071067856748) rotate(0 9.292893219450775 9.292893218176118)">
+      <path d="M0 0 C3.1 3.1, 15.49 15.49, 18.59 18.59 M0 0 C3.1 3.1, 15.49 15.49, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(890.7071067766983 1150.7071067856748) rotate(0 9.292893219450775 9.292893218176118)">
+      <path d="M6.67 13.03 C10.11 14.63, 13.54 16.23, 18.59 18.59 M6.67 13.03 C10.43 14.78, 14.18 16.53, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(890.7071067766983 1150.7071067856748) rotate(0 9.292893219450775 9.292893218176118)">
+      <path d="M13.03 6.67 C14.63 10.11, 16.23 13.54, 18.59 18.59 M13.03 6.67 C14.78 10.43, 16.53 14.18, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 1170) rotate(0 100 30)">
+    <path d="M0 0 C46.31 0, 92.62 0, 200 0 M0 0 C47.13 0, 94.26 0, 200 0 M200 0 C200 21.68, 200 43.36, 200 60 M200 0 C200 19.43, 200 38.86, 200 60 M200 60 C123.41 60, 46.82 60, 0 60 M200 60 C142.54 60, 85.08 60, 0 60 M0 60 C0 41.7, 0 23.4, 0 0 M0 60 C0 37.52, 0 15.03, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 1182) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Write adaptation layer for </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">ECS 6</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(1350 1010) rotate(0 100 30)">
+    <path d="M15 0 M15 0 C59.66 0, 104.32 0, 185 0 M15 0 C73.31 0, 131.62 0, 185 0 M185 0 C195 0, 200 5, 200 15 M185 0 C195 0, 200 5, 200 15 M200 15 C200 24.8, 200 34.6, 200 45 M200 15 C200 25.26, 200 35.52, 200 45 M200 45 C200 55, 195 60, 185 60 M200 45 C200 55, 195 60, 185 60 M185 60 C139.38 60, 93.77 60, 15 60 M185 60 C137.93 60, 90.85 60, 15 60 M15 60 C5 60, 0 55, 0 45 M15 60 C5 60, 0 55, 0 45 M0 45 C0 35.8, 0 26.61, 0 15 M0 45 C0 33.42, 0 21.84, 0 15 M0 15 C0 5, 5 0, 15 0 M0 15 C0 5, 5 0, 15 0" stroke="#364fc7" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1355 1022) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#364fc7" text-anchor="middle" style="white-space: pre;" direction="ltr">Load scenes from static </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#364fc7" text-anchor="middle" style="white-space: pre;" direction="ltr">file</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1331 1030.0080776938466) rotate(0 9 -0.0008486293147029755)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1331 1030.0080776938466) rotate(0 9 -0.0008486293147029755)">
+      <path d="M9.54 3.08 C12.86 1.87, 16.18 0.66, 18 0 M9.54 3.08 C12.14 2.13, 14.73 1.19, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1331 1030.0080776938466) rotate(0 9 -0.0008486293147029755)">
+      <path d="M9.54 -3.08 C12.86 -1.87, 16.18 -0.66, 18 0 M9.54 -3.08 C12.13 -2.14, 14.73 -1.19, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(1130 1170) rotate(0 100 30)">
+    <path d="M0 0 C61.78 0, 123.57 0, 200 0 M0 0 C45.69 0, 91.39 0, 200 0 M200 0 C200 19.03, 200 38.07, 200 60 M200 0 C200 21.69, 200 43.38, 200 60 M200 60 C153.34 60, 106.67 60, 0 60 M200 60 C154.49 60, 108.98 60, 0 60 M0 60 C0 43.05, 0 26.1, 0 0 M0 60 C0 47.67, 0 35.33, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1135 1182) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Remove legacy Unity for </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">ECS 6</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1111 1190.0000000000002) rotate(0 9 0)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1190.0000000000002) rotate(0 9 0)">
+      <path d="M9.54 3.08 C11.61 2.33, 13.68 1.57, 18 0 M9.54 3.08 C11.61 2.33, 13.68 1.57, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1190.0000000000002) rotate(0 9 0)">
+      <path d="M9.54 -3.08 C11.61 -2.33, 13.68 -1.57, 18 0 M9.54 -3.08 C11.61 -2.33, 13.68 -1.57, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1111 1110) rotate(0 9 0)">
+      <path d="M0 0 C3 0, 15 0, 18 0 M0 0 C3 0, 15 0, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1110) rotate(0 9 0)">
+      <path d="M9.54 3.08 C12.5 2, 15.45 0.93, 18 0 M9.54 3.08 C11.62 2.32, 13.7 1.56, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1111 1110) rotate(0 9 0)">
+      <path d="M9.54 -3.08 C12.5 -2, 15.45 -0.93, 18 0 M9.54 -3.08 C11.62 -2.32, 13.7 -1.56, 18 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1110.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59 M0 0 C3.1 -3.1, 15.49 -15.49, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1110.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M13.03 -6.67 C14.83 -10.53, 16.63 -14.38, 18.59 -18.59 M13.03 -6.67 C15.09 -11.08, 17.14 -15.49, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1110.7071067811867 1169.2928932188133) rotate(0 9.292893218813333 -9.292893218813447)">
+      <path d="M6.67 -13.03 C10.53 -14.83, 14.38 -16.63, 18.59 -18.59 M6.67 -13.03 C11.08 -15.09, 15.49 -17.14, 18.59 -18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(1610.0306919642853 1010.0027901785714) rotate(0 100 30)">
+    <path d="M0 0 C68.3 0, 136.59 0, 200 0 M0 0 C72.74 0, 145.48 0, 200 0 M200 0 C200 21.21, 200 42.43, 200 60 M200 0 C200 12.95, 200 25.9, 200 60 M200 60 C157.99 60, 115.98 60, 0 60 M200 60 C129.32 60, 58.64 60, 0 60 M0 60 C0 40.88, 0 21.75, 0 0 M0 60 C0 37.3, 0 14.6, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1615.0306919642853 1031.0027901785716) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">...</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1551 1030.0086659185909) rotate(0 29.015345982142662 -0.001356326269899455)">
+      <path d="M0 0 C9.67 0, 48.36 0, 58.03 0 M0 0 C9.67 0, 48.36 0, 58.03 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1551 1030.0086659185909) rotate(0 29.015345982142662 -0.001356326269899455)">
+      <path d="M30.77 9.92 C37.43 7.5, 44.09 5.07, 58.03 0 M30.77 9.92 C39.9 6.6, 49.04 3.27, 58.03 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1551 1030.0086659185909) rotate(0 29.015345982142662 -0.001356326269899455)">
+      <path d="M30.76 -9.93 C37.43 -7.5, 44.09 -5.08, 58.03 0 M30.76 -9.93 C39.9 -6.6, 49.04 -3.28, 58.03 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 930) rotate(0 100 30)">
+    <path d="M0 0 C61.69 0, 123.39 0, 200 0 M0 0 C47.35 0, 94.7 0, 200 0 M200 0 C200 16.53, 200 33.06, 200 60 M200 0 C200 22.67, 200 45.34, 200 60 M200 60 C128.93 60, 57.87 60, 0 60 M200 60 C142.76 60, 85.52 60, 0 60 M0 60 C0 45.03, 0 30.06, 0 0 M0 60 C0 37.2, 0 14.4, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 942) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">New documentation </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">platform</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 930.1041564941406) rotate(0 100 30)">
+    <path d="M0 0 C72.75 0, 145.49 0, 200 0 M0 0 C53.15 0, 106.31 0, 200 0 M200 0 C200 15.83, 200 31.65, 200 60 M200 0 C200 12.58, 200 25.17, 200 60 M200 60 C133.31 60, 66.62 60, 0 60 M200 60 C137.39 60, 74.79 60, 0 60 M0 60 C0 39.32, 0 18.64, 0 0 M0 60 C0 42.68, 0 25.37, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 942.1041564941406) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Decentraland Yellow </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Paper</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1170) rotate(0 100 30)">
+    <path d="M0 0 C65.86 0, 131.71 0, 200 0 M0 0 C64.93 0, 129.85 0, 200 0 M200 0 C200 23.43, 200 46.86, 200 60 M200 0 C200 16.47, 200 32.93, 200 60 M200 60 C141.26 60, 82.53 60, 0 60 M200 60 C153.04 60, 106.07 60, 0 60 M0 60 C0 39.32, 0 18.63, 0 0 M0 60 C0 39.4, 0 18.81, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 1191.5) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Smart Wearables</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 1250) rotate(0 100 30)">
+    <path d="M0 0 C47.22 0, 94.44 0, 200 0 M0 0 C72.51 0, 145.02 0, 200 0 M200 0 C200 16.18, 200 32.36, 200 60 M200 0 C200 20.81, 200 41.62, 200 60 M200 60 C151.24 60, 102.49 60, 0 60 M200 60 C136.03 60, 72.05 60, 0 60 M0 60 C0 44.13, 0 28.26, 0 0 M0 60 C0 42.06, 0 24.13, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 1271) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">PX-based onboarding</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1330 990) rotate(0 10 10)">
+      <path d="M0 0 C3.33 3.33, 16.67 16.67, 20 20 M0 0 C3.33 3.33, 16.67 16.67, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1330 990) rotate(0 10 10)">
+      <path d="M7.18 14.02 C11.87 16.21, 16.56 18.39, 20 20 M7.18 14.02 C11.09 15.84, 14.99 17.66, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1330 990) rotate(0 10 10)">
+      <path d="M14.02 7.18 C16.21 11.87, 18.39 16.56, 20 20 M14.02 7.18 C15.84 11.09, 17.66 14.99, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(30 1370) rotate(0 224.5 16.5)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Enable and boost creators economy</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(10 1350) rotate(0 560 210)">
+    <path d="M0 0 C308.8 0, 617.61 0, 1120 0 M0 0 C368.26 0, 736.51 0, 1120 0 M1120 0 C1120 84.1, 1120 168.2, 1120 420 M1120 0 C1120 139.07, 1120 278.14, 1120 420 M1120 420 C893.54 420, 667.07 420, 0 420 M1120 420 C806.57 420, 493.15 420, 0 420 M0 420 C0 295.55, 0 171.09, 0 0 M0 420 C0 262.23, 0 104.45, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(30 1810) rotate(0 135 16.5)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Explorer performance</text>
+  </g>
+  <g transform="translate(30 1850) rotate(0 130.5 18.5)">
+    <text x="0" y="15.5" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Enhancements of explorer to make it</text>
+    <text x="0" y="34" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">beautiful, engaging and performant</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(10 1790) rotate(0 580 260)">
+    <path d="M0 0 C366.05 0, 732.11 0, 1160 0 M0 0 C454.4 0, 908.8 0, 1160 0 M1160 0 C1160 184.16, 1160 368.33, 1160 520 M1160 0 C1160 195.96, 1160 391.91, 1160 520 M1160 520 C737.38 520, 314.75 520, 0 520 M1160 520 C747.08 520, 334.17 520, 0 520 M0 520 C0 350.31, 0 180.63, 0 0 M0 520 C0 400.63, 0 281.26, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(670 670) rotate(0 10 10)">
+      <path d="M0 0 C3.33 3.33, 16.67 16.67, 20 20 M0 0 C3.33 3.33, 16.67 16.67, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670 670) rotate(0 10 10)">
+      <path d="M7.18 14.02 C10.67 15.65, 14.15 17.27, 20 20 M7.18 14.02 C11.29 15.94, 15.4 17.86, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670 670) rotate(0 10 10)">
+      <path d="M14.02 7.18 C15.65 10.67, 17.27 14.15, 20 20 M14.02 7.18 C15.94 11.29, 17.86 15.4, 20 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(1610 850) rotate(0 124 16.5)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Decentraland Editor</text>
+  </g>
+  <g transform="translate(1610 890) rotate(0 175.5 18.5)">
+    <text x="0" y="15.5" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Raise the bar for edition tools, lower the entry</text>
+    <text x="0" y="34" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">barrier for interactive scene creation without code</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 1370) rotate(0 100 30)">
+    <path d="M0 0 C71.21 0, 142.42 0, 200 0 M0 0 C74.45 0, 148.91 0, 200 0 M200 0 C200 16.45, 200 32.9, 200 60 M200 0 C200 19.15, 200 38.31, 200 60 M200 60 C158.83 60, 117.66 60, 0 60 M200 60 C133.8 60, 67.6 60, 0 60 M0 60 C0 40.66, 0 21.31, 0 0 M0 60 C0 43.78, 0 27.56, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 1391) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Decentraland Spaces?</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1250) rotate(0 100 30)">
+    <path d="M0 0 C53.26 0, 106.52 0, 200 0 M0 0 C42.8 0, 85.59 0, 200 0 M200 0 C200 16.22, 200 32.44, 200 60 M200 0 C200 13.35, 200 26.69, 200 60 M200 60 C136.4 60, 72.8 60, 0 60 M200 60 C129.05 60, 58.1 60, 0 60 M0 60 C0 39.62, 0 19.24, 0 0 M0 60 C0 45.54, 0 31.08, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1262) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">CLI linting tools for game </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">resources</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 690) rotate(0 100 30)">
+    <path d="M0 0 C72.95 0, 145.91 0, 200 0 M0 0 C70.02 0, 140.04 0, 200 0 M200 0 C200 12.98, 200 25.97, 200 60 M200 0 C200 15.21, 200 30.42, 200 60 M200 60 C140.98 60, 81.96 60, 0 60 M200 60 C147.53 60, 95.06 60, 0 60 M0 60 C0 44.96, 0 29.92, 0 0 M0 60 C0 39, 0 18, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 702) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Livekit-based per-island </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">voice chat</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(891 710.0242420705667) rotate(0 9 -0.0025468323163693185)">
+      <path d="M0 0 C3 0, 15 0, 18 -0.01 M0 0 C3 0, 15 0, 18 -0.01" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 710.0242420705667) rotate(0 9 -0.0025468323163693185)">
+      <path d="M9.54 3.08 C12.73 1.92, 15.91 0.76, 18 -0.01 M9.54 3.08 C11.63 2.32, 13.71 1.56, 18 -0.01" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(891 710.0242420705667) rotate(0 9 -0.0025468323163693185)">
+      <path d="M9.54 -3.08 C12.73 -1.92, 15.91 -0.77, 18 -0.01 M9.54 -3.08 C11.63 -2.32, 13.71 -1.56, 18 -0.01" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 610) rotate(0 100 30)">
+    <path d="M0 0 C47.8 0, 95.59 0, 200 0 M0 0 C69.64 0, 139.28 0, 200 0 M200 0 C200 19.15, 200 38.3, 200 60 M200 0 C200 12.22, 200 24.44, 200 60 M200 60 C147.08 60, 94.15 60, 0 60 M200 60 C142.16 60, 84.32 60, 0 60 M0 60 C0 45.68, 0 31.37, 0 0 M0 60 C0 44.31, 0 28.62, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 622) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Custom private Islands </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">(matchmaking)</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(870 690) rotate(0 0 -10)">
+      <path d="M0 0 C0 -3.33, 0 -16.67, 0 -20 M0 0 C0 -3.33, 0 -16.67, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(870 690) rotate(0 0 -10)">
+      <path d="M3.42 -10.6 C2.6 -12.85, 1.79 -15.09, 0 -20 M3.42 -10.6 C2.53 -13.06, 1.63 -15.52, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(870 690) rotate(0 0 -10)">
+      <path d="M-3.42 -10.6 C-2.6 -12.85, -1.79 -15.09, 0 -20 M-3.42 -10.6 C-2.53 -13.06, -1.63 -15.52, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(1130 1250) rotate(0 100 30)">
+    <path d="M0 0 C77.56 0, 155.12 0, 200 0 M0 0 C78.8 0, 157.6 0, 200 0 M200 0 C200 15.48, 200 30.97, 200 60 M200 0 C200 16.89, 200 33.77, 200 60 M200 60 C130.4 60, 60.8 60, 0 60 M200 60 C145.6 60, 91.2 60, 0 60 M0 60 C0 47.46, 0 34.92, 0 0 M0 60 C0 46.23, 0 32.46, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1135 1271) rotate(0 95 9)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">New WASM runtime</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(1350 1250) rotate(0 100 30)">
+    <path d="M0 0 C47.49 0, 94.98 0, 200 0 M0 0 C52.34 0, 104.68 0, 200 0 M200 0 C200 14.25, 200 28.5, 200 60 M200 0 C200 17.05, 200 34.11, 200 60 M200 60 C152.01 60, 104.03 60, 0 60 M200 60 C159.58 60, 119.16 60, 0 60 M0 60 C0 45.22, 0 30.44, 0 0 M0 60 C0 46.26, 0 32.51, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(1355 1262) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Multiple scenes per </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Worker</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(1330 1270) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1330 1270) rotate(0 10 0)">
+      <path d="M10.6 3.42 C13.84 2.24, 17.07 1.07, 20 0 M10.6 3.42 C13.11 2.51, 15.62 1.59, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(1330 1270) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C13.84 -2.24, 17.07 -1.07, 20 0 M10.6 -3.42 C13.11 -2.51, 15.62 -1.59, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 930) rotate(0 100 30)">
+    <path d="M0 0 C45.35 0, 90.7 0, 200 0 M0 0 C45.67 0, 91.35 0, 200 0 M200 0 C200 13.78, 200 27.56, 200 60 M200 0 C200 19.5, 200 38.99, 200 60 M200 60 C148.14 60, 96.27 60, 0 60 M200 60 C137.53 60, 75.06 60, 0 60 M0 60 C0 44.3, 0 28.61, 0 0 M0 60 C0 44.22, 0 28.44, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 951) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Benchmark ECS 6vs7</text>
+  </g>
+  <g transform="translate(470 990) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="33.33333333333333333333333333333334" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/288" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#288 - 16%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1170) rotate(0 100 30)">
+    <path d="M0 0 C62.95 0, 125.89 0, 200 0 M0 0 C77.9 0, 155.81 0, 200 0 M200 0 C200 20.23, 200 40.47, 200 60 M200 0 C200 15.13, 200 30.26, 200 60 M200 60 C128.9 60, 57.79 60, 0 60 M200 60 C146.6 60, 93.2 60, 0 60 M0 60 C0 39.19, 0 18.38, 0 0 M0 60 C0 42.18, 0 24.36, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1191) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Unity Resource Manager</text>
+  </g>
+  <g transform="translate(250 1230) rotate(0 54 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/292" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#292 - 100%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(270 1169) rotate(0 0 -9)">
+      <path d="M0 0 C0 -3, 0 -15, 0 -18 M0 0 C0 -3, 0 -15, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1169) rotate(0 0 -9)">
+      <path d="M3.08 -9.54 C2.25 -11.82, 1.42 -14.09, 0 -18 M3.08 -9.54 C2.26 -11.78, 1.45 -14.02, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1169) rotate(0 0 -9)">
+      <path d="M-3.08 -9.54 C-2.25 -11.82, -1.42 -14.09, 0 -18 M-3.08 -9.54 C-2.26 -11.78, -1.45 -14.02, 0 -18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1530) rotate(0 100 30)">
+    <path d="M0 0 C67.05 0, 134.09 0, 200 0 M0 0 C59.1 0, 118.2 0, 200 0 M200 0 C200 13.1, 200 26.19, 200 60 M200 0 C200 14.81, 200 29.61, 200 60 M200 60 C143.05 60, 86.1 60, 0 60 M200 60 C143.59 60, 87.17 60, 0 60 M0 60 C0 44.55, 0 29.09, 0 0 M0 60 C0 38.53, 0 17.07, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 1542) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Definition of new </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Armatures</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1530) rotate(0 100 30)">
+    <path d="M0 0 C75.4 0, 150.8 0, 200 0 M0 0 C53.77 0, 107.54 0, 200 0 M200 0 C200 13.44, 200 26.89, 200 60 M200 0 C200 15.31, 200 30.62, 200 60 M200 60 C140.25 60, 80.5 60, 0 60 M200 60 C125.04 60, 50.09 60, 0 60 M0 60 C0 38.95, 0 17.91, 0 0 M0 60 C0 45.22, 0 30.44, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1542.5) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Define Emote entity &amp; </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">deps</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(230 1550) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230 1550) rotate(0 10 0)">
+      <path d="M10.6 3.42 C12.8 2.62, 15 1.82, 20 0 M10.6 3.42 C14.35 2.06, 18.09 0.69, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230 1550) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C12.8 -2.62, 15 -1.82, 20 0 M10.6 -3.42 C14.35 -2.06, 18.09 -0.69, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1450) rotate(0 100 30)">
+    <path d="M0 0 C69.1 0, 138.2 0, 200 0 M0 0 C53.47 0, 106.94 0, 200 0 M200 0 C200 13.49, 200 26.98, 200 60 M200 0 C200 17.98, 200 35.97, 200 60 M200 60 C144.09 60, 88.19 60, 0 60 M200 60 C141.05 60, 82.1 60, 0 60 M0 60 C0 44.51, 0 29.02, 0 0 M0 60 C0 41.04, 0 22.08, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1471) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Support emotes in builder</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(270 1530) rotate(0 0 -10)">
+      <path d="M0 0 C0 -3.33, 0 -16.67, 0 -20 M0 0 C0 -3.33, 0 -16.67, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1530) rotate(0 0 -10)">
+      <path d="M3.42 -10.6 C2.16 -14.07, 0.9 -17.54, 0 -20 M3.42 -10.6 C2.15 -14.08, 0.89 -17.56, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1530) rotate(0 0 -10)">
+      <path d="M-3.42 -10.6 C-2.16 -14.07, -0.9 -17.54, 0 -20 M-3.42 -10.6 C-2.15 -14.08, -0.89 -17.56, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1610) rotate(0 100 30)">
+    <path d="M0 0 C59.23 0, 118.45 0, 200 0 M0 0 C75.67 0, 151.34 0, 200 0 M200 0 C200 14.89, 200 29.78, 200 60 M200 0 C200 15.48, 200 30.96, 200 60 M200 60 C145.07 60, 90.13 60, 0 60 M200 60 C127.08 60, 54.16 60, 0 60 M0 60 C0 43.07, 0 26.13, 0 0 M0 60 C0 45.44, 0 30.89, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1622) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Support emotes in </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">renderer (unity)</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(490 1090) rotate(0 0 -10)">
+      <path d="M0 0 C0 -3.33, 0 -16.67, 0 -20 M0 0 C0 -3.33, 0 -16.67, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(490 1090) rotate(0 0 -10)">
+      <path d="M3.42 -10.6 C2.08 -14.28, 0.74 -17.96, 0 -20 M3.42 -10.6 C2.13 -14.15, 0.84 -17.69, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(490 1090) rotate(0 0 -10)">
+      <path d="M-3.42 -10.6 C-2.08 -14.28, -0.74 -17.96, 0 -20 M-3.42 -10.6 C-2.13 -14.15, -0.84 -17.69, 0 -20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(270 1590) rotate(0 0 10)">
+      <path d="M0 0 C0 3.33, 0 16.67, 0 20 M0 0 C0 3.33, 0 16.67, 0 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1590) rotate(0 0 10)">
+      <path d="M-3.42 10.6 C-2.73 12.49, -2.05 14.38, 0 20 M-3.42 10.6 C-2.27 13.76, -1.12 16.91, 0 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 1590) rotate(0 0 10)">
+      <path d="M3.42 10.6 C2.73 12.49, 2.05 14.38, 0 20 M3.42 10.6 C2.27 13.76, 1.12 16.91, 0 20" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 350) rotate(0 100 30)">
+    <path d="M0 0 C46.87 0, 93.74 0, 200 0 M0 0 C50.25 0, 100.51 0, 200 0 M200 0 C200 16.45, 200 32.9, 200 60 M200 0 C200 22.48, 200 44.96, 200 60 M200 60 C158.93 60, 117.85 60, 0 60 M200 60 C122.79 60, 45.58 60, 0 60 M0 60 C0 45.51, 0 31.03, 0 0 M0 60 C0 43.42, 0 26.85, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 362) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Base wearables </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">deployments</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 350) rotate(0 100 30)">
+    <path d="M0 0 C67.71 0, 135.43 0, 200 0 M0 0 C74.06 0, 148.12 0, 200 0 M200 0 C200 13.68, 200 27.36, 200 60 M200 0 C200 14.82, 200 29.64, 200 60 M200 60 C122.29 60, 44.59 60, 0 60 M200 60 C130.68 60, 61.35 60, 0 60 M0 60 C0 38.54, 0 17.09, 0 0 M0 60 C0 37.21, 0 14.42, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 371) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Base emotes deployments</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1690) rotate(0 100 30)">
+    <path d="M0 0 C59.34 0, 118.69 0, 200 0 M0 0 C75.36 0, 150.73 0, 200 0 M200 0 C200 12.88, 200 25.77, 200 60 M200 0 C200 13.57, 200 27.15, 200 60 M200 60 C147.2 60, 94.39 60, 0 60 M200 60 C148.26 60, 96.53 60, 0 60 M0 60 C0 40.58, 0 21.15, 0 0 M0 60 C0 37.54, 0 15.08, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 1711) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">LAND Rentals</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 2050) rotate(0 100 30)">
+    <path d="M0 0 C67.8 0, 135.6 0, 200 0 M0 0 C41.96 0, 83.93 0, 200 0 M200 0 C200 20.67, 200 41.33, 200 60 M200 0 C200 15.1, 200 30.21, 200 60 M200 60 C136.24 60, 72.49 60, 0 60 M200 60 C122.82 60, 45.64 60, 0 60 M0 60 C0 42.6, 0 25.2, 0 0 M0 60 C0 37.05, 0 14.1, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 2071) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Release mac client</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(50 1950) rotate(0 100 30)">
+    <path d="M0 0 C67.35 0, 134.7 0, 200 0 M0 0 C71.69 0, 143.38 0, 200 0 M200 0 C200 18.34, 200 36.67, 200 60 M200 0 C200 17.86, 200 35.73, 200 60 M200 60 C133.79 60, 67.59 60, 0 60 M200 60 C133.25 60, 66.49 60, 0 60 M0 60 C0 45.49, 0 30.98, 0 0 M0 60 C0 38.81, 0 17.63, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(55 1962) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Resource streaming </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">system</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(270 1950) rotate(0 100 30)">
+    <path d="M0 0 C59.65 0, 119.3 0, 200 0 M0 0 C60.81 0, 121.61 0, 200 0 M200 0 C200 19.07, 200 38.15, 200 60 M200 0 C200 14.32, 200 28.64, 200 60 M200 60 C126.69 60, 53.39 60, 0 60 M200 60 C151.85 60, 103.71 60, 0 60 M0 60 C0 40.25, 0 20.51, 0 0 M0 60 C0 43.13, 0 26.25, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(275 1962) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">PoC of loading blocking </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">mechanics</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(490 1950) rotate(0 100 30)">
+    <path d="M0 0 C49.05 0, 98.11 0, 200 0 M0 0 C62.35 0, 124.71 0, 200 0 M200 0 C200 22.18, 200 44.36, 200 60 M200 0 C200 13.77, 200 27.54, 200 60 M200 60 C153.5 60, 107.01 60, 0 60 M200 60 C159.49 60, 118.98 60, 0 60 M0 60 C0 40.04, 0 20.09, 0 0 M0 60 C0 37.01, 0 14.01, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(495 1962) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Memory scoring for asset </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">bundles</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(710 1950) rotate(0 100 30)">
+    <path d="M0 0 C78.74 0, 157.47 0, 200 0 M0 0 C57.85 0, 115.69 0, 200 0 M200 0 C200 22.73, 200 45.46, 200 60 M200 0 C200 14.87, 200 29.75, 200 60 M200 60 C142.03 60, 84.07 60, 0 60 M200 60 C123.53 60, 47.06 60, 0 60 M0 60 C0 46.52, 0 33.04, 0 0 M0 60 C0 40.28, 0 20.57, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(715 1962) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Resource streaming </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">system</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(930 1950) rotate(0 100 30)">
+    <path d="M0 0 C53.14 0, 106.27 0, 200 0 M0 0 C71.78 0, 143.57 0, 200 0 M200 0 C200 13.65, 200 27.3, 200 60 M200 0 C200 14.01, 200 28.03, 200 60 M200 60 C131.32 60, 62.65 60, 0 60 M200 60 C154.86 60, 109.71 60, 0 60 M0 60 C0 46.34, 0 32.69, 0 0 M0 60 C0 45.45, 0 30.89, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(935 1962) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Memory control </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">mechanics</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(250 1970) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(250 1970) rotate(0 10 0)">
+      <path d="M10.6 3.42 C14.12 2.14, 17.64 0.86, 20 0 M10.6 3.42 C13.49 2.37, 16.38 1.32, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(250 1970) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C14.12 -2.14, 17.64 -0.86, 20 0 M10.6 -3.42 C13.49 -2.37, 16.38 -1.32, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(470 1970) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(470 1970) rotate(0 10 0)">
+      <path d="M10.6 3.42 C13.58 2.34, 16.55 1.26, 20 0 M10.6 3.42 C13.23 2.47, 15.85 1.51, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(470 1970) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C13.58 -2.34, 16.55 -1.26, 20 0 M10.6 -3.42 C13.23 -2.47, 15.85 -1.51, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(690 1970) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(690 1970) rotate(0 10 0)">
+      <path d="M10.6 3.42 C12.63 2.68, 14.66 1.94, 20 0 M10.6 3.42 C12.6 2.69, 14.59 1.97, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(690 1970) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C12.63 -2.68, 14.66 -1.94, 20 0 M10.6 -3.42 C12.6 -2.69, 14.59 -1.97, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(910 1970) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(910 1970) rotate(0 10 0)">
+      <path d="M10.6 3.42 C13.45 2.38, 16.3 1.35, 20 0 M10.6 3.42 C12.86 2.6, 15.11 1.78, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(910 1970) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C13.45 -2.38, 16.3 -1.35, 20 0 M10.6 -3.42 C12.86 -2.6, 15.11 -1.78, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1910) rotate(0 560 60)">
+    <path d="M0 0 C386.1 0, 772.19 0, 1120 0 M0 0 C287.71 0, 575.42 0, 1120 0 M1120 0 C1120 41.05, 1120 82.1, 1120 120 M1120 0 C1120 45.5, 1120 91.01, 1120 120 M1120 120 C690.49 120, 260.97 120, 0 120 M1120 120 C856.03 120, 592.06 120, 0 120 M0 120 C0 75.8, 0 31.6, 0 0 M0 120 C0 74.8, 0 29.59, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(30 1910) rotate(0 63 9)">
+    <text x="0" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Scene limits track</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 190) rotate(0 440 70)">
+    <path d="M0.13 0.24 C222.44 -1.45, 443.46 -1.6, 879.28 -0.72 M0.04 0.16 C255.69 -3.04, 511.01 -3.32, 879.72 0.36 M881.26 -1.58 C878.69 42.36, 881.26 83.67, 880.58 140.83 M880.14 -0.28 C879.36 43.86, 878.52 86.51, 879.26 140.12 M879.22 139.33 C603.05 139.85, 325.02 139.75, 0.38 140.58 M880.39 140.17 C590.05 142.64, 300.33 142.3, -0.09 140.38 M1.34 139.23 C0 110.05, 1.21 81.81, 0.4 -0.93 M-0.55 139.08 C2.06 103.14, 1.12 64.5, -0.18 -0.08" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(50 290) rotate(0 42 9)">
+    <text x="0" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Matrix track</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(50 210) rotate(0 100 30)">
+    <path d="M0 0 C40.99 0, 81.98 0, 200 0 M0 0 C48.95 0, 97.91 0, 200 0 M200 0 C200 14.72, 200 29.44, 200 60 M200 0 C200 19.03, 200 38.06, 200 60 M200 60 C133.87 60, 67.75 60, 0 60 M200 60 C129.91 60, 59.82 60, 0 60 M0 60 C0 37.39, 0 14.78, 0 0 M0 60 C0 36.93, 0 13.86, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(55 215) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Improvements &amp; </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Maintenance</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(270 210) rotate(0 100 30)">
+    <path d="M0 0 C40.14 0, 80.28 0, 200 0 M0 0 C60.86 0, 121.72 0, 200 0 M200 0 C200 18.62, 200 37.25, 200 60 M200 0 C200 22.98, 200 45.95, 200 60 M200 60 C127.83 60, 55.66 60, 0 60 M200 60 C123.56 60, 47.12 60, 0 60 M0 60 C0 39.66, 0 19.32, 0 0 M0 60 C0 45.33, 0 30.65, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(275 231) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Chat Scalability</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(490 210) rotate(0 100 30)">
+    <path d="M0 0 C45.78 0, 91.56 0, 200 0 M0 0 C66.29 0, 132.59 0, 200 0 M200 0 C200 18.04, 200 36.09, 200 60 M200 0 C200 22.36, 200 44.73, 200 60 M200 60 C144.6 60, 89.2 60, 0 60 M200 60 C131.57 60, 63.13 60, 0 60 M0 60 C0 42.33, 0 24.67, 0 0 M0 60 C0 43.62, 0 27.24, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(495 231) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Channels M1</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 430) rotate(0 100 30)">
+    <path d="M0 0 C46.29 0, 92.58 0, 200 0 M0 0 C55.46 0, 110.91 0, 200 0 M200 0 C200 23.33, 200 46.67, 200 60 M200 0 C200 20.06, 200 40.12, 200 60 M200 60 C129.01 60, 58.03 60, 0 60 M200 60 C152.12 60, 104.24 60, 0 60 M0 60 C0 44.33, 0 28.66, 0 0 M0 60 C0 47.55, 0 35.1, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 442) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Headless renderer for </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">profile pictures</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(430 491) rotate(0 0 9)">
+      <path d="M0 0 C0 3, 0 15, 0 18 M0 0 C0 3, 0 15, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(430 491) rotate(0 0 9)">
+      <path d="M-3.08 9.54 C-2.13 12.16, -1.18 14.77, 0 18 M-3.08 9.54 C-1.97 12.58, -0.86 15.62, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(430 491) rotate(0 0 9)">
+      <path d="M3.08 9.54 C2.13 12.16, 1.18 14.77, 0 18 M3.08 9.54 C1.97 12.58, 0.86 15.62, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 1370) rotate(0 100 30)">
+    <path d="M0 0 C62.61 0, 125.22 0, 200 0 M0 0 C76.24 0, 152.47 0, 200 0 M200 0 C200 23.33, 200 46.66, 200 60 M200 0 C200 16.65, 200 33.3, 200 60 M200 60 C150.36 60, 100.72 60, 0 60 M200 60 C124.54 60, 49.08 60, 0 60 M0 60 C0 44.09, 0 28.17, 0 0 M0 60 C0 36.2, 0 12.41, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 1391) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Quests</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(690 350) rotate(0 100 30)">
+    <path d="M0 0 C41.53 0, 83.06 0, 200 0 M0 0 C50.29 0, 100.58 0, 200 0 M200 0 C200 21.58, 200 43.17, 200 60 M200 0 C200 17.07, 200 34.14, 200 60 M200 60 C146.18 60, 92.36 60, 0 60 M200 60 C142.22 60, 84.44 60, 0 60 M0 60 C0 47.21, 0 34.41, 0 0 M0 60 C0 44.01, 0 28.03, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(695 362) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Enable native L2 provider </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">in Explorer</text>
+  </g>
+  <g transform="translate(250 670) rotate(0 60 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/kernel/pull/269" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/kernel#269 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(250 750) rotate(0 67.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/comms-v3/issues/10" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/comms-v3#10 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(470 670) rotate(0 67 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/comms-v3/issues/11" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/comms-v3#11 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(690 670) rotate(0 67.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/comms-v3/issues/12" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/comms-v3#12 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(910 750) rotate(0 67.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/comms-v3/issues/13" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/comms-v3#13 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(30 1150) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="136" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/252" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#252 - 68%</text>
+    </a>
+  </g>
+  <g transform="translate(250 1150) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/247" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#247 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(470 1230) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/304" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#304 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(470 1150) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="66.66666666666666666666666666666666" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/305" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#305 - 33%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 1010) rotate(0 100 30)">
+    <path d="M0 0 C50.44 0, 100.87 0, 200 0 M0 0 C66.5 0, 133.01 0, 200 0 M200 0 C200 12.67, 200 25.35, 200 60 M200 0 C200 16.16, 200 32.33, 200 60 M200 60 C157.54 60, 115.07 60, 0 60 M200 60 C135.63 60, 71.25 60, 0 60 M0 60 C0 46.32, 0 32.65, 0 0 M0 60 C0 46.75, 0 33.51, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 1022) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Send CRDT updates back</text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">to the scene</text>
+  </g>
+  <g transform="translate(470 1070) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/306" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#306 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(30 990) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="157.1428571428571428571428571428571" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/309" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#309 - 78%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(910 510) rotate(0 100 30)">
+    <path d="M0 0 C78.92 0, 157.84 0, 200 0 M0 0 C45.08 0, 90.17 0, 200 0 M200 0 C200 17, 200 33.99, 200 60 M200 0 C200 19.54, 200 39.07, 200 60 M200 60 C136.11 60, 72.22 60, 0 60 M200 60 C131.98 60, 63.97 60, 0 60 M0 60 C0 36.86, 0 13.72, 0 0 M0 60 C0 39.92, 0 19.84, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(915 522) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Lightweight map endpoint </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">for explorer (BFF)</text>
+  </g>
+  <g transform="translate(910 570) rotate(0 69.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/explorer-bff/issues/22" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/explorer-bff#22 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(690 490) rotate(0 66.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/catalyst/issues/1056" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/catalyst#1056 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(250 1590) rotate(0 66.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="80" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/catalyst/issues/1057" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/catalyst#1057 - 40%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 1690) rotate(0 100 30)">
+    <path d="M0 0 C42.9 0, 85.79 0, 200 0 M0 0 C50.34 0, 100.68 0, 200 0 M200 0 C200 22.18, 200 44.37, 200 60 M200 0 C200 20.97, 200 41.95, 200 60 M200 60 C130.54 60, 61.08 60, 0 60 M200 60 C134.01 60, 68.01 60, 0 60 M0 60 C0 40.47, 0 20.94, 0 0 M0 60 C0 39.81, 0 19.63, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 1702) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Marketplace Rankings</text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">and open data</text>
+  </g>
+  <g transform="translate(470 1750) rotate(0 75 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/marketplace/issues/624" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/marketplace#624 - 0%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(710 1311) rotate(0 0 29)">
+      <path d="M0 0 C0 9.67, 0 48.33, 0 58 M0 0 C0 9.67, 0 48.33, 0 58" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(710 1311) rotate(0 0 29)">
+      <path d="M-9.92 30.75 C-7.18 38.28, -4.43 45.82, 0 58 M-9.92 30.75 C-6.89 39.08, -3.86 47.4, 0 58" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(710 1311) rotate(0 0 29)">
+      <path d="M9.92 30.75 C7.18 38.28, 4.43 45.82, 0 58 M9.92 30.75 C6.89 39.08, 3.86 47.4, 0 58" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(250 1310) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/310" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#310 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(250 1070) rotate(0 53.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/311" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#311 - 0%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 930) rotate(0 100 30)">
+    <path d="M0 0 C78.99 0, 157.99 0, 200 0 M0 0 C53.72 0, 107.43 0, 200 0 M200 0 C200 14.92, 200 29.85, 200 60 M200 0 C200 14.21, 200 28.42, 200 60 M200 60 C155.4 60, 110.79 60, 0 60 M200 60 C154.22 60, 108.44 60, 0 60 M0 60 C0 47.56, 0 35.13, 0 0 M0 60 C0 39.06, 0 18.11, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 951) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Renderer RPC</text>
+  </g>
+  <g transform="translate(250 990) rotate(0 54 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="183.3333333333333333333333333333333" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/sdk/issues/321" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/sdk#321 - 91%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(270 990) rotate(0 0 9)">
+      <path d="M0 0 C0 3, 0 15, 0 18 M0 0 C0 3, 0 15, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 990) rotate(0 0 9)">
+      <path d="M-3.08 9.54 C-2.21 11.92, -1.34 14.31, 0 18 M-3.08 9.54 C-2.37 11.48, -1.67 13.41, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(270 990) rotate(0 0 9)">
+      <path d="M3.08 9.54 C2.21 11.92, 1.34 14.31, 0 18 M3.08 9.54 C2.37 11.48, 1.67 13.41, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(230 530) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230 530) rotate(0 10 0)">
+      <path d="M10.6 3.42 C13.27 2.45, 15.94 1.48, 20 0 M10.6 3.42 C14.3 2.07, 18 0.73, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230 530) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C13.27 -2.45, 15.94 -1.48, 20 0 M10.6 -3.42 C14.3 -2.07, 18 -0.73, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(250 490) rotate(0 74.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/dapps-issues/issues/26" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/dapps-issues#26 - 0%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 1610) rotate(0 100 30)">
+    <path d="M0 0 C42.47 0, 84.94 0, 200 0 M0 0 C58.87 0, 117.73 0, 200 0 M200 0 C200 21.95, 200 43.89, 200 60 M200 0 C200 12.02, 200 24.04, 200 60 M200 60 C142.65 60, 85.29 60, 0 60 M200 60 C151.31 60, 102.62 60, 0 60 M0 60 C0 40.04, 0 20.09, 0 0 M0 60 C0 37.16, 0 14.32, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 1631) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Signature server</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 1690) rotate(0 100 30)">
+    <path d="M0 0 C56.09 0, 112.17 0, 200 0 M0 0 C46.44 0, 92.87 0, 200 0 M200 0 C200 22.67, 200 45.34, 200 60 M200 0 C200 16.74, 200 33.48, 200 60 M200 60 C120.67 60, 41.35 60, 0 60 M200 60 C130.27 60, 60.55 60, 0 60 M0 60 C0 39.26, 0 18.52, 0 0 M0 60 C0 39.19, 0 18.37, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 1711) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Off Chain listing</text>
+  </g>
+  <g transform="translate(250 1750) rotate(0 74.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/dapps-issues/issues/25" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/dapps-issues#25 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(470 410) rotate(0 67 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/catalyst/issues/1085" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/catalyst#1085 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(470 750) rotate(0 67 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="80" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/catalyst/issues/1065" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/catalyst#1065 - 40%</text>
+    </a>
+  </g>
+  <g transform="translate(250 410) rotate(0 66.5 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/catalyst/issues/1107" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/catalyst#1107 - 0%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 2050) rotate(0 100 30)">
+    <path d="M0 0 C47.93 0, 95.86 0, 200 0 M0 0 C52.98 0, 105.97 0, 200 0 M200 0 C200 17.62, 200 35.23, 200 60 M200 0 C200 21.32, 200 42.64, 200 60 M200 60 C157.5 60, 115.01 60, 0 60 M200 60 C136.72 60, 73.45 60, 0 60 M0 60 C0 36.46, 0 12.92, 0 0 M0 60 C0 41.86, 0 23.71, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 2062) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Upgrade to Unity 2021 </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">(M1)</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(250 2130) rotate(0 100 30)">
+    <path d="M0 0 C60.48 0, 120.96 0, 200 0 M0 0 C65.56 0, 131.12 0, 200 0 M200 0 C200 19.97, 200 39.95, 200 60 M200 0 C200 21.56, 200 43.12, 200 60 M200 60 C120.82 60, 41.64 60, 0 60 M200 60 C136.05 60, 72.1 60, 0 60 M0 60 C0 44.94, 0 29.88, 0 0 M0 60 C0 43.13, 0 26.25, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(255 2142.5) rotate(0 95 18)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Prevent local texture </text>
+    <text x="95" y="32" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">compression (catalyst)</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 2050) rotate(0 100 30)">
+    <path d="M0 0 C42.5 0, 85 0, 200 0 M0 0 C62.55 0, 125.1 0, 200 0 M200 0 C200 22.76, 200 45.51, 200 60 M200 0 C200 21.92, 200 43.84, 200 60 M200 60 C155.64 60, 111.27 60, 0 60 M200 60 C155.5 60, 111.01 60, 0 60 M0 60 C0 38.34, 0 16.68, 0 0 M0 60 C0 44.45, 0 28.89, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 2071) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Shader-based mini map</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 2130) rotate(0 100 30)">
+    <path d="M0 0 C72.2 0, 144.4 0, 200 0 M0 0 C51.85 0, 103.69 0, 200 0 M200 0 C200 14.35, 200 28.7, 200 60 M200 0 C200 14.4, 200 28.8, 200 60 M200 60 C155.29 60, 110.58 60, 0 60 M200 60 C126.94 60, 53.88 60, 0 60 M0 60 C0 47.46, 0 34.92, 0 0 M0 60 C0 46.86, 0 33.73, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 2151) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Send runtime metrics</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 2130) rotate(0 100 30)">
+    <path d="M0 0 C47.13 0, 94.26 0, 200 0 M0 0 C64.93 0, 129.86 0, 200 0 M200 0 C200 13.98, 200 27.96, 200 60 M200 0 C200 21.99, 200 43.98, 200 60 M200 60 C154.63 60, 109.26 60, 0 60 M200 60 C152.37 60, 104.74 60, 0 60 M0 60 C0 40.88, 0 21.76, 0 0 M0 60 C0 37.42, 0 14.84, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 2151) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Benchmark in CI</text>
+  </g>
+  <g transform="translate(50 270) rotate(0 81 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="null" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/matrix-playbook#59 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(270 270) rotate(0 81 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="null" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/matrix-playbook#67 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(490 270) rotate(0 60 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="0" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="null" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/kernel#331 - 0%</text>
+    </a>
+  </g>
+  <g transform="translate(470 2190) rotate(0 82 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/unity-renderer/issues/2221" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/unity-renderer#2221 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(470 2110) rotate(0 82 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="133.3333333333333333333333333333333" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/unity-renderer/issues/2353" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/unity-renderer#2353 - 66%</text>
+    </a>
+  </g>
+  <g transform="translate(30 2190) rotate(0 82 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/unity-renderer/issues/2378" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/unity-renderer#2378 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(30 2110) rotate(0 82 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="200" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/unity-renderer/issues/2437" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/unity-renderer#2437 - 100%</text>
+    </a>
+  </g>
+  <g transform="translate(250 2110) rotate(0 82 6)">
+    <rect width="200" height="14" y="-1.0" style="fill: rgba(200,200,200,200);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="85.71428571428571428571428571428572" height="14" y="-1.0" style="fill:rgb(0,255,88);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/decentraland/unity-renderer/issues/1797" target="_blank">
+      <text x="0" y="10" font-family="Helvetica, Segoe UI Emoji" font-size="10.847457627118638px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">decentraland/unity-renderer#1797 - 42%</text>
+    </a>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(50 1671) rotate(0 0 9)">
+      <path d="M0 0 C0 3, 0 15, 0 18 M0 0 C0 3, 0 15, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(50 1671) rotate(0 0 9)">
+      <path d="M-3.08 9.54 C-1.99 12.54, -0.9 15.53, 0 18 M-3.08 9.54 C-2.17 12.05, -1.25 14.56, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(50 1671) rotate(0 0 9)">
+      <path d="M3.08 9.54 C1.99 12.54, 0.9 15.53, 0 18 M3.08 9.54 C2.17 12.05, 1.25 14.56, 0 18" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(230.70710678118655 1670.7071067811867) rotate(0 9.29289321881339 9.292893218813333)">
+      <path d="M0 0 C3.1 3.1, 15.49 15.49, 18.59 18.59 M0 0 C3.1 3.1, 15.49 15.49, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230.70710678118655 1670.7071067811867) rotate(0 9.29289321881339 9.292893218813333)">
+      <path d="M6.67 13.03 C9.65 14.42, 12.62 15.81, 18.59 18.59 M6.67 13.03 C10.12 14.64, 13.57 16.25, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(230.70710678118655 1670.7071067811867) rotate(0 9.29289321881339 9.292893218813333)">
+      <path d="M13.03 6.67 C14.42 9.65, 15.81 12.62, 18.59 18.59 M13.03 6.67 C14.64 10.12, 16.25 13.57, 18.59 18.59" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(470 690) rotate(0 100 30)">
+    <path d="M0 0 C65.36 0, 130.72 0, 200 0 M0 0 C55.1 0, 110.19 0, 200 0 M200 0 C200 18.09, 200 36.18, 200 60 M200 0 C200 19.12, 200 38.25, 200 60 M200 60 C122.85 60, 45.7 60, 0 60 M200 60 C125.17 60, 50.34 60, 0 60 M0 60 C0 37.16, 0 14.31, 0 0 M0 60 C0 41.48, 0 22.96, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(475 711.5) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Test all new transports</text>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(450 710) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(450 710) rotate(0 10 0)">
+      <path d="M10.6 3.42 C13.61 2.33, 16.62 1.23, 20 0 M10.6 3.42 C12.8 2.62, 15 1.82, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(450 710) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C13.61 -2.33, 16.62 -1.23, 20 0 M10.6 -3.42 C12.8 -2.62, 15 -1.82, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round">
+    <g transform="translate(670 710) rotate(0 10 0)">
+      <path d="M0 0 C3.33 0, 16.67 0, 20 0 M0 0 C3.33 0, 16.67 0, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670 710) rotate(0 10 0)">
+      <path d="M10.6 3.42 C14.22 2.1, 17.84 0.79, 20 0 M10.6 3.42 C14.34 2.06, 18.08 0.7, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+    <g transform="translate(670 710) rotate(0 10 0)">
+      <path d="M10.6 -3.42 C14.22 -2.1, 17.84 -0.79, 20 0 M10.6 -3.42 C14.34 -2.06, 18.08 -0.7, 20 0" stroke="#000000" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  <g stroke-linecap="round" transform="translate(10 2330) rotate(0 480 170)">
+    <path d="M0 0 C377.63 0, 755.27 0, 960 0 M0 0 C288.36 0, 576.72 0, 960 0 M960 0 C960 129.45, 960 258.89, 960 340 M960 0 C960 133.73, 960 267.46, 960 340 M960 340 C601.85 340, 243.69 340, 0 340 M960 340 C602.82 340, 245.63 340, 0 340 M0 340 C0 243.27, 0 146.54, 0 0 M0 340 C0 270.29, 0 200.59, 0 0" stroke="#0b7285" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(30 2350) rotate(0 94 16.5)">
+    <text x="0" y="26" font-family="Helvetica, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">House keeping</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 2410) rotate(0 100 30)">
+    <path d="M0 0 C64.04 0, 128.08 0, 200 0 M0 0 C71.74 0, 143.48 0, 200 0 M200 0 C200 14.93, 200 29.85, 200 60 M200 0 C200 19.91, 200 39.81, 200 60 M200 60 C159.9 60, 119.81 60, 0 60 M200 60 C135.54 60, 71.09 60, 0 60 M0 60 C0 38.5, 0 17, 0 0 M0 60 C0 41.17, 0 22.33, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 2422) rotate(0 95 18)">
+    <text x="95" y="15" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Migrate dev env from </text>
+    <text x="95" y="33" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">ropsten to goerli</text>
+  </g>
+  <g stroke-linecap="round" transform="translate(30 2490) rotate(0 100 30)">
+    <path d="M0 0 C53.9 0, 107.8 0, 200 0 M0 0 C42.53 0, 85.07 0, 200 0 M200 0 C200 14.15, 200 28.31, 200 60 M200 0 C200 21.47, 200 42.94, 200 60 M200 60 C135.51 60, 71.01 60, 0 60 M200 60 C120.9 60, 41.81 60, 0 60 M0 60 C0 39.74, 0 19.48, 0 0 M0 60 C0 43.07, 0 26.14, 0 0" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(35 2511.5) rotate(0 95 9)">
+    <text x="95" y="14" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Add rollouts for all dapps</text>
+  </g>eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nOy9eW/izLYv/P/+XHUwMDE06NnS0T66mz41XHUwMDBmR3p1xVx1MDAxMMJcdTAwMWPCXGZvXHUwMDFmIVx1MDAwM2ZcYvM8XFzd737L6SHE2MZcdTAwMTBMTJ6mW500IeXl8lqrfmv+P/9cYlx1MDAwNP5a7qb6X/9cdTAwMWT4S9+2tGG/Pdc2f/3beH+tz1x1MDAxN/3JWP1cYr3+fzFZzVuvn+wtl9PFf//Xf420+UBfTodaS/+27i9W2nCxXFy1+5Nvrcnov/pLfbT438a/WW2k/3/Tyai9nH97u0hQb/eXk/mPa+lDfaSPl1x1MDAwYrX6/6/+XHUwMDFmXGL8n9d/XHUwMDBmqJvrraU27lx1MDAwZfXXX3j90Vx1MDAxYoGSUfO72cn4lViOMMKQI/77XHUwMDAz/UVUXW6pt9VPO4pk/e0nxlt/VZ6GtVU0XHUwMDFl32E46VxusNg8idDz21U7/eGwsNxccn/shNbqreZcdTAwMDc0LZbzyUCv9NvLnvo5NL3/+/dcdTAwMTZcdTAwMTO1XHRvvzWfrLq9sb4w7lx1MDAxZvx+dzLVWv3lzlhcdTAwMDe8vftjXHUwMDEzXHUwMDBlP7dV/6NcdTAwMDefMH4jiFx1MDAxMTBdPDJcdTAwMTmq7VZcdTAwMTf/J2hyJOjb5Ztaa9BVNIzbvz+znGvjxVSbq4fy9rnNr9uC5G3xnt7v9pbGTlx1MDAxZry50F+3XHUwMDE3Qs44I5C+7b5xnWmi/fqk/8e8PT1tPv25XHJ/LYz/XHUwMDFj0GiQ92Bmk0NWeccuS337RvjBw42H+Y6m55vRy7RcdTAwMWHbYjabLqH46/fn/u/P794oW03b2lx1MDAwZl6BjFx1MDAxMi4kp5gz+fvnw/54oH44Xlxyh2/vTVqDN/Z6fff//vtcdTAwMDK2Rlxm2bI14IRcYsCga7Zu4HmU41xyXHUwMDE5x3JT+Ehjo2VBa/mdrVx1MDAxMVx1MDAxMO/5mlx1MDAxMO/YXHUwMDFhXHUwMDBiXHUwMDBirj5cdTAwMTSsn1xcLSmmSGAsr8/UNnyHXHUwMDE5x0hpMs6vxXfv5OOA5SDHdiynnlx1MDAwNVx1MDAxN4wygV3z3FwiPCtXy3H0yFx1MDAwYrtxQ9f12DbZ8zvPUWRWpcCB515fl/NcdTAwMWPC+JjnMDKzXHUwMDFjXHUwMDA0SHCJXHUwMDAx9znPvT3ayXhZ6O9f+Ua8ezemjfrD3S9U8YMpXHJmVJRmtMWiv9ZcdTAwMDNcdTAwMGKFXHUwMDExtGZ/aDyxg51d6IqA11x1MDAxNdm7X1xyXHL7XYN3/1x1MDAxYeqd90y97KuVfv94OTnYhpZcIkVTy81cdTAwMTNt8y1N5v1uf6xccotcdTAwMGVkXSRcXEjawlx1MDAxNCgp41x1MDAwMlx1MDAxM3qGcM1jdFkvaZ1SXG5UuZz2XHUwMDEyWqF5d8KFmHfChaGFQsfMLFxcSOFcdTAwMTkoXHUwMDE4lvj6wmWNUn48wHA+uGsmitN2QWZcdTAwMDeJh1V/lizi96DlXHUwMDE3R2nz+WTjXHUwMDFhplxcTXQhe/eug+jm1MKBZU9cdTAwMGZMh6vuv1x1MDAwM3N9NDEkpm8wQWA66avtXGJMOupK/aHiw+9jfaw11U9gJlx1MDAxMFxylf5cdTAwMWRgYFx1MDAxMFBcdTAwMTLZWs2NJ1x1MDAxOVgtlHRYiv6BuryF6HtxW5fjQShcdTAwMGWY16RApHrkgkHsXHUwMDFlXHUwMDEwxnL74Fx1MDAxYe9cbpNEXCKx6aby0yXPVe5Nf0AnM+ejZzOwUFx1MDAxZuxcYlx1MDAwZWJEMKTKMLit9iBcdTAwMDWR7lx1MDAwMjSYZVx1MDAxN6VQu5LKlaM75E57/Nt63VO2k0ZhONGFk04t9ZDYXHUwMDE2SrPwfJk+veyPX36GL4R194/b7rbXTIrKStZ48UPk/lh3XHUwMDFlXHUwMDBm9VapcCj/uEyy5nyD9GaPX2HddOtxX57rT+PSXGatdq39KJOa9K6wbqe6XHUwMDE5XGaic7RtPafDXHUwMDFivbJP1SD7NKV/XHUwMDExjFx1MDAxMUSY3/2thSRcdTAwMDVcZiHwhnNOaSFrpvK9XHUwMDE2ervB198g5mtfT1x1MDAwYkFpoYXg21x1MDAxM/hlIWDKXHUwMDE5kuxcdTAwMGVcclx1MDAwNPcoo7CcK5pcdTAwMDNLfbE0ztWlcaiqM1UxoSVYgMRcdTAwMWEstNTvXHUwMDFk/spcdTAwMTFcXFx1MDAxOPXb7cMj+D1iOHVymkGEXHUwMDAz1ZdjXHUwMDAxRCG3k0KkrEWCXHUwMDE4XHUwMDE27p2e6XFtOavVnpqrXfk5XHUwMDEyKq/r1Szzu1x1MDAxOFx1MDAxZXpcdTAwMWM/XHUwMDA3XGZcdTAwMTCzXHUwMDE4XCLAXHUwMDA14ZTQ64vhbcHAj3VcdTAwMDFcdTAwMWRE2VNUT2ZXU1ReybjsxnPW677K6Gcte1xuulhf0CW1xVJyn1mnSovJKFif5Fx1MDAxMVx1MDAwZSXzm78hdFlcdTAwMTVcdTAwMWaqK9io5MIxXHUwMDFkT1x1MDAwYrEgzaxa91x1MDAwNV0gYbb+TShcdTAwMDBgXFxcdTAwMWXGkk5pTWc+9q3WNIGXXHUwMDAzMHNcdTAwMTPwQo+1JoTq+Vx1MDAxMyE8sKH8g16epsv+SP2SXHRcdTAwMDRcdTAwMDS+j1x1MDAxN8vJXFzr6oF/PUZcdTAwMDL/KzA09km9O51PXHUwMDE0XHUwMDA36Yv/tFx1MDAwNDdcdTAwMTS8u8DVwM1cdCRgXHUwMDA2N3Y3ZXVLbzf0XHUwMDAx3COQLe6BXGJBqZ4odC/BXHUwMDBmNNeqJjLrfCzeS01DwbCcTeJ+l2BcYs1RsU93gkBcYjCUylxiubFcdTAwMGbVK+BcdTAwMTPOXHUwMDE38y8pWIo8RJ70abhLwqGJjbviXHUwMDFj4HMvy57CU9ZcdTAwMTd0Se0jo6slT3cjg9VzuS6fJdZF8lxuzyxSXHUwMDBmNcjz/iUx2kV4Kd0s71A1fW/4RNh6eCFmkjLCpXurzpkv/Kvd3lx1MDAwM1x1MDAxNPbpzlx1MDAxNSk5XHUwMDE3yrr80vAkkYtcdTAwMTXeTvHduGVcdDu88qmcOIjNsOOY2MshXHUwMDA1XHUwMDA2yDbPXHUwMDA2KXSsxE7SMzyaq+fMg1x1MDAxY3Zba66XKuvEvDxcbq78LnSSfbYr5VxiUiCIoWBcdTAwMTJ/XHUwMDExV0pcdTAwMTJkm7KZXHUwMDBlv9SmXHUwMDE5XCLa4+hmlc1//Oj/my97XG6oWF/QLVDB9WA1UeGZzlx1MDAxM1xi6ulaKVx1MDAxOVx1MDAxN90rsFx1MDAwMi6uK/3Nc6hIVonHR5yGkWxpcYV1vXJUfVx1MDAwMLD5XHUwMDA1WCHIbM1GSjGigkP3uMqZjX2r4k1+n8M0s1vgquPMXHUwMDFiXCKkgF87ZFVa6PNfjo9AR2/rc22peO/7+F/TobbsTOajwP9cbujbqdpVfW7t6bHLefko5DpcdTAwMDFUzJDrzDu5XHUwMDFjjyGGbWWVYVx1MDAwMign0n2aXHUwMDBiXHUwMDAyxaGuiWFcIkpcdTAwMWYj4exylFxyRbp+l9UjXHUwMDBmj1x1MDAwZvBcdTAwMThEUFx1MDAxMIaR8EBeP1x1MDAwM5DpwdJiXHUwMDA16qA43orp89Ne39a17cchztWXPVx1MDAwNXGsL+iS2lx1MDAwZvhMvjpkgFx1MDAxY9im6zKKoGT8jFCRM1v4V1xy+Vx1MDAwZTNASCXiUEhcdTAwMGbsQv/AhrRx/5vXXfjt5vg+Xk6maiu71lnxXsGEXHUwMDEzXHUwMDA3qFx1MDAxOSZYUf6b7stBgVx1MDAwMFx1MDAwZWFcdTAwMWaBISaQuJfGZFx1MDAwZcem40pcdTAwMTXvWsvNZLql5KWNbieN8FwiaeSm3FfkYV2KkPKbPHxcdTAwMWSLJlx1MDAwMvBcdTAwMWJcdTAwMDZcdTAwMTgrXGKPXHUwMDExRuQwjPxLVCHlXHUwMDFjUXw7v+mPXG49KFx1MDAwZbxGXlboKfvFjitcdTAwMTFDgHByUCV2iilJtVx1MDAxNmKtSlx1MDAwM6xnrUJcIrpp5pr5pN+PXGJzXHUwMDBlXHUwMDE2ujVQpeJcdTAwMWImjFPJoERcdTAwMDRcdTAwMWVcdTAwMDQgf3KhYFx1MDAxMFx1MDAwMqHQ661g6ynANpegXHUwMDEy3pRcIlU9XHUwMDFkmr9cdTAwMTS7g0XoXHS7Tu4hm222UXte7EskNEtVXHUwMDBiu+LT6FxugG1cdTAwMTnKrHPxp8Rw1ZvP4i9a5lx1MDAwNVx1MDAwNCPXyCBL5Cvt51KjyuPDRjdCq5vHvn6FdeVcZlx1MDAxN0goVp+KXHUwMDA3/amyXHUwMDFlkmZzZ+NJPG/drezqxeKa5lPLIN+1Nzlt/HBccuBqaCaGXHUwMDE5lm+HvUfAlVx1MDAxM2J+9zduVaqaQETcKyVrZvW9UnpcdTAwMGZbXHUwMDExht8gx5hLXHUwMDAxpNLLXHUwMDA3QO6zUCxHTDGE0ks3PVx1MDAxYc9mwI+h2KjeUvc0NJKDRqPFa2pQv6Uvvo//I1x1MDAxMI7FbopiT1x1MDAxY65mXHUwMDE0e4Lyi+RcdTAwMTLZu7VcdTAwMTBcdTAwMDRcdTAwMTBJdYy592vVMnD7MJnUXHUwMDEyLLWoPlx1MDAxNLOoU1xi130vmCZcYntYcn9tSTwwXHUwMDEwXHUwMDFkQvtcYmKBIME3lkPEXHUwMDBmM1G9lsPIK1x1MDAxM6vdalxyrIP61FroPKqqPCTncuwtXHUwMDBmMiBN4oS5XHUwMDEwlEro/pgrbUrdaaxZ7Fx1MDAwNnm9WY61StHJS9j30mTC3p42KnBcdTAwMTm0XHUwMDE3iCNlgN1cZmz/eHxPwVx1MDAxMOyXo3OtNG/kXHUwMDE3XGakg494ZY3aruN0tb6gS4w5KcVLadlMJOazPG+Pd8l8aFW4XHUwMDAydk1cdTAwMDUjvWGrkixcZkaRfD05XHUwMDBmpcJcdTAwMDObsorzXG5cbu7M5uCjcSpBXCLZaD7Va4SCxUo8zK9cdTAwMTEx8MrmqEeD2uBxP3pcdTAwMWWo81x1MDAxMDZwN7kuz92t+/M7J29cYiFcdTAwMDRerV+Rrc0hbZWx0lx1MDAwNpRcdTAwMTPM3CtjZ2n2rTJ+b3Ng9Olpi0hARTchX9rGqFx1MDAxNFx1MDAwZTC6XdtcYq+yXHUwMDE2T8BcdTAwMDYz8Dmi9Vx1MDAwM+hcdTAwMDfaelx1MDAxZSFEyChcdTAwMDZcdTAwMDbuXHUwMDEzWlaVTmn+XHUwMDE4SYxoZTmStX4hhJu+t/LNOYteulx1MDAxZaHZXHUwMDFmXHUwMDBlj1x1MDAwNZCaPlwizfJcYlx1MDAwNVx1MDAxNoQxwW9cXCRcdTAwMTHfXCJcdTAwMTJaZ57S8Umaomh3nJlObc7Zc1wi3fey7MmegJZcdTAwMTd0SW1xlHlcdTAwMTZcIjTKs3B+0m2tnpKVh+drYFx1MDAwMviEhrAhafmlUNW6i+z4cX+N4tBcdTAwMGb4Nz9cdTAwMDV7RmKrXHLeRJJcdTAwMGYt2dH11jhS7Fx1MDAwN/dXWHc1qshtPlx1MDAxZXuqTVx1MDAxZVx1MDAwNlx0mNvmx/WrXHUwMDE0i9zOz3vYcsZ0XHUwMDA0XHUwMDEwXHUwMDA0oVSnv/tuYs5S59tcdTAwMTPA7Of1MD1BnD5cdTAwMDEseotcdTAwMDFcdTAwMDQgZezW/qXbYrBCrFx1MDAxNPiPwG9081q6uu639Xlgrnf76tZeM1x1MDAwNW/q7z2BaI56dLy/XHUwMDAza/pcdTAwMWSl9IeWsFx1MDAxMFMkXHUwMDFkUlx1MDAxN1x1MDAwNFx1MDAxM1hx1lx1MDAxOW27nLvG+SZ1gXzjXHUwMDEwcUBcdTAwMTEggGB5XHUwMDEwJ39NLFwiXHUwMDAwfFx1MDAwM5QhKo1eqvydXHUwMDE0XHUwMDA3IVwi6qdcdTAwMTJIioHEalx1MDAxZM+EXHUwMDFhfFOXUlBaXHUwMDAxM4QlZJxcdTAwMWRcdTAwMGK10Vx1MDAxN+BcdTAwMWKiiFx0plC1IOA4z4FSXHUwMDAwXHUwMDE1tKPifCF/JfbWKUmLpTZfhvvjdn/cVT98O1x1MDAxZX814v4hQ9mnRlx1MDAwZUfCzcyomS/N81q+XG5mqYMzUqmF1sqgXHUwMDEyvUbXJIJUXHUwMDFkPIK+XHUwMDE5nMZOaNPXXHUwMDA3/o1xaKglglx0RVx1MDAxMMGfn/h9Sv+lj9tvJL2/XHUwMDBibbE0fMb9pbr/nNF1z/yJ11x1MDAxYlxuXHUwMDE5XHUwMDEy2NO1I/+zWvnwZ2ZR/dHH71x1MDAxZIh++y7wduS8/uf39//zb+tP23KU8Trmpbf1/nH49VxcLGBcdTAwMGZcdTAwMDWMLFx1MDAxNIzAwUM5qWKcn7tvVMypXHUwMDBl6Fx1MDAxZcaWrPqfXHUwMDFm5z9hpExUctDu4k9b0Vx1MDAxZlx1MDAxZIHBu3d/XHUwMDAzi7dcdTAwMDf/XHUwMDBiWCz7I91cdTAwMTI2XHUwMDFjeD9uXHUwMDExsXqlw1EwnVx1MDAxYndCbiufSlMwqiCCe6heg7nYyzI4XXVehrRR22afliTmd6hunPjv5JN42PhcdTAwMTdcdTAwMTno4vBl0WTbosCBKNVcclx1MDAxOL21wFx1MDAxNsriMdHcNya7p5clj8RcdTAwMDdx2WxbXHUwMDBi7Dl+lL/5sqe8PtZcdTAwMTd0SW1LdspFXHUwMDFkwGl6OetcdTAwMGaT7Vx0nVRtqD3LKyGGiWmTXHUwMDE1m2i72lx1MDAxN3NcdTAwMTlcdTAwMWN8fojurqG7XHKjUHBCXHUwMDBmXHUwMDEyTLwqm4Dcvss5V/aOPMsz7cxcdTAwMTf+VXbvXHUwMDFkXHUwMDEzRHhcdTAwMWFcZjqp7Cz6hVKGjYahXHUwMDA3SVx1MDAxNLdwTJzNg1b4wb1j4lFcdTAwMWLpn1x1MDAxMlx1MDAxODpxRpvxxTs6P4AzmG1cdTAwMTRcdTAwMTZCiVx1MDAwNUaEuVx1MDAxN716bzfieL/VaoPKsvdSfHmqsr7fRc9sXHUwMDA2eDkwRsmQVUL68cRcdTAwMTioXHUwMDAwXHQlTHjRy8JcdTAwMDd1cvaRSFx0gVx1MDAwMOSww+ApplvOs+PCpFx1MDAxOCt3Qs/ZwqAq95XWxvdMXHUwMDA35TdJlNZnpsbQXG7kKt1MqVx1MDAwMFipPYKkPS9+9Fx1MDAxNDjoYfPmjz4qhsBcdTAwMWNcblx1MDAwZbBcdTAwMDdcYtdzo9H1XHUwMDE4may+XHRcdTAwMTSiKUt9f+PRMb9IuVCwbPP4lT7BXGIzxN1cdTAwMGJWjChp6Zbbs26jPYK8kO+vkrrvXHUwMDA1y5QvTD3McMTQXCJh+CBl+5cul1x1MDAwNnRilN9cdTAwMGU4/ZYh8UFcdTAwMTk6o1x1MDAxOdh4PFkrXG5cdTAwMDLauFx1MDAxZNBH08lGn/8u52zNdW05mS9cdTAwMDKb/rL3fdyajKb6UFHUff10T21dcKrPjY5cdTAwMTCaYtfAcjJcdTAwMTnaTHOxQV9cdTAwMWVJ4/VvylGubSNCkNq7a41cdTAwMDJcdTAwMWRjupxw7651bvvjU8mWXHUwMDA3/uhcdTAwMWYjXHUwMDE0wDd1jP7642VcdTAwMWP3WMrBN2iEm379QZhcdTAwMWVcdTAwMDVyjVQ6KKW84OT8aIjnXCKpd1x1MDAxOeJx7vZcdTAwMWJ4XHUwMDBi8Vx1MDAwNME3fPhCXHUwMDA3zVx1MDAwZlx1MDAwMr+jPD/fsFx06thcdTAwMTHh3IjmgFxiXHUwMDEzXHJcdTAwMThbXHUwMDA0mo5IuKfo0Vx1MDAxYnNcdTAwMWGvoFx1MDAwNV++rfCPw6/nR6WRfflcdTAwMDQ0hkeoK0v36MK534dPdVx1MDAxMITsWFx0XHUwMDAxhFxiZ4RDXGblQTPW26ghXHUwMDAwXGJHiFx09VdyIfCBq+S338aoqeeHRteXUESudcCrXCKCRLEnXHUwMDE1jFOq7OqrKVwi51ZcdTAwMTdcdTAwMGWKyFxyXHUwMDA1d62Hjlx1MDAxOfNqiog7jGRQaFxiXHRyTp9cdTAwMWTnhkZ+VUToRzpcZlx1MDAwNlxuZFxiLFx1MDAwZrySP1x1MDAxNvDOe6yui4XaYyaNnYZcdTAwMTRcYlx1MDAwYsVcdTAwMDSPrCBcdTAwMDJcZvcxJm9cbvJLaCHnLsTvXHUwMDE0XHUwMDAwV2CQM1x1MDAwNI2vgrhCXCLX1UHBXHUwMDFmNPx8qd15m0b0m1x1MDAwNnTXWijowJzGXHUwMDBi8mspIci5fd91wiBWeOCMudfOSdY+VUJmi1xmeThVXHUwMDAysm9CUEApNjKkXHUwMDEwI1x1MDAxNnl3x150XHUwMDBliVT8XHUwMDAw3oxDr5VcdTAwMGXhXHUwMDEyXHUwMDAwyNjBoK/rK1x1MDAxZOfWXHUwMDA0JuhcdTAwMDNcdCFY7Zwx7Vx1MDAxNZNcdTAwMDNx+JjWcU6XdTLB3jxkb1rnXHUwMDFiVE+KXHUwMDE4XHUwMDAxXHUwMDBmpa8xJXethex51fTrrlSQc/xcdTAwMGXYj9ZEgFx1MDAwMSDxYTOtk0P9XHUwMDEyscWwmW33smGUw8ti9Pnhwfdq6Hi4zS1cdTAwMTOFLPqcWSRcblx0w1x1MDAwNJOQXaCIPpIoXHUwMDE0W21SmX69QTLzzXxNkuF8vFL/65BcdTAwMWIvSr3xaNk/Ve5eVbmfSm2yfqBuXHUwMDFmW2NcdTAwMTeaJJpbyHPherOQQPqmQ66wXHI+TJlyXFx3XHUwMDFmXvFNSJvGXHUwMDEzYY1cbr2wKPDgVVx1MDAwNjW/XHUwMDE25SMjKn5cdTAwMDamcDxT7JPC7SPz6lx1MDAxY1x1MDAxMUxcdTAwMTkwZ8yLd1RcdTAwMTP+PU0+MVx1MDAxM8viNDnOxFx1MDAxMkbLXHUwMDE0cMNw4itcdTAwMDNcdTAwMDKFY25cdTAwMTdONOLgXHUwMDE5RbXW1cOr22ZinVx1MDAwMEFWXHUwMDEx+1x1MDAwM0o/gOUgclx1MDAxODWqIDxXdqV76euhxfJ5XVx1MDAxY07jqUSmPM61ilx1MDAwNbzwu/SZw/f881x1MDAxYlx1MDAxNCnFXHUwMDA3MIGHLrabYLfsNprSqiRcdTAwMTbMoXqzT1xuj/v+XHUwMDAwfFx1MDAxY2R5tOxcdTAwMWbs5m2Hoqs/tlOQ0PqCLqnNTYPacz3V1zuAR1x1MDAxNpl5Ro8/X6PvUaK1XHUwMDFhlvu9aa9ZXHUwMDFmPb7s9Mc06tvswlnrRvNw3dRcdTAwMWVTeNPopidVkZGwadNccuw8bmjJ1D600dOZ2Vwi/vykr5uj5vRcdTAwMWGQ8Fwi3/ZlkNB+plx1MDAwMVTQSKlGwd07XHUwMDE4nNnYt4fSe0TIoaeI8PhQwsfJ+FKi1+HjXzqnLJKPXHUwMDE2jcr65aQ1XHUwMDE5XHUwMDA22nqnP+5cdTAwMWJ19YHvYyPFqj1prVxmqlx1MDAxZHpcdTAwMDV4XHUwMDA0XHUwMDExT2Cro/aVdvdxfFx1MDAxN1x1MDAxZoCPh3VcdTAwMWNHOWJcdTAwMDBLY1xmkntJjURDcI+6rJZ9WcZcbttGdDd7XHUwMDFj+F1Szf0tmVx1MDAwZoYgXHUwMDExzJja/1u7/vY01K1ON/PqbKtX4PJZl8/PNvN0zsF5XHUwMDFlLftcdTAwMDc+elx1MDAwYlx1MDAxZu+FXHUwMDFiTqFS61x1MDAwYrqkllx1MDAxNrc6KVx1MDAxNqKhdmu35I3nyWRaXHUwMDE3Pkalg3Z1O4f1Van2kpjF0oVWdZNLXFxhXa/QuVcoWlx1MDAxZvfZkmRLlX7+acFjNFx1MDAxNNtuW1dYN1ldr5qjVmbaXHUwMDE0MVx1MDAxYYS9bjI3uMZU1U1ygXfhQbjCluxpWUlloyTrUjn8/O7zUb/9RFxihFx1MDAxOeBcdTAwMDRcdTAwMDH3XHUwMDE5Vs5awrdQwjRT/vNcdTAwMDeZIcAhJVRcXJBCdT+Y33CnPkRcblx1MDAwMa5Afn80/UGjXHUwMDAzwn+/wtVcdTAwMTD+XHT4a+VcdTAwMDT+QbWJZkfpO4XnbTOMpJBcdTAwMWNidEZpbnk+Xlx1MDAwZp5fXG5rMG+vte2k3FNf/S+DvvNcdTAwMDZLXHQxYZ7IoNORXCJcdTAwMTNcdTAwMTPer3XhXGaK4r5WXFzHVrV2/OP4zaNl/6B5b9H8fXHD1Zc9ZSRYX9AltV6B+Uk8W56Hg1x1MDAwYqLF4DDzmNqW25FrgGOvjITNuMlcdTAwMWL5TnawXHUwMDFll+elXHUwMDA2b/Q3s/BcdTAwMTXW9VxudFd5O9mur1qylMLtXjCdSrSRS+PON6BcdTAwMWI7ZF8gLjiXZ8xhc1x1MDAxNjvfnvgmV/vnz0SQXHUwMDEwSURcYvLAf+dcdTAwMWbUXVx1MDAxYasnXHUwMDE0+OGn1lx1MDAxNOeNu4f76nnKxVx0dGpG21x1MDAxNtR+XHUwMDA0Z1x1MDAxZmTSXHUwMDFjlVx1MDAxMzFKKZLQvbGb2+40MY2Ms1puuKmgalx1MDAxYsnHot/Fjlwiu64jr6bva7NcdTAwMTJcdTAwMDIlI0hcdTAwMTg//2xcdTAwMTBOKEDGo7lxRlx1MDAwNnjR0mtcdTAwMTbBaPOw4MXcPFJcYsXKXHUwMDFmx0dcdTAwMWUt+1x1MDAwN4R7XHUwMDBiwu+LXHUwMDFirr7sKVx1MDAxMG59QZfUeuWpb780YrxcdTAwMDN1PVx1MDAxMUpcdTAwMTb200irwZbX8Hx/wEPtXHUwMDFi8Mml+d3fsyFcdTAwMDRgjIEzZkM4c5tvXHUwMDBmQep0XGJieKND0PVAYC45ZPBrXHUwMDAzU8Oxml+NjXbKXHUwMDE3JYB45Fx1MDAxZT6B8qzcw1x1MDAxNndx3fSPg2pMc8doSLlcdTAwMDD0jJlcdTAwMTHBzETQ6SPdZKKj9H6Y2VT304rfXHUwMDA1+KhcdTAwMTDMyV+MXHUwMDE56bS491DVUFx1MDAxOJhjXHUwMDBmmm84XHUwMDFkSMPUuFx1MDAwZZK9TjNVyuZcdTAwMDbJKqtsZk9cdTAwMWZHXHUwMDExXHUwMDFlLftcdTAwMDeqelx1MDAwYlXvi1x1MDAxYq6+7Cmoan1Bl9RGwo9hsE9cdTAwMGYhWEjcyVx0jT6PU1d4ZqNcdTAwMWOmjzV9XHUwMDEwkfHRfJlfou1wcI2qumBxManCh2Vk23wkycm+X4xGXq6wbu8xXGbFS2EjZFx1MDAxZtZEPf5U6K+KV1i32azmZ1tGXHUwMDFhpa582iT3ZFx1MDAxZOo07lxmWlx1MDAwYtuTXHUwMDE5YoKpoGe0u3WWXHUwMDBl/57M7v26XHUwMDFmPZld+nUhVShcdTAwMWVIT1x1MDAxMjP9g59jurZULGD4SVxyn6nRqvI1UYFcdTAwMWTur+f+3Vx1MDAxM3DSXGaX7Yn+XGI+tjdwXHUwMDExlJxgfIaX92XVRrFILjKqvvT2pNnbbGNj30uhefytXHUwMDBm0ilcdTAwMTAgXGZcdTAwMTFcdTAwMDG96C/tiDGac5yLtlxuuX1H1oa9oGzNpzbDPM+CLt4s+1x1MDAwN1x1MDAxZnuMj++KXHUwMDFi/ubLnkTzllx1MDAxN3QraVx1MDAxZWVpeJVN8Vx1MDAwMXTsuO7uhTXGZbxcdTAwMTlqXHUwMDBmPJKf60TvTzL3hbohwLb1UFx1MDAwMnCBgJDuPdrObOzbXHUwMDAz31xcuPjpOcxcdTAwMTJcdTAwMWJ9yDyZmOZcdTAwMWbQnZtP2quWXHUwMDFl0NdcdTAwMDZtgc5kXHUwMDFlXHUwMDE465vA97FcdTAwMDFi/6X2r63P9fl/3tRjfVx1MDAwMrGaIbjNLZhu4Fx1MDAwM3BcdTAwMWNS21xuXHUwMDAzSCBXqFx1MDAxMFx1MDAwYvd4PFgsMVJK7lx1MDAwYjFcdTAwMThqv2xC3cfVXHUwMDFl+l08j/zV+PP91cawXHUwMDE3hlx1MDAxObwkwfkjXHUwMDBl66lcZtYqveyyVOnPYkzvs+hw//Bx9OHRsn9cdTAwMDC5t4D8vrjhXpY9hZytL+iSWj5cdTAwMWGnXHUwMDEyJJKN5lO9RihYrMTDXHUwMDFjXYFcdTAwMTVcIrHVXHUwMDA2b1wiyYeW7Oh6a1x1MDAxYyn2g/srrOtV17pcdTAwMGZ0gXNcXHc1qshtPlx1MDAxZXuqTVx1MDAxZVx1MDAwNlx0mNvmx3VcdTAwMWI76qx1O4VpVr7sWFx1MDAwMpH4ZDRcdTAwMTTPnVx1MDAxNXy+wrqZXCJcbq6SL88jbbbog11dlCfR2Fx1MDAxNdatsadWLfO8TOdcdTAwMWb3eLGvx15cdTAwMDCz6T15QZc9XCJcdTAwMGXmr3s38PQgZ+NcYvtcdTAwMDDEJFx1MDAxNcB9oreznvAv9nlvm2BcdTAwMDS/UdPlb1x1MDAxZVx1MDAxM1x1MDAxMEwqq/GSdtFcdTAwMWborKdcdTAwMWU3XHUwMDE2XHUwMDE3tYu+OKOmNVx1MDAxOY1cdTAwMTbGv1ODsW5cdTAwMWJcbnBG6laZMyZqXHUwMDFkZc7R6JDIvpdcdTAwMTFcdTAwMDCEXHUwMDE4g1Lcu1x1MDAwNFipJPq1ymZcdTAwMWKBm2Eh264uUZnfgdz5r0WKMviEUdty4yBA/GFcdTAwMTXrlUCxU1x1MDAxZNXy1Xp+yGiYflx1MDAxY7d5tOxcdTAwMWabw1ub4+qP7Vx1MDAxNNy2vqBbWOxR2klnkduM91tAeDOcXHUwMDAzoXi3oaX6V1g3X5+Nw71sTfanweQoJpLlTql3X1x1MDAwZWV5oM3MXHUwMDE50kZfXHUwMDA2ToX7enxnbvPv4eHDplx1MDAxOFxiMcVcdTAwMDdcdTAwMTckWN6PQ/m11E1v/8hcdTAwMWFcdTAwMWVN2nqgb+RAv9bB3dSLfFx1MDAwMvNYNr4z0/2D6lx1MDAwZqA47pBORYHgXHUwMDFjUPcobjMvgdmoMHkuJVx1MDAxYo/pZnGw1GZcdTAwMTPfXHUwMDBiXCJcdTAwMDG+Q3GMQlx1MDAwZaW4dSZHXHUwMDBiLyaZyOM+t4q1XHUwMDFhNFdcbsV2L/OPoy2Plv1cdTAwMDPivFx1MDAwNXH3wlxyp7Ch9Vx1MDAwNT9cdTAwMTnDvVx1MDAwNNfp4C5TaDdr8TaA5WJHi7msnvNccoZj9nO0pURcdTAwMWNzXCLdV8k4s4V/z1x1MDAwZVx1MDAxM4gjn95jgVx0XHUwMDAwXHQnXztcdTAwMTX3QeGgwEIhMP1ba95efmv2rWvWvPK8nUA6ZuxmRe5cdTAwMDdAXHUwMDFitc2+NXLgXHUwMDA1Y4K4XHUwMDBm949GeJGeLuJZWpJd8lRrVGA26HvBY8h3oFxyKkFcdTAwMTBQ3ryVQmf9sGuvXCKtbEqOk9FVobBbN69cdTAwMTAy9WjZP6jNW9R2L9xwXG61WV/Qe3TluO5zui9ne71TXHUwMDFmacFst1lZhFx1MDAxYnuXgXnfoDb7XHUwMDBlPZxyqaxO6j5cXOrMXHUwMDE1/j07fOd5g5AwLCD/2lxyXGLSXHUwMDEzrW2CQYHOfDL65X5cdTAwMGL8h5FcdTAwMTR5UyfcXHT0Y1x1MDAwNnK2d3BI/1x1MDAwN5CdtDepXHUwMDAwXHUwMDE0QDByxszAXHJcdTAwMWEuXHUwMDA3dTFcdTAwMGXJwmySanNRjVx1MDAxNTp+l86jwirx+cBcdTAwMGVcdTAwMTmThy+afP1cdTAwMTFcXDfTWbKgabVGaZlcdTAwMGK1K7NYXHUwMDExXHJtsp/OOck9WvZcdTAwMGau81x1MDAxNtfdXHUwMDE3N9zLsqdQqPVcdTAwMDVdUutVXHUwMDE5fyiZ11Kd+myaSzxlmtpajlx1MDAxMtM7K+M3TjP7k1x1MDAwZVx1MDAxYvFfIN3jUGe+8O1JZ6ookp9cdTAwMGZDXHUwMDE5g0hcdTAwMTLEv3RcdTAwMDQ4anSN0v/9u13Ua++o7+PEr2lcdTAwMDOv1TmlxFt81Vx1MDAxMpDid+tez7PoXGbazIDU8l7s78RRWH8oXHUwMDBiXHUwMDBiacVcdTAwMTDb4lKjaZrgXHUwMDE0uI9cdTAwMTI7Z3X7VFjVXZrqi5h3uNTKz1x1MDAwZo5hKSPqXUnJXHUwMDA1uPRUeZFTXve509NcdTAwMGbo0ObLcH/cNppcZv/3wcn2l/7j0m6yWl/Fu7V6fZLf2MG7XW1qXHUwMDEw+fON3yfoX/q4ffqaznOqXHUwMDBmrlx1MDAxOVx1MDAwNN+ofPdcdTAwMTIuaFx1MDAxOGqLZWQyXHUwMDFh9ZdqK3OT/nhp3rLXvVx0XHUwMDE5XHUwMDAy2NO1tvmn6lx1MDAxZVx1MDAwZX9mltSpseJ7e+Ltu8BcdTAwMWI7vf7n9/f/8+/Tn1ZcZvb2+X9cdTAwMWN+PVuJQOJcdTAwMTC2kERcIlxizpl+6jwgy6daRMnON1x1MDAwZVx1MDAxMEVcdTAwMWNcYkBcdTAwMDB5U5qvfigpvyEhMEFSSFx1MDAwMFxiM9F1RTggvlFcYlx0QlxcSqM+8aBC8SCy+I1xw+mgNJ+iXHUwMDE2XHUwMDFmuCZ+KyBcdTAwMGVcdTAwMDEnXHUwMDEwetCQz1x1MDAxM7TgUlx1MDAwMTlPJH2ngCiBXHUwMDE0IInVXHUwMDAxXGJcdTAwMTliV9NHziOTTCQgo/6eK5aijJGvpo7sWdV4XHUwMDA1j7n0WvpKcNuWXHUwMDA3XHUwMDE0SCZcdTAwMDGU7oOszk2NfautoGNcdTAwMTNf+U1yzjHHXGZcdTAwMDFcbj3UVvybPGxcdTAwMTf8tlx1MDAwM7+VldFyXHUwMDFmMaU3OZNKKUEslP480ldcdTAwMDJjSlx1MDAxOIBcdTAwMTdcZnr2s75ybqD7XHUwMDFlvGDT61x1MDAxM1x1MDAxNNZcdTAwMDUk3JXCsuPW19+24tOrISyM7Fx1MDAxMVx1MDAxNlx1MDAxM4grO466R1jO7iuf6ixcYplcdTAwMDGx1N4yLlx1MDAxNDI5yFF79bFwXHUwMDA1sSRcdTAwMTJcdTAwMTIjKN61SvNcdTAwMDJiqccvjI7FXHUwMDA2MmDWXHUwMDEw6/AzQlx1MDAxZaksXHUwMDAyXHUwMDEwxox+NYTl7OR4XHUwMDBmb7AgXGa+/XstheXcRvGjJNyVwrLlVONcdTAwMTU8ZtKr6StcdTAwMDRtq1x1MDAwZjjAXHUwMDAyQ35cdTAwMDbEcm7f5V919XaxXHUwMDFmbaVcdTAwMTSqYpwjyTFWsMpLXHUwMDA1ZVxyo7BSi4os9bxcdTAwMTWeRvTY6lNkXHUwMDE5uVxuwIOuNp+pk5ybOt1cdTAwMDZFnaGUvjqKXHUwMDEy7z5uwZfX0kLcwS1FXHUwMDE03zFcbs5onuXcnNCnWkhcdTAwMTJcdTAwMGIlxLnCplSZd4eJXHUwMDBmt1JCXG4jY2g072CEXHUwMDAy9eegm8VPLVx1MDAwNLiglKNLkm39rIWcp/fdRlx1MDAwYrnWhH9DLXTEmNdSQ4Lb9tNQMIBLSOhcdTAwMTk9tZ0nw/pUXHJxU+pcdTAwMTdcdTAwMTPeXHUwMDE107hra6/gvtp2hL5cdTAwMTjUOcNZ48ad7EqpnKPYvppcdTAwMGb7fUhNXFxLZUAs7au3XHRcdTAwMDGEKKDkPonGuVxyhk91XHUwMDA2xGalcZA29DlKXHUwMDAzUVx1MDAwNUzAl4uKnWGbXFxNaTi3SPhcdTAwMWIpjeD1tFx1MDAwNie2XHLzXHUwMDE4Ucx71oRm5/Jo3+pcZvHe3nlccmVJKDFcdTAwMTNcdTAwMDJA7mVccq+NvVx1MDAwMyRFnGLOiLK7sODHmXlcdTAwMDIqfW64IL+WVjlHwr2yd5yLef/e9s5cdTAwMTFjXktcckn7lEJcdCDl7IyBXHUwMDAyzuV+ftVCXGaYtFx1MDAxMFFcdTAwMWKOmbItoVx1MDAxMjwqhYmUa1x1MDAwNtQttdDBtTlH7MjzS1x1MDAwNZJEwq9mXHK5XHUwMDE2f0NcdTAwMDUhdUBcIlwiKJNcdTAwMDJcdTAwMTJcdTAwMDb4wcc+pIOc69BMOkggLNSjkpBxXHUwMDAw4HE8XG7dt1x1MDAxMuKHXHUwMDFmXHUwMDBmWjDm1aBcdTAwMTC2n5uA1M5cIi6peyzk3JbPr1pcYlx1MDAwYiNebmQjYExcdTAwMThFppRE+Fx1MDAxYS/nlHMpXHUwMDEwlF5cIiMjzCiQUjBcdTAwMDJcIlx1MDAwMcRcdTAwMWIh5ng5MVLBMCPkwNL7XHUwMDE5LsdAnVLkkko9P2so1yDpd6xcdTAwMWEpKVx1MDAwMYLgq4XLu+s8XHUwMDFilHKZ1VOlXHUwMDEy23dbwVR9MnRcdTAwMTMuZ1/NLrNnVONcdTAwMTU84tEzldWJwYtcdTAwMDdRV/NcdTAwMWMmhZlcdTAwMTA/J8HH+Zn6VWGZ2/VR8ulcdTAwMDXC3Jiyo87jXHUwMDBi8lxuP1IgPKlcdTAwMTXKu0Wuk440UvvmbFdcdTAwMDNcdTAwMGY9m1x1MDAxMtazKnk9WvZPgbCnXHUwMDA1wnfGXHLeLOtV41x1MDAxN4/I/UAn59uSe6pO2vqCLqntr1YjsVx1MDAxZoTTm9xgllmMm+PF3qZb+HmtkJqhWGiSya5cdTAwMDSMsZLCuKlo+lx1MDAxYePZ4zGW0tuxLa7WetFcdTAwMDSvj4vN3sDdur8gwFx1MDAxNcGkI5qwXHUwMDFmm1x1MDAwMu07jVx1MDAxMMFcdTAwMDXjiLrvNOLMb/5FXHUwMDEy71x1MDAwYrAp/fRcdTAwMDJsXHUwMDA2lJ3F6SVe3vupvy5cdTAwMTj9c1x1MDAwMsOJ1l5cdTAwMDRcdTAwMTSuX+q/mlx1MDAwMOV/XHUwMDBlQzzcZs87XHUwMDAwnUDB5oJrXHUwMDFi4n+T7iiOJ8C9fU9cdTAwMDQsmSRcdTAwMTKfMcmIrlxuMNRcdTAwMDCMz1x1MDAxN9vUY1ZcdTAwMTdcdTAwMDU6WfpeJM1tXHUwMDFkfVx1MDAwMO6VmceJMqhv3P3nYdjPXG6tXHUwMDFhLfZcdTAwMTKxQnuWwPPHJ/lxxOHRsn/Avbfg/r64waNlvVx1MDAwMvdcdTAwMWWR61x1MDAxNbi/OrmnwL31XHUwMDA1XVLbXyVb4Vx1MDAxNlx1MDAxYkfGPDVcdTAwMWS38rGHKL7G7MJcdTAwMGVul2qynHlq6a3waNt+3K9rTVx1MDAxZlx1MDAxYlxyYlx1MDAxYlx1MDAxZkZSpXirVE3sUtVqgY3A1N26P7/zgdHgUF+IJFDIXHUwMDE1XHT3UVtnPvYvQjFcdTAwMTlccszDmIi7ju9cdTAwMTAwyiXD8EtcdTAwMGaCN8alL3aLpT5aXHUwMDA0vv/VmyxcdTAwMDNz3YDh3/+yNFx1MDAxN7zq/H5cdTAwMDJXXHUwMDFmdX63p9pRXHUwMDA2XHUwMDFkkj6xfec0ylx1MDAxOCPgnKRPZ3XnWyE0pU5QXHUwMDBmmzFZpmxcdTAwMWSJIKRK9Vx1MDAxOa1bzlx1MDAxN0E/R1x1MDAxZV2H/TxMz3KWuMDfNz3r7eP/OPx6vkqh3F6lcFx1MDAwMjmQ8oz+bmKYmDZZsYm2q30xl8HB54fozvcqxZxcdTAwMTNKPOw77EqlXGKBmVx1MDAwMId9XHUwMDAzbtHdTXByOF7k+lx1MDAxYeVkp7WfgupOx1xcplFqMFx1MDAxN3tZXHUwMDA2p6vOy5A2atvs05LE3NHggoQ/XHUwMDFhJYBcdTAwMTB2KKpFxEgncq9Q5FxmXHUwMDE3SChWn4pcdTAwMDf9qbJcdTAwMWWSZnPn+/ROafJkXCJcdTAwMGb1iZWVcJRcdTAwMWJcdTAwMDWNiaPKULhhctTrRHZDi3lcdFFItVx1MDAxNmKtSlx1MDAwM6xnrUJcIrpp5pr5pFxyRLHIRfqmkFx1MDAxNFwiXHUwMDAwXHUwMDBiwOlrxtJlKqW0KXWnsWaxXHUwMDFi5PVmOdYqRScvYWuQ8tVcdTAwMTKi3le3XTffXHQ6XHUwMDE4O1x1MDAxY1xiSSTg7jM0e43sw1x1MDAxM1BPiNf6K/LYmkf7XHUwMDE531fFXHUwMDFlxUQ4sNckmJFOi1+uSVxcxkRcdTAwMTCQXHUwMDEwSERcdTAwMGZmyVxcTZf85lx1MDAxZlx1MDAwYifaLo2zqdw6XHUwMDAzXHUwMDFmu0lt1648vmT6+OOeWo+W/Vx1MDAxM1x1MDAxNPE2KHJf3HBfy3o1u8C5S9Pl6zpcdTAwMTcvX7LuqaiI9ca7JDdYXFxMqvBhXHUwMDE52TZcdTAwMWZJcrLvXHUwMDE3o5FrRFx1MDAxOSZPk1x1MDAxNSs95vPPKPWcmD4lg8XMNUStt54059tGczxPz6bBcLSVyCbTV1i3RSal1KDRycdYOdeIl9rbaL/lbt1f6MJcdTAwMWF63nKUhUNcdTAwMTU+lsrcXHUwMDExXHUwMDFjuE+lcpZn/2JcdTAwMTTTLFx1MDAwYmRcdTAwMWZcdTAwMTX5KEZxXHUwMDE5XHUwMDE1kZRSLOkl1Wr3XHUwMDEzXHUwMDE0ySte0lx1MDAxNroxdizwbks9j4OcwNLmOMh7Qlx1MDAxZFx1MDAwNe2ERYBs++RIqthQfcC9Z2E+amSKvSWOVVxuMlx1MDAwMkPb/MNLsOt7YTNXQDhcdTAwMTlcdTAwMDS3SpLiXGZBXG75jUffhnNcdTAwMDROXHUwMDBifFx1MDAxNiuKRm+6XuVZM21z6p9cdTAwMDN+PFr2jz3grT1wX9zwZ1lcdTAwMGYlLZ4tz8PBXHUwMDA10WJwmHlMbcvtyOpcblx1MDAxY+aV9eLcNfKSdU9ZL9ZcdTAwMWLvklxcr6yXXHUwMDBmWFx1MDAwM47rjnKYPtb0QUTGR/Nlfom2w1x1MDAwMbkzK1x1MDAwM1x1MDAwMttxXHUwMDE0XHUwMDEwXG5iXGZcdTAwMDFB7q1cZme58y/wcW9l3Cj3ilx1MDAxMaGwXHUwMDBm8KL00z9WRlhfaoGlvlj2x93XXHUwMDAxc/pWM0bMLVx1MDAwZbfXc4vjXHUwMDA0WDdbXHUwMDFj9kQ7XG6gfUzz0JQ8XHUwMDFhWcmNuDlcdTAwMTTui6+ddZJfJdCcJWFcZrRcdTAwMDJGb2Zh9CrHXHUwMDA3I3Nu1jlcdTAwMGJcYkiZIJQzXGYkI/I48Im5XHUwMDExj1x1MDAwNjfMpPBXQz5cdTAwMGZzs5xlMvC3zc1cblqz5ttcIv84/HqBLqL25ZuCYVx1MDAwZVx1MDAwMGfu46LOeM6/uuj3pFx1MDAxN86YXHUwMDE07zvX8IM5MJRx4mE3rbdcdTAwMDFcdTAwMTnCaF32tu9Wg15cdTAwMTimSlx1MDAxYlx1MDAxZE9VgJKrx4a/2Giqc3SUV5NecFx1MDAwNoWW8V23PNZfktuncvyxU0fXo+G+lJRccquafviTSc9UVydcdTAwMWO30jYlXGZDwlxiRWdcZvx2fqZ+1VhHjltcdTAwMGZzwlxcOm4hk1hiwm/du6ZcdTAwMTBOqUf3hJexgnhZPzVzkLRsPCnnOH48WvaP59Zbz+19ccOfZT2UtL+959bT7f2AJ9Rx3et7hE85sK03yCW5XqWzlFxu092yIdBLpDHKk0oxmaxnXW7DL4R1RbDuXGLWbFx1MDAxZM3IPsBcdTAwMGVcdTAwMTFcdTAwMTZCXHUwMDAxXHUwMDA27j7C7szH/lx1MDAwNWomR7P89M5A2Nh6Ji4pMLxcdTAwMWZHc2XeX+pcdTAwMDGtrU2X2lIxXmCo7fR5oDOZXHUwMDA3vo+N1Fx1MDAxMWbpcfaqNdBcdCvD7HF2oP5cdTAwMDftjlx1MDAwMnkqXHUwMDEx3tb5TIQy11x1MDAwNELufc+rZoPkJprUN4lEuJvTtJms+n5IXHUwMDFkXHUwMDE05L31dJhcdTAwMTf/SXnw6rFcdTAwMTBcdTAwMDIpolx1MDAxZcx6cTpnhqFGpZR+6cP65qFcdTAwMWVcXFxy25Xsi00nlHPQgUfL/rGevLWe7otcdTAwMWLua9k/efCebu/t7Vx1MDAwNutcdTAwMWJxSe5zui9ne71TXHUwMDFmacFst1lZhFx1MDAxYnt0XHKN87B6jC9cdTAwMWay9UaoOS7GXHUwMDEzkf1cdTAwMDPlV1j3azRcdTAwMWRyXHUwMDE4XHUwMDEyrsigVLjPe3FmY/9cIp/35lxiw/bmiCfZ9Vx1MDAxNo1KOcZGYO1LZ9enJ1o7sDBcdTAwMWF+Ln50+TRcdTAwMWF+9lvKXHUwMDE2UYyiXHUwMDFm7vGbKYLfrXI1U+RcdTAwMDRkN5tcInaUv9LtKIdcdTAwMGWNh4RtXHUwMDA2XHUwMDFhXHUwMDAylFx1MDAxMlx1MDAwMSV3L4nOqtS3koje57+8zmxcdTAwMDJcdTAwMDJwY16VIMzLKPOxWFx1MDAxYdeGTHJlfzAkXHSg8qBn8y9cdTAwMTOFSiAk5F9tXHUwMDFjpeuBSb+yXyBcdTAwMTfKUmZcdTAwMDCJg6jnx1wiy85CXHUwMDE5sM1+IfTrXHUwMDA1llx1MDAwZj9cdTAwMWW0Ysy3Jf5x+PUyd1xiXCL207IhXHUwMDA2XHUwMDFj8sNPnNJF7b7cbKdLXG5cdTAwMTLTh1aj3m8vXHUwMDFheOB7XXTUXHUwMDE3wFx1MDAwN9FkgJV4SXRJX4CPRJO1zFx1MDAwNG6arJToxaetfi4zmktUsca551gnXHUwMDFlLfvHXHUwMDFm4q0/5L644c+yXHUwMDFlStqfaLKX23s/0WSPtuGUs8n6gi6p/VxuwWRcZm2HjSuQgCRcdTAwMDNnNIx2fnz+hWm+iyVDhc1cdFx1MDAwNeiSVnD3473J66PJWlx1MDAwZlxm9a7W2lx1MDAwNUpj9cROR5I9ct+csDCOuyVYk+5cIozs0JPR3n9cdTAwMDOJlEDJ4lx1MDAxOU1cdTAwMTmdtZNvhdHUOFqAXHUwMDFmhVx1MDAxYb9eXHUwMDFliqabnq+SSVxmqbykjYKffTXnZOC/c5Qgyq82YdtZXHUwMDA0XHUwMDAzts5cdTAwMWGXNNyvt+Z6XV85tE9cdTAwMWTjgFx0wlx1MDAxOHGvYZyrwe9Fw3CHLJXbtKY3XHUwMDA2h1F13H8tneK68tDD6kfnXHUwMDFlSPYq5atXP15Po2BiXHUwMDFi/Fx1MDAxNZgxRoE4o/2rY9avf1x1MDAxNcpbISOEgr2l+b2qXHUwMDE3Lr8hiVx1MDAxNHJDUFxi+Dbw3csyR85cdTAwMTA7bExvVedofEbIXHUwMDAzcn6msUomoFx1MDAxMYX5WtrINcLxrszxXGZl9PepcjRxqvFcblx1MDAxZTPpmerqxFx1MDAxNE+HYVx1MDAxYUAoI1xmc+I+VXcgokRfimVCVmXmMdxs11x1MDAwNtrE7zpcdTAwMGJBw6zCgEkoXHUwMDE5QYK+L81mr00jXHUwMDEwl1x1MDAwMHL1IKB3Ostl2IowXHUwMDBlXHUwMDEw4l5M3f3NWlbxmpEocVx1MDAxY53HiuPy43ZcdTAwMTlcdCfYNYaKe7Tsn6iVt1Gr++JcdTAwMDaPlvVqxKdH5Ho14vO+XHUwMDFlmlcjM68/OvRUvMZ6g9wqXHUwMDFjj5J4XHUwMDExqkVyT4nnRvtlMJhcdTAwMTZcdTAwMTdgrLWuse5cdTAwMDcmqP6CSVdE3I6Iyz45WNjPXHUwMDE5XHUwMDEyXGYry+icPjjO8uFfsEWdwFx1MDAxNoE3XHUwMDAyW26nlVIoofH3S7fM+/btm2WAyavmeCfsXHUwMDA0c4DJIM9R4uxdMlDa2jdcYkhcIiHm3H0jXHUwMDE3Z6XpV5FcdTAwMDPEMlxymDEqoaBcdTAwMTJwz4SMiveyjiy6Tf2wriBiXHUwMDE0USy5XHUwMDE08jgrXHUwMDE4XHUwMDBiIeVcdTAwMTdLXHR2nY77wyWsTH9cboGkjCmyruaGcVx1MDAxNsSAfU7w28Q8XHUwMDA3XHUwMDEy7slccmPPqsYraMGlbyv+4/DrZX5cdTAwMThiq6Y4ouqaXHUwMDA0u/fCwHmx2Y43wSCTf1xuh8LV0WO67vvMXHUwMDEzaspcdTAwMGamxLtIlEtHiyBcboUwcDM/yym8/9zUalxmVULVh1iuttXmpXSpMXTtXGJoydQ+tNHTmdlcIv78pK+bo+a9XHUwMDE11zHb9CzGKTD0ovt4rfVm+l5I3mdnKc1wW4BskZ1FKKDEaOn9lVx1MDAwMXJW31x1MDAwNNrqKDRI+9Et4/t4OtSWncl8ZImcvWrycUK3m5HzMd2/qb78sELYNswpXHUwMDA1wkhg4lx1MDAxZVJcdTAwMDO+LVfDsyVcdTAwMTHd9lx1MDAwYog86fvkYO13OVSW/NFp9VxyKpxNXHUwMDE5kVx1MDAwNJKDM+OzaluUnU04lfLGM242cdlcdTAwMTNyUMu2QW5cIiVulnDZxj9+jtPuXHUwMDAzp5fNuqdcdTAwMGVb61x1MDAxYnFJbvulXHUwMDEx41x1MDAxZKjriVCysJ9GWlxytryGY3iTXFzgXXhcdTAwMTCusCV7WlZS2SjJuoxcdTAwMTL45Vx1MDAxMEfcPq9ToW4uXHUwMDE0Je61hzO7+Vd7XHUwMDFjXHUwMDFk4zfSXHUwMDFlblx1MDAwZnVOXHUwMDA1QEB4UVx1MDAxOeefQz2qXHUwMDFip/FcXFx1MDAxYlx1MDAxYfNcdTAwMTZq+nA42ahjPadNXHUwMDBmXHUwMDBm6Fx1MDAxYpzpJ45A85luRfZcdTAwMGaiLz/S4cFcdHLkmZaEUsyRe890OVx1MDAxNCyz+qDZSVx1MDAwZnCrm1xmhZdi7PvJ1WZcdTAwMDPUXHUwMDBmXHUwMDA1qkipXG6BuaTXXHUwMDE3Q6djhqB2aUNAhC/IOima+zpcZm5sgsb+PsStb8R/h6JDt3FIIORAYule/JxcdTAwMWafb8Xv/ZkoXHUwMDAw/EY9XHUwMDEzQLfRXHUwMDFmLFx1MDAwNJBMXCJcdTAwMGZcdTAwMDTQP+dgYaTNl4GKrs215q3HJJ04Ksxnn5nUy088XHUwMDA0bU889Vx1MDAwNFx1MDAxNPRRQuda4tpjXHUwMDEwXHUwMDA2i0EoJWblguwskuN8rup3iTsyYlx1MDAwNfv0XHUwMDEzz/DjXHUwMDE5/m58fXlzOpla5VZ0WOntUmXSKS30XlXLoSv0r77+gedcdTAwMTG5p85R61x1MDAwYrqktpPN12s0m1x1MDAwN4tybNl8Wcf2neydZW4gp6HpmDFpOFtcXGtcdTAwMGLnx+dfbWE6oIX54jc/nrHgXGZJ9fcrn865atA4h9uBybg50eavXHUwMDAx3Vue0CfONvNcdG1FrqPM2eZuMPtqfEk5YFx1MDAwNLk/oJ1bS/pV5ITJJGWejk4/ljh0bJFSLpCkXGZfXHUwMDAwiP2cjEFXXHUwMDA1XHUwMDE4alx1MDAwMMbni23qMauLXHUwMDAynVx1MDAxY56Et5j8dU5CyFx1MDAxN6+JQe8+js6t0LP3PVx1MDAxM/O7vzE/UICfK1vbtUrp1kIviadGpteacjqd19OJXHUwMDA3ovtdpZidXFzSQydcdTAwMTc5iFx1MDAwMr75mlx1MDAwZmau/uxcIkCMRofsoFXl3Vx1MDAxY+JIvHvX4Vx1MDAxMH9cdTAwMThcdTAwMWL26utg3+ZkslhcdTAwMDZac11bTuaLgK6O28loZ3mkXHUwMDFmjPB9d6RcdTAwMGb1ztLhQF9Opnan+btcdTAwMWI0XHUwMDFm3aeJdJQ6R3ObMNuwXHUwMDBmoVx1MDAxYzHEz+jG+phLZNKj7r667OH6brbbvkSjvu+ASE3j9KSTtd3kSNBcdTAwMGbgZ2h1nFx1MDAxM4vznDBcdTAwMDWkjIar/pa+i9Q9XHUwMDA2tmNnXHJcdTAwMTIwXHUwMDAzZ3SQqT839Vxyz/VcIuFWu5NcdTAwMGLKR13Wfe/iMat7SDzs73DYR9NB3zOJXHUwMDE5ZZR74OLxkb7fTtWW6fPAVJ9cdTAwMWLZNprBdn5Q8VZ0XSRcXFx1MDAwNNtmrFxuXCKUQj+neUpniFx1MDAxNtNSTC7CaZJcdMPH2KLTlvcnXFxe+k9cdTAwMTm0XHUwMDEwrqPBzFxicCG40Zbp/qTLvUvkYdwzXHUwMDE495WywKRcdTAwMTPQf3H1clx1MDAxMlx1MDAxOGlcdTAwMDM90F9+XHUwMDFmN3Vttex3VsN/XHUwMDA39HFXU2LQfYU2vzl/aSmQ2MaN4lx1MDAxOea6zq18XHUwMDAwmSH7WV1GRlx1MDAwZVx1MDAxNmeknqeTjy/zVDKy5ZlBm1wipofr4bnvXHUwMDA1XHUwMDE5mFx1MDAwNdnJz/JhaMYsjklqXHUwMDAxzSTjXHUwMDE0XHUwMDAy31x1MDAxYkaOnOcwn4HZutRcdTAwMTHDXHUwMDEyUULdR7xXo4rc5uOxp9rkYZCAuW1+XFz3f6+cQ054VXSeZpxcdTAwMWMznVx1MDAwNc8hroSW0Uvi3Vx1MDAxN7r3XGJcdTAwMTdS2X/ioFxuz4Naq0qnNH+MJEa0slx1MDAxY8lav1x1MDAxMMJN7M61drWOfo9cdTAwMTNZrz1cdTAwMTdXq9y+y+dx1EX6MGRJXHUwMDAz/Fx1MDAwNoFcdTAwMTBcdTAwMDRTzFx0JPKwIcxPXHUwMDEyxFx1MDAxMVx0f7x7XHUwMDAxhGy9e5BLSShcImdMWXjcQjlfYFx1MDAxYcvvt+vaeFx1MDAxOc5q+5TfVVxugqajzFNISixcdTAwMWH6Wfj3MIZcYlx1MDAxM36HiNS9vfcuJ/Oh3V9OrFNIb2zuWZF1kWxhYJughoDkgkF5Rtb2pCj73Uc991xcaEZbQW1cdTAwMWYtlrXi3clcdTAwMTb1MFx1MDAxYYepK3NcdTAwMGZcdTAwMTJcdTAwMDGRgqP36Ew5ozW21l/ogWVPXHUwMDBmNLVcdTAwMWZcdTAwMDOKdcXKRjHTcjJcdTAwMTku/lx1MDAxZFx1MDAxOE42hsWkPmBw+05cdTAwMTlM6vjq/1x1MDAxY2bcN8LfWmvZX+s/Zoz9cGtcdTAwMWK/vukve5PVMtCatG3mo93WXHUwMDE4vM2NOipcdTAwMDBHU1x1MDAxMVPbiDymRFx1MDAwMlxmz8Dsik5JXHUwMDFlgslYbVRkofFjO7Yr7f2uXHUwMDA0jnLmvFxmoLntXHUwMDA3XHUwMDA3OcdcdTAwMTiBXHUwMDFi58xccjODXFw2wWazjlx1MDAxY87bq3BcdTAwMDOml1x1MDAxZP/mzHlErlx1MDAwZiu9bNY9OWrWcoNcXJLrfY7fOebhRVx1MDAxMIc4tFx1MDAwM1x1MDAwN1x1MDAxNEOsXHUwMDE0nHuI48xu/tVu73P81K98epJcdTAwMWZknFx1MDAxMlx1MDAwZST5XHUwMDA0P9hFPomP16JcdTAwMTXUM9NcdTAwMTf/+6ZpfieOY0fL4lx1MDAxN72XI1x1MDAwYmI/NplcdTAwMTGEOFx1MDAxM2dM3lx1MDAxOSbZgER22+Z+39jTSC7cXHUwMDFjdnyPLDh5XHUwMDBmLHyQjFx1MDAwZlx1MDAwMUdcdTAwMWNCXGI8kDynw0RcdTAwMWSjLFwi2sGmXHUwMDFlJflZozx9qMxtXHUwMDA2dflcdTAwMDFZeETu/SBcdTAwMGJPt+Hqy57CQdZcdTAwMTf0XHUwMDFmXqHYvmZcdTAwMTBRKTGE7uN2zrvsW5Vpqkjgn95cckepS4GpJ1x1MDAwNbv+wSqRdFwioK6xNMLQr46JV/dDV1x1MDAxYumB7+O5vpis5i2bMkKvJpadOPLN6MXhXHUwMDBl3ui/XHUwMDFjzVx1MDAxY5bGmEWTYSg44+CMSFx1MDAwNCiE64nCtq+FQuSBJMRqy/xcdTAwMWbcJCZvKfa0duH9XFy0XHUwMDAzV8hbhF1+k+9eR2hcdTAwMDdcdTAwMGKpLFxyeeti+2Sw04y2XHUwMDE3z4ldsbbbRmdy0SzY9I0+59y8r2WLo8yzXHUwMDEwoVGehfOTbmv1lKw8PF9cdTAwMDGUyK3s6sXimuZTyyDftTc5bfxwhXVBXCJfaT+XXHUwMDFhVVx1MDAxZVx1MDAxZja6XHUwMDExWt089vUrrNvdklx1MDAwNV3yKFx1MDAxOdb1x2x3UutcdTAwMTbL8kPrnoI71lx1MDAwZtQluZ3CNCtfdiyBSHwyXHUwMDFhiufOXG66fGzOMMrIXG5gUumQN6XhXHUwMDExjFx1MDAxMtRcdTAwMTZGXHUwMDExZf5gwpl7XHUwMDE45SxcdTAwMWT+VdXvcdThXHUwMDE43E9rQMQkZJzcMPnpXCKW+1x1MDAxOJBK99f6oL/8WTA51efB/uLVofJ9vJ70W3qg1dNsslx1MDAxND3CUSewhlx1MDAxOUfZ3sBcdTAwMDH5jlJpn1x1MDAxZnY4iPioVlx1MDAwYlNJIHIvl856yq9yiVx1MDAwZmDkq1xcXHUwMDFhk4hcdTAwMTBRf4DCj4x517fbclSjglhcdTAwMTRIzFx1MDAxOGFG9YRgXHUwMDE28WiKXHUwMDA1XHUwMDA2XHUwMDE40Vx1MDAwYsT24vwxXHRcdTAwMDBkiqpLxNZl/liwWGKklNxcdTAwMTdiMNR+2YS6j6s9tMlcdTAwMWYz0l2o0Vx1MDAwZtVok03fXG5rXHUwMDAyXHUwMDFmzVx1MDAxZnNcdTAwMTTNXHUwMDAzXHUwMDFhzK26XVx1MDAxMHBP2WPvhzdcdTAwMDat2PJtiX9cdTAwMWN+vawzXHUwMDFhgLZpZVxiKmFkQJ5RiF57mHXyvNXLZnLlSTbSiK5cdTAwMWWy2PeayFx1MDAxY/VGXpZcdTAwMTG5dE4r2aKIiUsq0T9irsX1Na/Vk4vgSFx1MDAwYs5cdTAwMTLVXHUwMDFkzIzSNpD3XHUwMDFjXHUwMDAzyKNl/4xB++n792hcZlx1MDAxYVx1MDAxZo1TXHRcdTAwMTLJRvOpXiNcdTAwMTQsVuJhjq6w7vZRzNqdbCE4Za1qQ8SCw/5cdTAwMDGsu3xdOcNcdTAwMDVcdTAwMTKK1afiQX+qrIek2dxdI6jgXHUwMDEx++5q+3RcdTAwMWQgVpfxcDPBXHUwMDFmW5H1/GNcdTAwMTPLTpnD1jfiktxMXHUwMDExXHUwMDA1V8mX55E2W/TBri7Kk6jLXHUwMDExYL9cdTAwMGUqXHUwMDA321x1MDAwNFx1MDAxYmVcdTAwMTFem8NcdTAwMTLZ1sxcIoilMVx1MDAwZtS959KZK/x72L03h1x1MDAxMf50c5gomjij4HaNji7iuI9Zw5HVYjlcdTAwMTlcdTAwMDWm8/5a0Vx1MDAxMUi8WpJcdTAwMGJlXHUwMDBi/2ukLVu9kTZQXHUwMDAw+T9valx1MDAwZZ9Aa0dhXHUwMDA16zt4T7+jWDrYw9w+PUlcdTAwMTBAXHUwMDA0gtJ9XHUwMDA3XHUwMDA1Z03lV8nE7HYxXHUwMDA1l+2QXHUwMDE4xvLQXHUwMDEyv025lOBcdTAwMDfZUJ9o7oJvXHUwMDA3xtjHzFtnUVx1MDAwYrwzsd1cXPSeTNp3n1x1MDAwZZ5dXHUwMDEw5ZyzzWzLeyFR0EogXG7dn+iLh2K3Mti/VDaDQYdmYvq8wX1f31x1MDAwYpmpUt9cdTAwMDe5VVxiXCJmuIlua7xOXHUwMDEz0WFiw1x1MDAwN6V9XHUwMDFkh2J7rVx1MDAwMFx1MDAxM3bmlVx1MDAxZjKrPFwi934yq05ZK9ZcdTAwMWLkklxc7Wm60Ia71VMmmVx1MDAwM23Uqs1i68drWCs3zNm2L/lcdTAwMTSccoI5d5826sxt/tVtvmvLilx1MDAwMGREXCLILpjYeT9ZUMZorUqokFx0zFfjZX9kXUB2cLRe1TA5cVx1MDAwZVuNXHUwMDAxe0frXHUwMDA38Fx1MDAwNLdPO5RUUqN1g3s7ZLNPbJONyIiuYlx1MDAwNd4m6daSbWa+lznhv1xcbS6NQtDDKNhNXHUwMDAwRVx1MDAxMVx1MDAwN2srPitcdTAwMGWyjVhcdTAwMDOOitvQks38XHUwMDBiKDxcIvd+XHUwMDAwhUfbcFxup1hf8G+EU4Rt4ayghCCKoHuc4vz0/KszfZesrcxfyJRcdOyBzvRcdTAwMGZMyayGy/50+LMkfGEk6Vx1MDAwNL6PK5P5wG7KmUe+1Fx1MDAxM0e9XHUwMDE5sljR/ZNqR1x1MDAxMbT3oNrnZFNMpTyrxMxZJ/lWXHUwMDA2zX6QXHUwMDFiN5w6Qi1CmS9cdTAwMThdMmH7o83kvew25Vxmzlx1MDAwM6Zsofevg099yJ3qLG1cdTAwMDHbbCF3JNyTc1x1MDAxNdl9/Fx1MDAxZodfL8tccoL2SYpcdTAwMTBjiqQ8o6s1rMynoXxcdTAwMTP06mxUqqJBrtp58v1EcmlcbslQ8ummXHUwMDEwRFx1MDAwMEvBqPTA/eCEU+fJ9rSQYGjQr1wiku7Otm2QvoJx4dGyfzKDvM1cZrovbvizrIeSXHUwMDE2z5bn4eCCaDE4zDymtuV2ZHVccu/AuMlcdTAwMWL5TnawXHUwMDFll+elXHUwMDA2b/Q3s/BcdTAwMTXWbTar+dmWkUapK582yT1Zhzo20+WuXHUwMDE0xrDe+Ldlf53Un23Gw8Pz8KhHXGZiXHUwMDAyIHLGSFx1MDAwMWd+8+2Bb5pdzj4/3iC40SdcdTAwMTl/aTs+rI+NXHUwMDFjovkg8Fx1MDAxMClcdTAwMDTYesGtXHUwMDAzXHUwMDBlXHUwMDFltYc5XHUwMDAxTs3Wu1x1MDAwNbWXSVx1MDAxY7XNXlx1MDAxMFxmUII5cy9vs/r4iT5cdTAwMTb29Zd9NTLYpKPPzWLudvJcdTAwMDYvlLf3XHUwMDAw28tcdTAwMTlw8GBgypu8IbO8XHUwMDE5qfdcdTAwMTDCQ6fm/VxiXHUwMDFj+CZcYlc3wIzWNoJh1y1e21x1MDAwN1x1MDAxZI/+a9FcdTAwMWX8XHUwMDEzXHRhLYLAWlx1MDAwND1qXHUwMDFhaUmXo7CdqnextWkphlxcXHUwMDAwekZcdTAwMWK0rizk5LaBp/lKvJ1YsmovVcn6/Ygzt2Lin9/jUUBp7L1cdTAwMTdzyJ2goFx1MDAxNp1XxmJcXJKTJ/CwTVdS6zyYfFx1MDAxY1x1MDAxMXu07Fx1MDAxZpPWW5P2vrjhvpZNtFbDcr837TXro8eXnf6YRn1whWfmlfE5aFe3c1hflWoviVksXWhVN7mEj43aZHW9ao5amWlTxGhcdTAwMTD2usncYPGhdU9cdTAwMTm11oziktwqbyfb9VVLllK43Vx1MDAwYqZTiTZcdTAwMTLuyP353adcdTAwMWLLktlcdTAwMGVcYuOASECxdJ937Cx1vsVcdTAwMTGmkLdcdTAwMGaaqVwirECvXHUwMDA04IKKhU+H7q5t5dJYPaJA/mcnr0BGXHUwMDFia12baLdX9vJcdOBrXHUwMDA28TZcdTAwMTRfJHiHxdpHc1CoXHUwMDAyt1x1MDAxOGL3RjOctZ7CodxOk9F4IzviiUVndUNcdTAwMDR/mdF81EzVw6hcdTAwMTRcdTAwMDRcdTAwMTbNMiyMZsakQFx1MDAwMl9SK/TpkndFo1lcIms5/GyjWdHlKG22eSX2nYshXHUwMDA3nDLJiftGNc7nvl/POZOLilx1MDAxZjDcXHLK8ixOOVx0JaFcdTAwMTheMlx1MDAxMsHPiSXOh0rg7Fx1MDAxYTlXmSTl+Xg9eH4prMG8vda2k3JPfbXOJPnadXlQvH3+XHUwMDFmh18vy6Mn9npcdTAwMDNcdTAwMGIouJTAfe5IYobXuqxuRvChVOh30/Nsla/8rjeOXHUwMDA26EJcdTAwMWYkj1x1MDAwMEaMukjsQan9b/axalx1MDAxZFx1MDAxMSs2W89cdD2mLdvp1KJUl91cYv3rkP98lUjvXHUwMDExufeWSO/RNlxcfdlTvlxu61x1MDAwYrqkdlx1MDAwNyvrJzp+fClV8+Hyw3BcdTAwMDJl7Fx1MDAxYb1bx7xcdTAwMWPJZWvTh3IoMm7G1rn0PGWTjuFXXHUwMDFmiFx1MDAwMiH24Fx1MDAxMFNoaFx1MDAxYvemmDNb+FbJm0bKQPrpif+QUGOaXHUwMDFmovdoi50xUqbTXHUwMDFm/1x1MDAxOFx1MDAxZjfpXHUwMDA0xvom8H1cdTAwMWOaj7Sl4lx1MDAwYpvu7O9cdTAwMTe5mjPkXHUwMDA0OjmeLWMm/I3sXHUwMDBmXHUwMDAwLmbb2YggTlx0lNi9P7IsWKctXG6pdnOWk8P5urnt5Jt+XHUwMDE3RbNXxFx1MDAxN3iLilx1MDAxZsNDbzy9LtOvXHUwMDE3tTKfblx1MDAxNTd28ss6mWSAj2fMeETu3eEtb7bhvpa9Pt46XHRcdTAwMGYtb8R7XHUwMDE457guXHUwMDFhR5+XMqvnsnlcZlx1MDAxZuZcIl4rlvlcdTAwMTXWrXSw2O8q/TlO0oHS70PU67lswe9cZjuN1k1EwMP0XHUwMDE5z0ZcdTAwMDM5lKVQoUBcYoFn9Fxuc2Rj3551x7DzXHUwMDFiNV3+9sBTXHUwMDAywCDj8HaN/D5cdTAwMGJ46oGH0WT5OqjYXGJt/YdcdTAwMDKfbX16W9x5XHUwMDAypVniziO6X6l2XHUwMDE0Q9vQXHUwMDAwQba9MqSQRsdq5N76c9ajflx1MDAxNcMjXHUwMDE3n6etMo5l8Fx1MDAxOHBiXGaVXHUwMDEyhOCCVLpcdTAwMGb07CNcXFx1MDAxZXZcdLl+bMDZxlxu3KTo1FneXHUwMDAyf4pOr1x1MDAxMTggwDZwIJEypzg4o+fVflx1MDAxN99EXHUwMDBi+rq/iOAsXHUwMDA1T09cdTAwMDPSSfpeqZjtWPD5/XdcdTAwMDTlXHUwMDAyMEFuXHUwMDFjNvDK3rw3w9CHPuhcdTAwMGJtLdGG4dC6XHUwMDFmUrq2XHUwMDFjnqxyu0Fj8nJcdTAwMDOb6Jdisj/CXHUwMDEwk1xivcXavXKZ23vMJcFcZlx1MDAwM3TG6ETrzfS9ejNcdTAwMGZh//yWflBCQTAg5Et7zFx1MDAwYqvpdDJfXHUwMDA2dMNcdTAwMDJYXHUwMDA0+uNAc9VcdTAwMWa2b5w6eOJMNlst9kQ7yp99PpO9n1x1MDAxY3IgXHUwMDAwhFx1MDAxY7t3XHUwMDFlOGskv0ogu6Gj3F2jcUAo5kpcdTAwMTa+WEaTa4vhmlx1MDAxOU3OXHUwMDAyXHUwMDE2+PtkNF230zjB9p3GjZl1XHUwMDE0XHUwMDAz4f7orqVIt1edlNlcIpub7vVCYj5sd3yvOMyWiVx1MDAwZlx1MDAwNmVcdEEg5+jWY43/WCb3Zpn8WPdluyh1aDAz7e5X81x1MDAxNlxmdkVna1PYdZ3cI+tcdTAwMGK6pNazYM1ccuuk7OFcdTAwMTaTVFxuhbfcwy3np+dbrWkyeHwwcVx0XHUwMDAyjKDRRMyDvFx1MDAwND9cdTAwMWI838dq25TxoM9cdTAwMDP/Wlx1MDAxOUVJN1x1MDAxZbjkfOqftn2OqHeUSXsjyHauXHUwMDAwxpRwhs5AMrtcdTAwMTfWXHUwMDE4l/FmqD3wSH6uXHUwMDEzvT/J+F0mpWniJ//0UUuSXG5AIZVcdTAwMTd4WP1sXHUwMDAxXHUwMDA1m1x1MDAwMO9cdTAwMTTTJoS2mq03j6mtjFuO9VVcdTAwMTZcdTAwMTBDXGYygVx1MDAxNJiWXHUwMDEyMHo82fdXhYKNQfSe7L+P2XKZr4NIQDg+YziSM1x1MDAxOPGpoFx1MDAxZvk60GdLulFnKDHhf1dXxzWHqjlcdTAwMWWngbPdK3erM648U43a90jiXHUwMDEyXHSMxVx1MDAxOVNSXHUwMDFiVM57NZqepmv5xyZdklx1MDAxN9mu+V5tmDxcdTAwMWTBz08lZlx1MDAwNFx1MDAxMcPXcX3A/pt3LCxQUlx1MDAxMOkuQINZdlFcbrUrqVxcObq7xlx1MDAwNOjWcyXWXHUwMDAzlfFcdTAwMDPq5ikpxF/So3jo48mjXHUwMDFlLftcZl9cYuvuXHUwMDFmt91tr5lcdTAwMTSVlazx4lx1MDAxNXbhXHUwMDEx14PVRIVnOk8gqKdrpWRcXHSvsC4uriv9zXOoSFaJx0echpFsydt2MNZcdTAwMWL/tuwvrXTFXHUwMDEzylHB2bkjlFxm2fZtoZxcdTAwMGIhIXRfz+7Mbr7Vbe/9XHUwMDExwYOo9ye5IzBcdTAwMTOSSE+cuP7xRoS1hVx1MDAxZdjo2lxca1x1MDAwZfXFj4TR4WT3g9KDXHUwMDFk9jxv9MSJfNTs9D3dh1R/XHUwMDA0YziEU1x1MDAxOFx1MDAwMoQpnOFcdTAwMWVksGa3kajRXHUwMDE3iVx1MDAwN2jfyidz82i+53dBNPc+9Vx1MDAwMcggXHUwMDE0QFx1MDAwNuFB04+7Rlx1MDAxOaU5XHUwMDFhR+rPlTqT9KGZXHUwMDBi5cbtqk27tXPggEfL/kFcdTAwMTlcdTAwMWVt7ynwYn1BXHUwMDFmglx1MDAxN4rte18p08DI/D6j95XzPvtWaZrQXHUwMDBi9K5cdTAwMWKP2+wxXCKUWVxmXHUwMDE1XHUwMDEzfHn48jNcdTAwMTJxXG65eJU7duKYt0QuXHUwMDE2JF9cdTAwMGVbXGK3nXTIkcRcdTAwMDBcdTAwMWPWPp3shjWphWVh09DzXHUwMDAzsaCRMmG9pu+Tx4662mBcdTAwMGZcdTAwMWSqrkdcInFjyFx1MDAxZKA3Tlx1MDAwMsnsXHUwMDEz6/VYvlxma/EwXHUwMDFhNtBcXKORysdxgGdV1t6Qe28pK1x1MDAxZW3DfS17b3k7V9+Gk0Xhllx1MDAxN3RJLVl1XHUwMDEyj/NcdTAwMTFobFx1MDAxNpXG0zRcdDLaonaFXchuOrNcYtT3uUIhkuSFTL2nT5tXWDdcdTAwMWVttbvj+LbO5/gxu1x1MDAxOXWeclx1MDAwZmt36zpjY6OwXHUwMDAyQ0ZcdTAwMGVcdTAwMWGGeoSNXHUwMDE5tT2ZIUVcdTAwMThcdTAwMTNOzkhqcGY331x1MDAxZc2mRCOMPr+yXHUwMDAyYEEk8yRu4Vx1MDAxZmycXHUwMDBlZaOBvKJLLXVTQHxcdTAwMDJCmlx1MDAwMfE7Oi9HwZjY5lx1MDAwZkFcboWg/DDz4JSsRVx1MDAxZnLrbTs4XHUwMDFkkHpDRqaaVkxcdTAwMTbq/pc1XHUwMDEzXGZmn1+kXHRcclFTXHUwMDE3YjeGwXKYXHUwMDE55mvNR31d2++K2ciws4vu/Vx1MDAwYoM9XCL33mCwR9tw9WVPXHUwMDAxNetcdTAwMGK6XHUwMDA1KDdslsjtu9YwRYVEXGa7V5rO2+xbpWlcdTAwMDIozFx1MDAwN6WfRFwiSiVAXzpcdTAwMTM6r5jJcIaNtFagNey/27BcdTAwMWLAlFx1MDAxM0e8XHUwMDE5plhQ+1x1MDAwMbBcdTAwMDJsu9RAyFx1MDAwMcbqSbg3XGai1emwU1wiONp5blx1MDAwZUKp6m7YU8zvd7kz121RXHUwMDFmgFx1MDAxNShcdTAwMTniXHUwMDAwklx1MDAxYoOV8FNpj19ApdEv4U00XHUwMDFkKrZcdTAwMWKdgX/Bikfk3lx1MDAxYljxaFx1MDAxYq6+7CmwYn1Bl9S+ZFx1MDAxYV11zKPtgL1IMuxtx5OkS++Pb0CQw4RpRrBQXHUwMDE4SLpcdTAwMDdBzo/Pt8rYXHUwMDA0gij//HIwwlx1MDAwNKZcdTAwMDJ9dVx1MDAxMPRz/pS6XHUwMDBiXX1s3FxyfFx1MDAxZi92i6U+skRDXuVfncBcdTAwMTDHaOiI7J9Ef1x1MDAwMFx1MDAxNEGHylx1MDAxMFx1MDAwZZiU7FxmUPSS2eG5oM9AaHI61fq4Nkin/S6HR5Uhflx1MDAwMEWCXHUwMDAw9Vx1MDAwN9NcdTAwMWK3i8ZP3dBzMbKskEx1jYeRwVNcdTAwMTXbxCv8XHUwMDAwijxcIvfeQJFH23Avy57CWtZcdTAwMTf0XHUwMDFlaznvXHUwMDAyWqDHtUhoTT7Kblx1MDAwNzSby5b7d4bhmP1oJ0KUramMavdcdTAwMTjOmS18e3b4XHUwMDEww1x1MDAwMUokx/CSXG7i+8FwuUnEmJoxnGhGbWCgaaz9XHUwMDAzyI30Vk9cdTAwMWL3W7fNpT9cdTAwMDF9zFjOjvw34j+A6Yh9XHUwMDA0nCmATzCkZzQoqnaKkX5cdTAwMDGFXHUwMDA321n6RSvQzrzq+1xiuLms31x1MDAxN5hO4TlGKYc3xnT7dD4+yoZcdTAwMTd0uynDoez22vFcdTAwMTebZpl+wHRcdTAwMWWRe2+YzqNt+Jsve1xuKlpf0HtI57xuWz4xfT5cdTAwMDXz8HBcdTAwMTZ/noZWOO+SxfxcdTAwMDJcdTAwMTVcdTAwMGZcdTAwMDN+R5M6XHUwMDE45phJ4T5f2pktfHsk+Vx1MDAwZipcdTAwMTLBgPH4Pajy8lx1MDAwZlLM6KPJfFx1MDAxN1i0XHUwMDE0XHUwMDA2U1xiqzOZXHUwMDA3tMVCXyqo2FREXHUwMDBmbzwk7lx1MDAwNJ4yXHUwMDAzRVvqf9H+XHUwMDAxnMht7TdcdTAwMDSV/XBee4eBXt/sn/NacDeo1lx1MDAxM+ld/bFbXHUwMDA2flx1MDAxN8p3XWB8XHUwMDAzXHUwMDE0hVx1MDAxNFhiim/c4mGfwFxcXHUwMDFitpeDcaqWXHUwMDEwzdpzO4U6Plx1MDAwNorekHt3QNGbbfizrFx1MDAxN8uexJ+WXHUwMDE3dEltTMjuOLJt7WBfblOw0p6MVqU/+PNcdTAwMTV/XHUwMDFl+Fx1MDAwM8z40yh0N3xcIu5dlc5s4d+jzn9cdTAwMDBcdTAwMTRcdTAwMDEumVx1MDAwMF98UJxf4s0nINpN4s3CoTqHSvg6I9e1IFZa5Vlv1I9Xp5nQXHUwMDEzWNVbolRBvlx1MDAxN0RiLlx1MDAxOfBcdTAwMDPmXHUwMDA0klx1MDAxMYQvXHUwMDFhXHUwMDE396H26bTQ0TpxvVx1MDAwN6rJfbVaKOnB5yt00PBcbnN6RO69YU6vntqfZe9n2VNQ1vqC3kNZv0BOXHUwMDA2bfvLQSpcdECSMfdccu+dXHUwMDFmn39POv9BTlx1MDAwZShUZ93XbjH302to4L/5ZPhpQfFcdTAwMTP4zMbX+Ytql7Fw267X2KHQXG4wxqhA8oyRXHUwMDEzjolAPpXAo0E9h4bw58wlRoxcdTAwMDDDs3xBzMHPba+dc3lcdTAwMDM3mUvsnINyQMOfucRX1yjqSFd2XHUwMDFkge67rjmHi32qUMytKj9foUjE5SHO+Fx1MDAxMtrEtSR7qE2cXHUwMDAzlX+0yce1XHS07yGnXHUwMDBlSEykdFx1MDAxZn51dtL7VJtAeJSn99nqXHUwMDA0YkQgYYR/sfk7rqXZQ43i7H/+o1G81CjU8PBcbnbGUHFnXHUwMDFmjF81XG45Suj4bI1cIohQmpzQXHUwMDBisjn8rFBcXFx1MDAwYrOHXG7F2b/wR6FcXGVcbpB9p1tcYpV0YcLOyFx1MDAxMltGXCKsgmDnIbrX+qMtSVxyqs8zvyuVo1x1MDAxZV/Uw3HHXHUwMDEwWmlcdTAwMTVoMSmQXHRcdTAwMDQ5YJfYPrf0ZDpynm1tXHUwMDE5tmU6XHUwMDAyXHUwMDA1QpCcUVrGXHUwMDEzpcVcdTAwMDCFo2xQgVveXHUwMDFj4ejD1vclLLdlOsQseO64R5JcIoLQr97EsdDSx3pg2FeKf1x1MDAxMVDb1lx1MDAxYVx1MDAxY27sW48k+u43f/vEh3rnPUu/d5kvJ1x1MDAwN7vw3l/+7o6OZsBcdTAwMWVTdblOXHUwMDE3wl6+XHUwMDAwxZBhSt17spZcdTAwMWNcYpnsL1x1MDAxYSE5yjSeWnTWnt2wdFx1MDAxM15FvoJeXHUwMDBlhFx1MDAxNFxcfpOHL1x1MDAwYmkjXHUwMDE2tqiUXHUwMDE0ckxvl1x1MDAxZEW4XHUwMDEwgiFC2Fx1MDAxOeJ2kYZH1D4+XG6UwCtFw92zYHVcdTAwMDLIXHUwMDEwvaSK5GVcdTAwMWJhmNF+78n3xoq5XHUwMDFkV1x1MDAxMHrJgsSC56w0PGdIQuxzUPExXHKf0Zbz/tY/uv1cdTAwMWQ9l2t1zJD9LC1cIlx1MDAxOVx1MDAwNoCckeaaSi2XXHUwMDBmXHUwMDEyidIuulx1MDAxOGSe+/NVp6Pdn0x5av+77MerPigp+yozOzv7XiRcIqNcdTAwMTTtkvn0XHUwMDAzXGKWOsPh3Hrdc1KUPFr2zzQtj7b3VFx1MDAwNpj1XHUwMDA1XVK7XHUwMDE1y0Z8PoZlXHUwMDFlXHUwMDE5wn05M4/hoLhGXHUwMDA2mIFwJIOUeo9wXHUwMDE4sG+upbRcdTAwMDHhXHUwMDE0uc8/cX58vtXG5iFdXHUwMDA3vqJPSlx1MDAwMKNGhFx1MDAwN4Lbdbh7xdRcXGEqflx1MDAwNsd9XGbgJEbT+WT9g7LAf1x1MDAwNL6PM1xuiSz1sWZwn1x1MDAxNeA5mFx1MDAxNndeXHUwMDA2mFx1MDAwM+Q5XHUwMDA1IMwoyET0IcmXY1wiYo+IqJRCUoHcW1x1MDAxOZNNZ15OgGw71XnkYV5cdTAwMGL3mzXfN9s297fzXHUwMDAzXCJcIlxcWbXGrK5bXHUwMDAxolNnlcjs9JfUrrOp9Fx1MDAxM/2wnlx1MDAxZOJdoeHDM4XZs7NcdTAwMTDUYOkzXCJ81jfte3Y2XHUwMDFmKfTzXHUwMDA3P1x1MDAwMimNgbmXJFxyfOBQkVx1MDAxMOGDKeZeXHUwMDFmKpGetlxmXHUwMDE0lPLXmv1h/7BT6VxyOsefUL3ms+SI1stPXHUwMDEwTKR9nzsoXHUwMDEwR5Cd0as4M+9nK5HMjo6T63r6sd3NvlR8L3Tmflp+OEMgNvSdIPKLWNXzzbpcdTAwMWHc7Fx1MDAxYf1suVx1MDAxYemTMs5VXHUwMDFlrmD+erTsXHUwMDFmq/pcdTAwMWWf2lx1MDAwN6xqx3Un5c3mOcJTc1x1MDAwMbThrquxWSXe+tC6p1x1MDAwMJv1XHUwMDA2nVx1MDAwN9iIslx1MDAwNL1cdTAwMDZsiEjbXHUwMDE5adhcYt5jXHUwMDAx3Fx1MDAxZlx1MDAxZc5s4dvDw3+IXHLD11wilFx1MDAxYvZIvYjlPlxm2MZjfbhcYmTgdbGak9F/XHUwMDAy31hcdTAwMDC13zR+XHUwMDAwo1Fm72pcdTAwMDOSQ8ChcC9mszUr79etZ85ZSptWw6VRXCJcXPa7mJlrvcjnIzTKXHUwMDA1Y1xm8i+C0Hp7momOmlVt9ZKsbfdiWlxiofbHXHUwMDBmZY+W/YPQ7uupnUI81lx1MDAxN3RJ7ar4UF3BRiVcdTAwMTeO6XhaiFx1MDAwNWlm5Vx1MDAxMqA5I6nbpVx1MDAwNFwiZezZ6nhcbokxMuhcZjvc+fn5Vse/h1L008vpMeZcXFx1MDAwMCa+dEZgXFzXjF6bi4DaqrY+1+evfTi/j6fzieJcdTAwMTM9MO23loo/bltcXH9cdTAwMDKkmIGW9T1cdTAwMWPdgaNo2lx1MDAxNp5Ah/5qXHUwMDEwM8JcdTAwMTGC7kOdzsrKp6Ipzfm6wLuRpu6c0oRcIsBcdTAwMDFcdTAwMDFfrNLeme9cdTAwMDPvXG5PxMHbXHUwMDFmqjRJj2vLWa321Fxc7crPkVB5Xa9mmdVF3V3znkpL3n1cdTAwMWGKt4//4/DrhVx0a1x1MDAwZWpDXHUwMDAwXGYkOCNDYrjszmayh7R4UUtk+mP80Fx1MDAxOef8rjaOXG7WpC8865hTxIhcdTAwMDd9wZ1AanM1324mvUVhViq9zCZcdTAwMGa0OoY2XHL0/dBcZs4jcu+tXHUwMDE53NW34ZQhZH3Bt2V/6aXPNlhcYrK3VyQ1JsEg6l67OW+zf7WbqVx1MDAwM1x1MDAxOPBcdTAwMTBcdTAwMTa5jdYjiFx1MDAwNVx1MDAxMF+86ezzSl8srS1cdTAwMTKvYvQnXHUwMDBlYLNF8pPCy+FcdTAwMDOxb8dDXGI0XG5cdTAwMDWF+2SYNIeJ5lx1MDAwNMJcdTAwMTDnvXI3vCQ7Wov5Xr7MXHI0gp/v9SWQIc7orZ2+4Vl52KvT4GNN7Fl2tUZd7THoX/DgXHUwMDExufdcdTAwMDZcdTAwMWU82oarL3tynrvlXHUwMDA1/YdJKLGNkyFAJWVAQvc603mb/aszTfHoXHUwMDAznPZJXlSBICVcdTAwMDB/6TlMXHUwMDBmY6051Fx1MDAwM2Nt2V/rgTQyfI/rfls3XHUwMDFjqf1x4GE7VVx1MDAxYnpcYj9u4EM9ceibXHUwMDExi/0tXHUwMDFj3sBlgkltsVxmx0JKLs+Yw96oXHUwMDE0yq1cdTAwMTJcdTAwMDMom4qmwvHFdPhUuWGv0stcbrLN8WvkoSPEpseGWSypwIxcInyQ1n2DLFx1MDAxMckww1x1MDAxMn1ULsE3QTgxqnm50nhcZlx1MDAwYrdy2tZccqmaa0Nt3P6vgT5cdTAwMWbrw39cIiatLVx0YC2XXHUwMDFl1cnakXaZxFx1MDAxZCT/mFx1MDAxM7OgIFx1MDAwNFx1MDAxZrZsOtliXHUwMDA0rIpcclxcmoSak+A8hmo0vkPpe5M47OFcdTAwMWOKw4pyXHUwMDA3iYOEI4aUXHUwMDA0kL+tyLUmo9FcIrjG/4TAdzJ3SNtFQsdcdTAwMGWoP5pNXHJcdTAwMTBcdTAwMDFSnmGzx5K5XHUwMDA2TkWj6FmXQZFppV9KvVx1MDAxYqZDXiZ15lx1MDAxNrqennPYquvDsdRcdTAwMDFMXHUwMDA0Z/DGUsdcdTAwMTHlXHUwMDFmr1+5ttTZ5Er6QupO5EjaSlx1MDAxZLLv4Vx1MDAwNpTCxVxu57ifuvQ4kfXac3G1yu27fFx1MDAxZUddpFx1MDAwZkN+l7ojT5m3YufqsGPAMMNcYvBA6n7+wNI5kimi4Cr58jzSZos+2NVFeVx1MDAxMn0zet4x1Fm+nNWoXCK3+XjsqTZ5XHUwMDE4JGBum1x1MDAxZtfT7tb9+Z2jrmDi48bqtXVcdTAwMDXysa5AXHUwMDE36lxuYt+VmjLGXHUwMDEwOcNBpD1U8ylRfNEmhfnTg17uTMDmhi1kLlRcdTAwMTXmkLxcdTAwMGZwMX3lVnTwg9uMXHUwMDA0XHUwMDBlr/gmpE3jibBGhV5YXHUwMDE0eJBdTaRcdTAwMTXeoL5cdTAwMTNp7GORxpeJNFx1MDAxMk5toSDCXGKfMXRRXHUwMDFiZ+v74FM8vk7O2iU5mOymXHUwMDBmXHUwMDBiv8u0udtcdTAwMWb3UqRcdTAwMGZcbrpcdTAwMWNEXHUwMDFhXHUwMDE5baHU8X8759L1nL7XXHUwMDExukV78E9E/XeG/qLrQmGzb63JOVx1MDAxNFjQM/xKi35olNVcbnpcdTAwMTSQTadQzqUr/fVccqPS1/Er+UDYIFW2poRcdTAwMDB5cIDek7RcdTAwMTHuT2lTdF0kbVDaolUqOFfI7YxcdTAwMTSrLVx1MDAxZOraeDjvdmPlTpLHKXtcdTAwMWH73rA1u5OEh1x1MDAxOSBuhVxyMaSwXHUwMDFkZn/vo1xyXHUwMDAz4kthM+i6UNhsXHUwMDEzXHUwMDFhXHUwMDExXHUwMDAwhFx1MDAxMCDd99KKXG4+LZdcdTAwMTLzaWHSXHUwMDEyvFHooOBcIn9vwuaDk01cYvA6XHUwMDAwTfzNZY36VNboXHUwMDA3XHUwMDEyXHUwMDFjpUNZXHUwMDE1Qki+Rq7cXHUwMDFibpvpjnT2edona5GvJvPhaprdTuIuLKsySVx1MDAxY/NwXG6C2/JcYkRcYpKCUHB9kfv5XHUwMDAzS2fMdJVfLXgju5zvYo1+OT8pXHUwMDE28Fx1MDAxNXrCeLTspFx1MDAxNC+lZTORmM/yvD3eJfOhVeFcbl7mVDDSXHUwMDFitirJwmBcdTAwMTTJ15PzUCo8yF1h3TTZbLON2vNiX1wioVmqWthcdTAwMTWfrpHhuFxmZda5+FNiuOrNZ/FcdTAwMTct81x1MDAwMoKRK6x7X9zg0bIvwXU6uMtcdTAwMTTazVq8XHJgudjRYtdId/WI3Hx9Nlx1MDAwZfeyNdmfXHUwMDA2k6OYSJY7pd5cdTAwMTXIjcdYSm/Htrha60VcdTAwMTO8Pi42e4NcdTAwMGateyrf1XqD3pb9+d2n57sqi9824VVcIoAlOWPOiTNX+PZcdTAwMDB9n+3K8Kf3XGagXGZgJFx1MDAwMb5HyOp+ipA+blx1MDAwN1wi+Wgx8IOSRcDYze/j5SSw7OmBhTHO56a5rifg39G8IUv6XHUwMDAz78i/TCSZbaYrXHUwMDE0XHUwMDA0IFxumXRcdTAwMWaNXGI2XHUwMDAx3ilSXHUwMDEzQlvN1pvH1FbGfZ94d1x1MDAwNGq9zEVwZ0YyxlxiRUzeXHUwMDE40+5eWGNcXMabofbAI/m5TvT+JHONXHUwMDAwoz+NVGYp8Z9vpLLLRFx1MDAxOVx1MDAwM/tYXHUwMDA3XHUwMDEyjCkl716Su/1uq/RcdTAwMTTViNwls2JcdTAwMTR6imnDXHUwMDA3v0uyOa7IPJzg5Nb7ilx0hkhCebtkPn9cbpv/UtZ/0eUobI5cdTAwMWUhZFx1MDAxZu8wsim4XHUwMDAyVu7xbLLX3ORXMTaFk3BuP5hvXHUwMDA2xWXP73j2eMLz53uE1Mcok0KyXHUwMDFi17yWhoJccmguW+quM+3EqpxcdTAwMTVknvy4mepVzatH5N5Pzespq9p6g86FPFx1MDAwN2DSI6v6UNGbXHUwMDBi7zFcdTAwMDKEU+E+6urMXHUwMDE1/tVCpsZcdTAwMTafb1YjICTFilx1MDAwNW432uhcIpazPPhd29Vp4/43r7tcdTAwMTBcdTAwMThp04Cy/V7bXVx1MDAwNb6PjYZ2+s8qzMC/wrHYf1pcdTAwMWLYl846OmFgnzhOzcjA9kYsbuNcIik9XHUwMDFjvnXUXYtSwFx1MDAxOT9cdTAwMDMs5IJy0tw+bderzqTyVGtHXHUwMDEyg8jY7/D8XHUwMDE4LHia9W811vdcYp9LyYlE9Iatx68npdeB57+YO9jsdP6J/Jf/Z6bvMunDtn3/IZWAkrOM4+3TrPNQmD7MymQxS1x1MDAwZVx1MDAxZnQkXHUwMDA2a99Ln7nmxsv5xvBArTtJXHUwMDFmVtJcdTAwMDeouP18Y79IX0tbasPdYvlPqIxcdTAwMTbfyd576i6SPFx1MDAwNG1DPoRcdTAwMTFcdTAwMDFcdTAwMDE7I+ZToi/pauOxg7TnMFx1MDAxY49G022ofUN0ep1cdTAwMDRcXOjlbHuXgmf0N3ll3D+Cp1jbf2m476lzXHUwMDE0POembNAhvMMlXCLKQnRvXHUwMDFjhsh68TDvXHUwMDE1MuNcctOjj8nMKFZcdTAwMWHdTvyuk7NcdTAwMDSxh+LnNmlcdFxuQVx1MDAxNCHkxi6qMlx1MDAxNWU9q6BL9iVcdTAwMWQtjnbd/CxjM4XCXHUwMDBmLiqPyL1cdTAwMWZcdTAwMTeVp9tw9WVPOdSsL/i27M/vXHUwMDFjilx1MDAxNLExJsrzsa70oNXykalOqCD4nDHFztvsW6VpdqjBT/eoQUopUGf+TWeFn89ylpjFtUMto81cdTAwMDf6cjrUWnogr41cdTAwMDf9cXfxfawgQWAy1cdcdTAwMDFFnGZcdFa8cqOdOPLNIMZccvmXmVx1MDAxMdReJqVQXHUwMDAyKVx1MDAxNGe4lsnFXHUwMDEybVEuXHUwMDEynOCZ0WxOrsrbUc3vdsQxkPGy3oFayKRFeFtcdTAwMTKGPkMoKUZcdTAwMWZcdTAwMTbK61x1MDAxOFx1MDAxMqM3lv8nQ/4rMjLT5yh+9jNlXHUwMDFjitbVLkpCz2hE0cnm6zWazYNFObZsvqxj+072hlx1MDAxZFx1MDAxMS9cZjIhk/daXCLzxT2dKUOPWqdzKSjn4pI551x1MDAxZlx1MDAxYylzmVx1MDAxMe9ypEx7XGbCYDFcYqXErFxckJ1FcpzPVVx1MDAwZvDkmdNdXFxNlFn215I8XHUwMDA0k7HaqMhC48d2bFfaW13T5Vx1MDAxOJu7XHUwMDFkKUPPXHUwMDFkKWObWCpso9KISCQgZe5cdTAwMTVGqjZIP/RcdTAwMDGblTd1+Fx1MDAxMI/Ot2TV9ft5bfb7SVx1MDAwZlNjXFxmo0m161xcwe3bl1x1MDAwMvvF7fea9OXDXo6/6LpI1rB9bFk9bUpcYj5cdTAwMDNcdTAwMWKvZTFcdTAwMWRNTGf5XmJaqlx1MDAxNsqDXHRvpO5N1nyQw63wXHUwMDAyVlxiXX5C3b2/hM1/LVx1MDAxY3/R5Shsjn51Su3xsFBcdTAwMGZBYiVzrkXuqSvH6UYmzKJatINeZlx1MDAwZuVNcuJ3PGxcdTAwMTY5+vnDTpRccsKMv1x1MDAxZUjcb1Rk4UhlabxcdTAwMTdFNOpcclx1MDAwNtlkbJ14Tu26T/71qntE7r151T3ahntZ9pSz3vqCb8v+Mlx1MDAwZa54XHUwMDEyXYR9XHUwMDBlh1x1MDAxZFx1MDAxZuXgU0xcdTAwMTWoku7Bj/M2+1ZcdTAwMTOb5lCzT5/qhoA6XHUwMDAxXHUwMDAxRjfsYf1cdNmv+V/Dm/O5iDXI8Wi221x0wGBcdTAwMDY/7+i8SMpcdTAwMWOyeFx1MDAxMFD8R1x1MDAwNCHuzflNejhcdTAwMWJcdTAwMDS3mVBrXHUwMDE4hItBJFx1MDAxYlxyvfje/X5kYnhaXFwmLKTs2MRgmDDC5K1cdTAwMWLRplx1MDAxZpPpdVx1MDAwMY6pNmCkq7Uytdnc5jC6rE7UV1x1MDAwNlxm8qlcdTAwMDGDTlx1MDAxODC2vnzh0IFWXHS6lIJcdTAwMDP3xoszM/j1yDTXfHsozK5cdTAwMGVMKIyiNSnZXHUwMDA1bVx1MDAxOPzszHdW9YFDZz5D8vAvP/jQub59Z2/9v21oLc/H68HzS2FccubttbadlHvq619HXHUwMDE3vVvf/tnj4m01iFx1MDAwM1x1MDAxOFx1MDAxMIifldLbqW5cdTAwMDaD6Fx1MDAxY21bz+nwRq/sUzXo+z5o3FRoXHUwMDBlPfV9XHUwMDFj648jz1x1MDAwN1x1MDAxMVxiXHUwMDAwRC5cdMP7WXvEcvvgXHUwMDFh71xuk0RcIrHppvLTJc9VbMJy2PQ6V328J/uOZFx1MDAxY9l93JWM2zeGsVx1MDAwN1x0gEGjVTp3j/inrXhcdTAwMDc8XHUwMDE194mCppebwXgrXHUwMDFhjkzvXHLxe1owQ1xclaspu9pcYuZg+fetmGlr0+lcIthfLFb64p/IfzUzZvpcdTAwMWOlzzl5X9jmvFx1MDAxObtHXHUwMDExhO49W5PSSya1qrf3qU6sPKmlQ4XMLWvWLjtnzVxyXSD6/PZcdTAwMTKQMy6pYMyDktHfutsqXXsjWVx1MDAxM0XD+1xcXHUwMDAyTZ9ASEvm4Fx1MDAxNbogepa771xyufdcdTAwMTZl8GhcdTAwMWLua9lcdTAwMWSsrJ/o+PGlVM2Hy1x1MDAwZsNcdJSx5yts7piXI7lsbfpQXHUwMDBlRcbN2DqXnqdmf7uHRladxON8XHUwMDA0XHUwMDFhm0Wl8TRNgoy2qF1hXHUwMDE3spvOLFx1MDAwMvV9rlCIJHkhU+/p0+aH1j1ZIGK5QS7JjUdb7e44vv1/7V1Zb+LIXHUwMDE2fu9fgaZf5oVW7ctjICwhJCRAXHUwMDAyQSNFLGZcdIuJWcPV/PdbznQ6xNjGONgppoeWekZcdF0+XHUwMDE09Z3z1VlcdTAwMWLcwrnr1bhbusksj7BccrfN6zrJtc5lyVhcclxiPO/iXHSbXHUwMDA0W/eNgLtcdTAwMTOr10RmXHUwMDAy2VZcdTAwMTFYVDEy7plcdTAwMWZEOFx1MDAwNIqVXHUwMDFkUs/ie4q1JVx1MDAxMo56XHUwMDE2RL48Rlx1MDAwNu3mMJKHSd/9cipcdTAwMWa88aqi1s25Olx1MDAwM4mZYS23Y14xhMn2cN6dJqtOWX3B5p9cdTAwMWZcdTAwMDQ9O8NRyimzr3GBXHUwMDEx90JbNzXZb+GHUqpQXHUwMDFhQ9xZLbnuiNu5PGtQdqveXHUwMDA2XHUwMDE5opBGcHv2MyGN80on232p3/f79Ydk/mw8bUvz84Y/KupcdTAwMWWRuKdG3SPahtNa9tSo+2nt7ulQ94i2Yd+NwP2BXHUwMDAxpf1cdTAwMTcw921ivpvdJpDAXHUwMDEyXHUwMDA098L7f33aXHUwMDEyiZ3ejl9O3Vx1MDAwNcOUse1cdTAwMTKneKpeXHUwMDE52qKNUVP3UrebSPdcdTAwMTWdToxcdTAwMDazuVx1MDAxZCSLk7vvIb1O7r4rbCi8IW+XO5SEMk44XHUwMDBljjejfN6pX/Q7vGFtXqq398lZXG7nTy7qXHUwMDE1aZl5sLBcdTAwMTeEXHUwMDA0XGKgVF3cgOPyIFx1MDAxZO9cbrgowl76zddzylx1MDAxN1x1MDAwZX7Y09xxzFx1MDAwNGRcdTAwMDJcdTAwMDXv0vicbreTpYfWY7FpTmdlfobuh1x1MDAxZN3R52zyXHUwMDEwZc3oVk9MP+xcdTAwMDHBXHUwMDExXHUwMDExXGJH0KvqRELOW93YhH7I+yhdKNwpu+aFO0wwwvZcdTAwMTSLwLhrVa3sojhcXK+sWea5Pl5n0Vx1MDAxNdC+WNuJu0iNXjDgIckglSjm1ipcdTAwMWMhyvTDXHUwMDFk01x1MDAxYXcsrL3z7jSmXHUwMDBlILS/jeBss5RcXCxcdTAwMWZrueRiXHUwMDAwZXGczVZAPlx1MDAwN3XHnZNtRmrvXHUwMDAytUZFXHUwMDA0SFx0Ofx9M6zeXHUwMDBmNlx1MDAwNDq3RrWl84Wdb4hcdTAwMDZTz6Aok0ChXHUwMDBmseBFXHUwMDEwq0azjMjgrJVpiFE+9UK7synW37PiuOmxXGKNXuDsKolcdTAwMDDjLOZcYo2Rud80V7y1bHWsm1VdXGaq0+b7h/1wqHSI0EQk7qlFaFwi2oZTWXaf89z9ge/L/vy/Ly/hJkQ4f/pLXHUwMDEzI1xuJDxkLLD/LmuriVx1MDAxZD5uxr+83SpR91x1MDAwMGhcdTAwMTOhXHUwMDEz5EGBfdx3057V7Fx1MDAxOPYg3buJ+raUmUIw8dfkzyvoMa4oonnAe1xihJNcdTAwMTG5y/0q9WdcdTAwMTiRJ1x1MDAwZSEjXHUwMDA0cYxZcCA+rYupy/POVdfoN5836edSr3x7pz9cdTAwMTBcdTAwMWSUiH99V1x1MDAxYqFcdTAwMDArXHUwMDExI1x1MDAxMfhcdTAwMDH8zFx1MDAxNTafm7mHUS1bm8xAptWX5Uuy0JdcdTAwMTJFJO6pUaKItuFUlt1HidxcdTAwMWaoXHUwMDFmJaJb7Zd3+4tBpaklXHRe++O/zdqqYlx1MDAwNyfiXHUwMDE0/aCOx8ffhFx1MDAxZUhpT2ZHp+hcdTAwMWVcbkyLbixjqaRKqDWbo4T9Uzsr9q9J21x1MDAxY08t9WnUcUz8+eaIiZco7aFcdTAwMTVOouT+STw+xyeoXHUwMDEz98z3ZZBcIlx1MDAwZSlcdTAwMGVcdTAwMWW4pFx1MDAwZtnbiVV7XFw8XU66zXm9kFpOr3SH6053elxynEmC2jF8XHUwMDE5d7rvxMJQXFy1ijfWiuZH4Lq2wqtLfZlTROKeXHUwMDFhc4poXHUwMDFifvNl91x1MDAxMTL3XHUwMDA3akjImHeLZcxcdTAwMDBHXHUwMDA3JKb4b7K2+t3polx1MDAxMl+ehlx0MYFEiigqsfXhYkrsjj39VlGrTmI8mFxm7PnUsaZi7uEjO2VUrlx1MDAwMn+GW/mM41K4lPyQSF2d1CuF8qh5U5h2klx1MDAxN1V+27/Lau9cdTAwMWbeIVdcdTAwMWG4pZTaY+pcdTAwMWUkYnZLLY1i92ydXFzmL8vrdulikr8wWVFfclx1MDAxNZG4p0auXCLahlNZdlx1MDAxZlx1MDAwYnJ/oIYsyDs/XHUwMDE3Sk5cdTAwMTBcdTAwMTdcdTAwMThcdTAwMWMwacJ3m7VVxU631Nd3W4ZcdTAwMWNcdFx1MDAwZVx1MDAxOVx1MDAwNP9uXCJkTDpcdGsxmVx1MDAwZsZGYmzMrUF7XHUwMDE2K1x1MDAwZtpDXHUwMDFkdniQm7zhaVx1MDAxMEHeLmFcblx1MDAxOLDH8Fx1MDAwNU9cdTAwMTa8r8qRmZpcdTAwMGWHg9Vyjns1tl6hc92xt9NcdTAwMGVKXHUwMDAzXHUwMDFhpHSeJFx1MDAwMuJcYsLkfiaqYonMbDzJzpKdYuFx0MjINszoS4NcIlx1MDAxMvfUaFBE2/CbL7uPXbk/UD92xbybhlx1MDAxMCFcdTAwMTBRf4I7mfx3WVtcdTAwMDWvXHUwMDFmucJC2VWxPVx1MDAxM/xfyK1SxqTdtyfFJlx1MDAwNpNE+lwiVlq1h4o4aZVT1FBQQ8Cz4Fx0Qi5cdTAwMDBjXHUwMDA3XHUwMDE0XvSTL2LeWCFmsOy8y1xuw1aDbOKDWrjCXHUwMDBi6sh0SsIoSy9cdTAwMThygdpuqSFmlHLJUXylhoRcdTAwMGJhZ/tcdTAwMGJtpkmre8I6OVx1MDAxZDVfWqY5/E6lO1x1MDAxNr+wXHUwMDAww0XEcFx1MDAxOITeXHUwMDE4ZIBIXHUwMDAytmc77Vx1MDAwMyFcdTAwMDeli16zXHUwMDAwXHUwMDA254Pm4/2yNag0YYxjKEJWPzFcckGoji/ANiziXHUwMDA1IZSIa1JcdTAwMDDlPOFMvyooXHUwMDE3XHUwMDExw4FcdTAwMTB7znJQ31xuXCKCwuApvyA/u4R9nlx1MDAxZZ4n0ehiKWbt50Jad1xmSlx1MDAxMSdcdTAwMDbdpjm41txDwlx1MDAxOSExY5AxXHUwMDAwNel3MTSsiTH6jrF+05e2RFx1MDAwYoU57E0+OaeUweBWrzF7eb5mfby4bDXOX8jtslKTJ9fjXHUwMDAyiihcdTAwMDcrsEDF9oxKom56KN5ie7u1hvx0R6fjXHUwMDAwbmHXkSStn6NcdTAwMDK/I6Th3DM3XHUwMDE5Q0JQekGQKFx1MDAxYVwiJT2gzVOuXHUwMDBmZ1x1MDAxOWs4Na117raGXHUwMDE4vU3WY2yrdiRcdTAwMTDySKlnsFYzXHUwMDE4SSFozF2egKRCXHUwMDE3q+c84Jhi7UFoy1x1MDAxOFx1MDAwZYTYM7GHXHUwMDAyjFx1MDAwNVx1MDAxNjw494TkYlxyqrg8ypiXfFx1MDAwNs/S7TJt6Vx1MDAwZcKdgJZcdTAwMDaWUN29JVVcdTAwMGaKsVx1MDAwMcYrXG5cdN5u0KFcdTAwMTdcbrnQXHUwMDFmhUrGcCiEnqZQ3UAoJExcdTAwMDSPOphn4+Hj9SWy2rMxMVPTrmnmY+yDcSRcdTAwMTRqYFxuOVx1MDAwMIRLXHUwMDE0RVx1MDAxZlxmP1x1MDAxMKrLx1x1MDAxNma0XHUwMDAyIcH6eWHcZFxmaVxuvX2hUkCkjCFccp5Y1SxnrWU611x1MDAxY9TKgFxcJ9v1eVdmdUfhbun116NcdTAwMTBiyuzh5rHGIyTgWOjSgs1xwiGX2qPwVUZfXHUwMDE0es613Xa47VxmvVx1MDAxNFx1MDAwNFxiKYMzUv+BRLpG4J0oRFx1MDAxMZZ5XHUwMDA0S24kXHUwMDAwYXUpZyFAXHUwMDE4cratXHJCilx0g6FAXHUwMDE4cLat/3CaxPZkbJdcdTAwMTnWP3/wKyXGc1x1MDAxNPaHZ9bNh5SsrFx1MDAxZY3yUMxo+p6wfou7PdN9cPbOQ09pTO6Hd1x1MDAxZm9cdTAwMTS2p8JAnJPXWa2BXHUwMDE1hv+8XHUwMDAyTVx1MDAxNYay0j844Fx1MDAxMDAubDvzXHUwMDFlR/+pPj7+mjtcdTAwMDQ7oklcdTAwMTc/qKBcXDC16Vxmqce5KZdcdTAwMGZvYWy3vJ9TiVx1MDAwMNr2XHUwMDA3/V7KRlx1MDAwMZ9ioaR5//tYyse/o/+nZTglXeR5Vl1+qV5cdTAwMDfqKt80cuntdINcZiNcItRcdTAwMWKCq6yLLsW3XHUwMDBm48tcdTAwMWPN5jjqXHUwMDAw4ymfWeuusnZ6Pcc9mYzKXHUwMDFm8sPLqYZcdTAwMTDAWGIsQFx1MDAwNFx1MDAxN49fh8klNff5IT1JXZlcdTAwMDVC71nlptTZ0HzekVJcdTAwMWIm4/e/ZdV7q+OrWyHOxmWWKpu99qJUqGWOMUmrXHUwMDAxS2hcdTAwMDRcdTAwMWYlvX+q1Ju92fUkt+FHWFeuZc+oVpe0fDlP8pfO6qY58UjTPmjdy2S6P2rXXG6V4Thdblx1MDAxNKyzy9Tw5lxi66azi1x1MDAxNV6lXHUwMDBimbbsXHUwMDFhRnuSrlx1MDAwZZKbI6y7XHUwMDE41+S6nM+WXHUwMDFlzMzwXHUwMDAy3qzLk4ZHMeCRxuC6XHUwMDFmwKDH4TzZXHUwMDFj5jbj26FSXHUwMDFm8Fx1MDAxMfdcbst7jyHDXHUwMDA3bcNcdTAwMDMrtVx1MDAxZq5u58VyboNnm0b2XHSwRrB134yWN//hRDHDQzIwfe2fl5NNeuc6KV1cdTAwMGJcdTAwMDFWZjew5fPXXHUwMDEy2lq+j/n1XHUwMDE4wbhbarl1cWBcdTAwMTBzQXDMg1x1MDAwZVxiJFvVXHUwMDA1UWfYV43ZPNFcdTAwMWONXHUwMDEyXHUwMDEzY5X4Z9tMa1x1MDAxZW9cdTAwMDHjXHUwMDFltuZ0snmJ7Fx1MDAwYj7PizJC3s41xlx1MDAwMMJcdTAwMTCRXHUwMDAzXHUwMDEyn3zVnK7wczjXcIRcdTAwMWVut0TDneJFSKlQL1x1MDAwZUKEmT5x3eWEMlx1MDAxY+V1925115tmW9Vekjda99n23bn5lPK4amLH61jXXX+wJbb9eyFEOKXbLvJ6+7ft/4ZQKNTb+Vx1MDAwNtXFmVxiXGKDXHUwMDA3zfxcdI6mXHUwMDFhXHUwMDA1Qudd9stVXG5cdTAwMTL2rDBcdTAwMTZmrP2nVMqBXGbyUJVcdTAwMTJcdTAwMTjOXHUwMDExqpRk9Y6Ru8KmkoVnnafVWS+32MD/VMrBKsW/z4Lwjlx1MDAwMVx1MDAxMooxXHUwMDA09IAg4EWpMYaDYk30piVebFxyUvVNeqW7VqHgo1KB0q/PQoujj1PxXHUwMDBl0yrb3rj3xrtkR7FIwFx1MDAxNFNcdTAwMTEx1uFcdTAwMTIuXHUwMDAxwIBuXHUwMDFkiIhupph4dlx1MDAxN4ScXHUwMDEzSZCQwa+m4qE6SKfW/fSzyTat6n06n+Mx1qNcdTAwMWWpt4eMclx1MDAwMp9wiVx1MDAwZW3dP9+SsFx1MDAxOGSKqsaahGVcdTAwMWY5JsVnL6YocLpH3lxczIzE0DCmXiOeXHUwMDEx+/CPos7t+ChQeEWOJfNcdTAwMDRcdTAwMTXEjFx1MDAwM1xiUXB6XGLM7iXH/TzcTHOEiLFYjc2zU1x1MDAwM1x1MDAxNVx1MDAwMpHSw0BccnMglJBKiqLIL/7FXHUwMDAzXFxcdTAwMWOY2Z7s3CxcdTAwMWaL04tVulJcdTAwMWNO71hJ3G2RJ6ea/vWLr+mYXHUwMDEzkbin1jEnom34zZfdXHUwMDE3gXB/4Puybyzb24hBYIeuo+ZNzIc3XHUwMDExiVx1MDAxOKBYXHUwMDA2V/H+26ytiv/o0kdcdTAwMDB/+egwiCSwVXysXHUwMDFl/Vx1MDAxMGfOjThcdTAwMDX36F9ccnqWXHUwMDEyINExllx0Y7JMdC1znPhrYpnT2dyY2KO5eqZhjVx1MDAwNq6camtrjuri30NTnFxcy/Uz7H6C8CSMePe0olx1MDAxOELB2Vx1MDAwMVx1MDAxN1x1MDAxYtmqmlx1MDAwZrVMXHUwMDAxXlx1MDAwYpFXn6DxfPP8qD9AXHUwMDFkXHUwMDFjXGbGnW7iMlx1MDAxOIMjRcJEXHUwMDE0ee1+dozyYrXCl4NBtdApZlx1MDAwN+3s8I619KVgXHUwMDExiXtqXHUwMDE0LKJt+G/ZKJbdx+zcXHUwMDFmeFx1MDAxOLPjXHUwMDEwXHUwMDFjUiNcdTAwMTaO2Vx0z1xcXHJGmEBcdTAwMDe0Z/PfY22thoPWQVx1MDAxZFI1OGFcdTAwMTBhXHUwMDE548CNUCfuc7zurNNRXHUwMDE0aDQyXHUwMDE381mia1qvKVx1MDAxMJ3mdFx1MDAxYW+yxlx1MDAxZbLjZHI+Uv9cdTAwMDPAbz9R/Yf6WWWudviPt0CT+lx1MDAxMlx1MDAwN503v+HPc/DHcmCsUrun6Hv39WWv+VxuaVx1MDAxYj6G/Vx1MDAwNf7v729//1x1MDAxZtBXXG5bIn0=</svg>
